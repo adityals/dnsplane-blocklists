@@ -1,8 +1,14 @@
-# Verified judol domains (>=2 HTTP markers). Served to the resolver. Machine-managed by scripts/harvest-judol.js.
+# Title: dnsplane — Judol Verified Blocklist
+# Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
+# Homepage: https://github.com/adityals/dnsplane
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 24 Jul 2026 20:54 UTC
+# Version: 2026.0724.2054.21
+# Syntax: Domains (without subdomains)
+# Number of entries: 1087
+#
 070slot.vip
 070slots.vip
-0nooqopl9p6rtpcgm2vcknhskln91619.top
-0o8tnjhtcaiqs5rortpjc7s4b6s0232u.xyz
 10001slot.xyz
 108slot.xyz
 1112slot.xyz
@@ -26,7 +32,6 @@
 1xslots-581.top
 1xslots-742.top
 1xslots-838.top
-2026slot.icu
 222toto.xyz
 247supertotobet.icu
 248supertotobet.icu
@@ -45,21 +50,15 @@
 456slot.xyz
 531slot.vip
 567slots.online
-57e64dnoru9q71pbn6854hrtpn9ma6bd.top
-59593200720rtpoergmlw909.top
 603slot.xyz
-660fk9gj6lf7o43dmvd6vnvl05rtp6be.top
-6mbn1go077peslk1vm7lrtppfnnqq8o0.top
 738slot.vip
 738slots.vip
 777toto.xyz
 798slot.xyz
-7hlt2rtplv6sde6cikdn4j7glsfqa515.top
 7slot90916.top
 8218slot.xyz
 8368slot.vip
 838slot.xyz
-843ek3lub0adrtpiq6t5uno6ncghinlr.top
 8728slots.vip
 888-slot1.online
 888-slotsv.online
@@ -73,15 +72,12 @@
 888slotv.online
 898slot.xyz
 899slot.xyz
-8nd9rtpalrugjppfjsi0954cg7l38u3s.xyz
 988saftarslot.xyz
 988slot.xyz
 98toto368top.site
-998mm93i64ptselrnbartph0gjcpo04g.top
 999slot1.online
 999slots.xyz
 999slotv.online
-9a4gvnlghv8183s3bqidc3ie2vbbsrtp.top
 abutogel117jpx.site
 abutogel158jp.site
 abutogel178jp.site
@@ -148,7 +144,6 @@ bayitotoku254jpx.site
 bayitotoku255jpx.site
 bayitotoku256jpx.site
 bebtoto100.click
-bebtoto100.xyz
 benihtoto371.site
 benihtoto372.site
 benihtoto373.site
@@ -357,7 +352,6 @@ f200m-slot.online
 f200m-slot.sbs
 f200m-slot.site
 f200m-slot.xyz
-frhttorti2rtp14tsj5ppask4f4n698h.top
 gacor108win.click
 gacor138.site
 gacor138.xyz
@@ -398,7 +392,6 @@ gengtotoku272.site
 gengtotoku273.site
 gengtotoku274.site
 gengtotoku275.site
-gfu9392dprtpft5tf4f945mq4mmht9q4.top
 glory777slot.xyz
 goltogel303win.site
 goltogel354win.site
@@ -471,7 +464,6 @@ hujantotoko735jpx.site
 hujantotoko736jpx.site
 hujantotoko737jpx.site
 hujantotoko738jpx.site
-imq4qep6b5pn92330rtpbee00jh3epdo.site
 inatogel001jpx.site
 inatogel014jpx.site
 inatogel020jpx.site
@@ -535,7 +527,6 @@ inatogelek537rba.site
 inatogelek725xjb.site
 inatogelek755rba.site
 inatogelek755wuy.site
-inatogelek755xrs.site
 inatogelek755zfj.site
 inatogelek774xfc.site
 inatogelek774xhb.site
@@ -573,7 +564,6 @@ jeboltogel508jpx.site
 jeboltogel599jpx.site
 jeboltogel736jpx.site
 jeboltogel808jpx.site
-jili333slotapp.click
 jili333slotslogin.click
 jili777slot.site
 jilislot777.click
@@ -688,7 +678,6 @@ kastotox055.site
 kdslot777.online
 kdslot777.site
 kdslot888.xyz
-kebuntoto100.xyz
 kepritogel001jpx.site
 kepritogel020jpx.site
 kepritogel117jpx.site
@@ -704,7 +693,6 @@ kingdomtoto857dm.site
 kingdomtotowdx043.site
 kingkongtotohoki896jp.site
 kiratoto256gil.site
-kjn6f4rtpua0jce44lpfi5oa571shktt.top
 kkslot-777demo.top
 kkslot777bonum.top
 kkslot777credo.top
@@ -789,17 +777,14 @@ kpktotoko168tri.site
 kuningtoto8080cool.site
 kvtoto292.site
 kvtoto893.site
-l69gjbrtp8e8i564p1dg426o3of04uik.top
 lapak898rtp.site
 latoto8989.xyz
 lembagatoto809jpx.site
 lembagatoto810jpx.site
 lembagatoto811jpx.site
 lembagatoto812jpx.site
-lgasqrrfvq2qf0qj96b23608n9h4srtp.top
 linetogel123a.site
 link-totoslot288.sbs
-lm1frtpeqih7c259cokmboe9k8cilhhq.top
 logototowdx036.site
 logototowdx037.site
 logototowdx038.site
@@ -984,12 +969,9 @@ maxwin960xhoki.site
 maxwin961xhoki.site
 maxwin962xhoki.site
 maxwinguncel2026.cfd
-me777slot.click
 mega118rtp.online
 menangslot777.online
 menara1889rtp.site
-mf7ih9cguq2rtpv4oo826bdqfidtltom.top
-mhht9fudml668r4nq0lrtp2q6lmdqob7.cfd
 mikatoto599jpx.site
 mineraltoto136.site
 mineraltoto137.site
@@ -1061,6 +1043,7 @@ rupiahtotowdx039.site
 rupiahtotowdx040.site
 rupiahtotowdx041.site
 rupiahtotowdx042.site
+rupiahtotowdx043.site
 rupiahtotowdx044.site
 scatter303.xyz
 scatter333max.online
