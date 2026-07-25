@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 25 Jul 2026 08:11 UTC
-# Version: 2026.0725.0811.00
+# Last modified: 25 Jul 2026 13:38 UTC
+# Version: 2026.0725.1338.27
 # Syntax: Domains (without subdomains)
-# Number of entries: 1145
+# Number of entries: 1193
 #
 070slot.vip
 070slots.vip
@@ -49,38 +49,83 @@
 250supertotobet.icu
 251supertotobet.icu
 252supertotobet.icu
+25belizeus.top
+26belizeus.top
+29totosg2.top
+29totosg3.top
 3126slot.xyz
 333slot.xyz
 337slot.xyz
 338slot2.site
+3446slotsq.com
 356slot.xyz
 365-slotv.online
 365slot.click
+365slots.pro
+365slotspk.com
 380slot.vip
+38rp888slot.club
 456slot.xyz
+4pkrslot.click
+512slot.net
+512slots.net
+513slot.bet
+513slot.club
+528slot.net
+531slot.bet
 531slot.vip
+531slotq.com
+539slot.net
 567slots.online
+567slotsl.com
+589slot.win
 603slot.xyz
+618slotapk.net
+618slote.com
+619slot.org
+678slots.bid
 738slot.vip
 738slots.vip
+777slot.team
+777slots.blog
+777slots.pro
+777slotsapp.info
+777slotslogin.com
+777slotvh.com
 777toto.xyz
+789slots.bid
 798slot.xyz
 7slot90916.top
 8218slot.xyz
 8368slot.vip
 838slot.xyz
+859slot.net
 8728slots.vip
 888-slot1.online
 888-slotsv.online
 888-slotv.online
+8888kfslots.com
+8888slot.bid
 8888slot.xyz
+8888slots.win
 888roxoslots.site
+888slotapk.bet
+888slotapk.pro
+888slotapp.app
+888slotcon.bet
+888slotcon.pro
 888slotpaz.site
+888slots.page
+888slots.pro
+888slots.wine
 888slots.xyz
 888slots1.online
+888slotsapp.com
 888slotsv.online
 888slotv.online
+888slotvip.net
 898slot.xyz
+899slot.bet
 899slot.xyz
 988saftarslot.xyz
 988slot.xyz
@@ -88,6 +133,9 @@
 999slot1.online
 999slots.xyz
 999slotv.online
+99slot.click
+aatotoxhki5.site
+abdi126slot.club
 abutogel117jpx.site
 abutogel158jp.site
 abutogel178jp.site
