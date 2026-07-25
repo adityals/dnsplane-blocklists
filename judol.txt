@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 25 Jul 2026 05:47 UTC
-# Version: 2026.0725.0547.16
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 25 Jul 2026 08:11 UTC
+# Version: 2026.0725.0811.00
 # Syntax: Domains (without subdomains)
-# Number of entries: 1128
+# Number of entries: 1145
 #
 070slot.vip
 070slots.vip
@@ -30,14 +30,18 @@
 171slots.vip
 178togel.xyz
 180slot.vip
+180slotw.com
 188slot.xyz
 1wincasinoofficialslots221.xyz
+1xslots-009.top
 1xslots-180.top
 1xslots-325.top
 1xslots-531.top
 1xslots-581.top
 1xslots-742.top
 1xslots-838.top
+2026winslots.com
+20rtppiton786.pro
 222toto.xyz
 247supertotobet.icu
 248supertotobet.icu
@@ -112,6 +116,7 @@ alexistoto615.sbs
 alfabetslotcuan111.site
 allslot365z.click
 altogelwdx043.site
+altogelwdx045.site
 api288infortp.online
 apigacor880jos.site
 apigacor881kit.site
@@ -123,6 +128,7 @@ aquaslot369.xyz
 arenagacor22726.xyz
 artphotostudio2003.lol
 arwanatoto879.site
+asiaslot777rtp.online
 asiktotox451.site
 awslot777.lol
 bahis-slot-1000.icu
@@ -280,6 +286,7 @@ congtogelek218sx.site
 congtogelek218sy.site
 congtogelek218zr.site
 congtogelek218zt.site
+congtoto177owl.site
 cratosslot94437.top
 danatoto599jpx.site
 danatotowdx043.site
@@ -800,6 +807,7 @@ logototowdx041.site
 logototowdx042.site
 logototowdx043.site
 logototowdx044.site
+logototowdx045.site
 ltdtoto131.site
 ltdtoto132.site
 ltdtoto133.site
@@ -870,6 +878,7 @@ mahjong850jpx.site
 mahjongdh131.site
 mahjongdh132.site
 mahjongs275jp.site
+mahjongwaysa222rnp.site
 mahjongwin138alt.vip
 mahjongwin138s.vip
 mahjongwin138t.vip
@@ -929,6 +938,8 @@ maxwin113xcuan.site
 maxwin116xcuan.site
 maxwin138fiksjp.site
 maxwin138fix.site
+maxwin138fxj.site
+maxwin138fxjp.site
 maxwin139.online
 maxwin178eu.sbs
 maxwin178he.sbs
@@ -1024,6 +1035,7 @@ rtpaloy500.site
 rtpbisnis555.vip
 rtpbtv168.xyz
 rtpcandu123mr.click
+rtpfruit777.cfd
 rtpfungame-777.top
 rtpgasing777.click
 rtphokicuan168.online
@@ -1031,6 +1043,8 @@ rtpkkslot-777.top
 rtpleci123a.xyz
 rtpnex777bagus.site
 rtpp-tumi123.xyz
+rtpparis123apel.xyz
+rtpparis123kelapa.xyz
 rtppjackpot-168.top
 rtppolahaloy500.site
 rtpptumi123.click
@@ -1051,6 +1065,7 @@ rupiahtotowdx041.site
 rupiahtotowdx042.site
 rupiahtotowdx043.site
 rupiahtotowdx044.site
+rupiahtotowdx045.site
 scatter303.xyz
 scatter333max.online
 scatter333max.site
@@ -1081,6 +1096,7 @@ toto133.site
 toto200.site
 toto234bagus.top
 toto234enak.click
+toto234enak.top
 toto238.xyz
 toto268.xyz
 toto300.site
@@ -1118,6 +1134,7 @@ watitotowdx042.site
 watitotowdx043.site
 we777slot.xyz
 winslot888.xyz
+wongtogel177jet.site
 yoktogelwdx038.site
 yoktogelwdx039.site
 yoktogelwdx040.site
