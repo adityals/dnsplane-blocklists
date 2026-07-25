@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 24 Jul 2026 20:54 UTC
-# Version: 2026.0724.2054.21
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 25 Jul 2026 02:48 UTC
+# Version: 2026.0725.0248.39
 # Syntax: Domains (without subdomains)
-# Number of entries: 1087
+# Number of entries: 1128
 #
 070slot.vip
 070slots.vip
@@ -18,8 +18,14 @@
 138vegas-gacor.lol
 138vegas-gacor.vip
 138vegas-gacor.xyz
+139slots.app
 158togel.xyz
+1617toto.club
+1688ruayslot1.com
+168slots.bet
+168slots.win
 168slotx.click
+1715winslots.com
 171slot.vip
 171slots.vip
 178togel.xyz
@@ -1094,3 +1100,38 @@ toto88wdx043.site
 toto999.online
 totobet805.vip
 ungutoto493nix.site
+uus777slot.xyz
+v888toto.xyz
+vio777jbslot.site
+vio777lbslot.site
+vio777pbslot.site
+vio777vbslot.site
+vn888slot.xyz
+waktogel333xjp.site
+watitotowdx036.site
+watitotowdx037.site
+watitotowdx038.site
+watitotowdx039.site
+watitotowdx040.site
+watitotowdx041.site
+watitotowdx042.site
+watitotowdx043.site
+we777slot.xyz
+winslot888.xyz
+yoktogelwdx038.site
+yoktogelwdx039.site
+yoktogelwdx040.site
+yoktogelwdx041.site
+yoktogelwdx042.site
+zeus007juara.online
+zeus1381bgg.site
+zeus1385vfs.site
+zeus1387dcv.cfd
+zeus138mv.site
+zeus138wdx036.site
+zeus138wdx038.site
+zeus138wdx040.site
+zeus138wdx041.site
+zeus138xlv.site
+zeus139wdx039.site
+zeus777.site
