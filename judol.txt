@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 25 Jul 2026 13:38 UTC
-# Version: 2026.0725.1338.27
+# Last modified: 25 Jul 2026 19:11 UTC
+# Version: 2026.0725.1911.28
 # Syntax: Domains (without subdomains)
-# Number of entries: 1193
+# Number of entries: 1258
 #
 070slot.vip
 070slots.vip
@@ -140,36 +140,101 @@ abutogel117jpx.site
 abutogel158jp.site
 abutogel178jp.site
 abutogel369jpx.site
+abutogel3xcv.site
+abutogel3yuj.site
 abutogel599jpx.site
 abutogel736jpx.site
 abutogel808jpx.site
+abutogel8bh.cfd
+abutogel8ng.sbs
+abutogelxpga.site
+ace189slot.com
+ada777slot.club
 afb365gacor.top
+agenslot1389.com
+agenslot138apk.com
 agenslot188.online
+agenslotez338.club
+agenslotmaxwin.online
+ajototocair.site
+ak999slotsapk.com
+akatsuki189slot.com
+akiratoto.vip
+aks1300slot.club
+aks3004slot.club
+alexaslot138slot.com
 alexistogel001jpx.site
 alexistogel020jpx.site
 alexistogel117jpx.site
 alexistogel369jpx.site
+alexistogel3vhb.site
 alexistogel499jpx.site
 alexistogel508jpx.site
 alexistogel599jpx.site
+alexistogel5vcd.cfd
 alexistogel736jpx.site
 alexistogel808jpx.site
+alexistogel88maxwin.site
+alexistogel8ghj.sbs
+alexistogel8gtr.site
+alexistogel8vgd.cfd
+alexistoto030.live
+alexistoto121.live
 alexistoto168ms.site
 alexistoto178rh.site
 alexistoto178sa.site
+alexistoto214.live
+alexistoto241.live
 alexistoto247.cfd
 alexistoto328gc.site
 alexistoto369.click
+alexistoto388.live
+alexistoto427.live
+alexistoto449.live
+alexistoto465.live
+alexistoto478.live
+alexistoto615.live
 alexistoto615.sbs
+alexistoto621.live
+alexistoto637.live
+alexistoto743.live
+alexsistoto219.live
+alexsistoto854.live
 alfabetslotcuan111.site
+allslot365.world
 allslot365z.click
+alt123toto.com
 altogelwdx043.site
 altogelwdx045.site
+angelslotx1.click
+angelslotx1.xyz
+angkasa189slot.com
+angrtp.online
+anjing138slot.com
+anjing365slot.com
+antamtotox44win.site
+antamtotoxhoks6.site
+antamtotoxjpd45.site
+antamtotoxwin44.site
+apex138slot.com
+apex168slot.com
 api288infortp.online
+api777slot.com
+apigacor123bet.shop
 apigacor880jos.site
 apigacor881kit.site
 apigacor887jp.site
+apigacor889str.live
+apigacor88co.site
+apigacor88cola.site
+apigacor88dov.site
+apigacor88fex.site
+apigacor88fxhoki.site
+apigacor88hux.site
+apigacor88rox.site
+apigacor88waf.site
 apigacor899smb.site
+apigacordman.site
 apigacors800xbow.site
 apigacors880rwq.site
 aquaslot369.xyz
