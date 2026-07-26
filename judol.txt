@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 26 Jul 2026 13:27 UTC
-# Version: 2026.0726.1327.38
+# Last modified: 26 Jul 2026 19:15 UTC
+# Version: 2026.0726.1915.08
 # Syntax: Domains (without subdomains)
-# Number of entries: 1401
+# Number of entries: 1449
 #
 070slot.vip
 070slotq.com
@@ -387,8 +387,17 @@ berlintoto590.site
 best808slot.com
 bet111slotlogin.com
 bettoto88cuan111.site
+bewokwinjbslot.site
+bewokwinlbslot.site
+bewokwinpbslot.site
+bewokwinvbslot.site
 bgslot789.click
 bgslot789x.click
+big777slot.club
+bingo120slot.club
+bintang123slot.org
+biroslotmampir.cfd
+birutoto1rt.cfd
 birutoto258az.site
 birutoto258er.site
 birutoto258es.site
@@ -397,7 +406,11 @@ birutoto258jp.site
 birutoto258qs.site
 birutoto258tr.site
 birutoto258wd.site
+birutoto3edr.cfd
 birutoto726max.site
+birutotoasd.site
+birutotoasw.site
+bisnis680slot.club
 bobatoto001jpx.site
 bobatoto020jpx.site
 bobatoto117jpx.site
@@ -423,32 +436,67 @@ bobatoto177ind.site
 bobatoto178ind.site
 bobatoto179ind.site
 bobatoto180ind.site
+bobatoto23wed.site
 bobatoto258il.site
 bobatoto258qs.site
 bobatoto295tgr.site
 bobatoto369jpx.site
+bobatoto3re.sbs
 bobatoto499jpx.site
 bobatoto508jpx.site
 bobatoto599jpx.site
 bobatoto736jpx.site
 bobatoto808jpx.site
+bobatotox13jp.site
+bobatotox18top.site
+bobatotox28top.site
+bobatotoxgas30.site
+bobatotoxjp13.site
+bobatotoxpro88.site
+bobatotoxwds2.site
+bobatotoxwint45.site
+bocorantoto.vip
+bom388slot.club
 bonanza138pbslot.site
 bonanza168jbslot.site
 bonanza288vbslot.site
 bonanza338lbslot.site
+bonbon138slot.club
 bonus-slot-2026.click
+bos288toto.club
 botoltotoko113jp.site
+bravo999slot.club
+brilho777slots.com
 briototo111.online
+bubutoto004.com
+buktijackpot-rakyatslot.site
+bulan286slot.club
+bulantoto158vip.live
+bundaslotn.online
+bundaslotn.xyz
+cabemanis88rtp.xyz
 cahayatoto001jpx.site
 cahayatoto020jpx.site
 cahayatoto117jpx.site
 cahayatoto369jpx.site
 cahayatoto499jpx.site
+cahayatoto4vgh.sbs
+cahayatoto4wsa.sbs
 cahayatoto508jpx.site
 cahayatoto599jpx.site
 cahayatoto736jpx.site
+cahayatoto7es.sbs
+cahayatoto7jm.cfd
 cahayatoto808jpx.site
 cahayatoto943sol.site
+cahayatotoku201x.cyou
+cahayatotoku202x.cyou
+cahayatotoku203x.cyou
+cahayatotoku204x.cyou
+cahayatotoku205x.cyou
+cahayatotoku206x.cyou
+cahayatotoku207x.cyou
+cahayatotoku208x.cyou
 caritogel789aa.site
 caritogel789ad.site
 caritogel789ai.site
