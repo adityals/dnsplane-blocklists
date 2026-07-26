@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 26 Jul 2026 06:10 UTC
-# Version: 2026.0726.0610.02
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 26 Jul 2026 08:29 UTC
+# Version: 2026.0726.0829.29
 # Syntax: Domains (without subdomains)
-# Number of entries: 1316
+# Number of entries: 1346
 #
 070slot.vip
 070slots.vip
@@ -205,7 +205,9 @@ allslot365.world
 allslot365z.click
 alt123toto.com
 altogelwdx043.site
+altogelwdx044.site
 altogelwdx045.site
+altogelwdx046.site
 angelslotx1.click
 angelslotx1.xyz
 angkasa189slot.com
@@ -548,11 +550,16 @@ gacor577.vip
 gacor668xgcrs1.site
 gacor77wdx043.site
 gacor77wdx044.site
+gacor77wdx045.site
 gacor808.online
 gacor8800.xyz
 gacor881it.site
 gacorhokie777.site
+gacorslot138-idolaku.click
+gacorslot138-idolaku.lol
+gacorslot138-neo.click
 gacorslot168.xyz
+gacorx500piv.site
 gacorx500qvrl.site
 gacorx500rqxv.site
 gadunslot133.site
@@ -782,6 +789,7 @@ jualtoto233.site
 jualtoto235.site
 jualtoto258il.site
 jualtoto258qs.site
+jualtoto711pop.site
 jualtoto781.site
 jualtoto792.site
 jualtotoku230jta.site
@@ -840,6 +848,7 @@ kangtotoko209jp.site
 kangtotoko210jp.site
 kangtotoko211jp.site
 kangtotoko212jp.site
+kangtotoku776jp.site
 kangtototo161mw.site
 kangtotowin123.click
 kartutoto188.site
@@ -870,6 +879,7 @@ kepritogel499jpx.site
 kepritogel508jpx.site
 kepritogel599jpx.site
 kepritogel736jpx.site
+kijang500-rtp6.site
 kingdomtoto112az.site
 kingdomtoto258il.site
 kingdomtoto258qs.site
@@ -1008,9 +1018,12 @@ lunatogel041jepe.site
 lunatogel042jepe.site
 lunatogel043jepe.site
 lunatogel044jepe.site
+lunatogel045jepe.site
+lunatogel046jepe.site
 lunatogelxgcro550.site
 lusatoto123hjp.site
 macauslot188.online
+mafiatogel365web.site
 mafiatoto282.site
 mafiatoto283.site
 mafiatoto285.site
@@ -1044,6 +1057,7 @@ mahjong612jpx.site
 mahjong666jpx.site
 mahjong667jpx.site
 mahjong669jpx.site
+mahjong671jpx.site
 mahjong693jp.site
 mahjong850jpx.site
 mahjongdh131.site
@@ -1066,6 +1080,7 @@ mahjongx789pxgas.site
 mahjongz500gt.site
 malitotonews2026.xyz
 mandalatoto318gt.site
+mastertogel335hub.site
 mastertotohoki329jpx.site
 mastertotohoki330jpx.site
 mastertotohoki331jpx.site
@@ -1094,6 +1109,8 @@ mawartotowdx041.site
 mawartotowdx042.site
 mawartotowdx043.site
 mawartotowdx044.site
+mawartotowdx045.site
+mawartotowdx046.site
 mawartotowdx727.site
 mawartotowdx939.site
 maxslot889xptc.site
@@ -1111,6 +1128,8 @@ maxwin138fiksjp.site
 maxwin138fix.site
 maxwin138fxj.site
 maxwin138fxjp.site
+maxwin138fxko.site
+maxwin138xfikjp.site
 maxwin139.online
 maxwin178eu.sbs
 maxwin178he.sbs
@@ -1157,6 +1176,7 @@ maxwin960xhoki.site
 maxwin961xhoki.site
 maxwin962xhoki.site
 maxwinguncel2026.cfd
+maxwinlucky550.site
 mega118rtp.online
 menangslot777.online
 menara1889rtp.site
@@ -1172,6 +1192,7 @@ mineraltoto361.site
 olxtoto265hot.click
 olxtotobet123.click
 omslot999.xyz
+operatogel304pop.site
 p2000slot.xyz
 pg777slot.xyz
 pragmatic188oli.site
@@ -1215,7 +1236,10 @@ rtpleci123a.xyz
 rtpnex777bagus.site
 rtpp-tumi123.xyz
 rtpparis123apel.xyz
+rtpparis123ceri.xyz
 rtpparis123kelapa.xyz
+rtpparis123plum.xyz
+rtpparis123timun.xyz
 rtppjackpot-168.top
 rtppolahaloy500.site
 rtpptumi123.click
@@ -1240,6 +1264,7 @@ rupiahtotowdx045.site
 scatter303.xyz
 scatter333max.online
 scatter333max.site
+scatter888.click
 situslot777.click
 slot178.xyz
 slot288.xyz
@@ -1262,9 +1287,14 @@ togel123.xyz
 togel389kka.site
 togel389klq.site
 top1totoxhoka105.site
+toto120hot.click
+toto120idbet.click
 toto1212.site
+toto121bet.click
 toto133.site
 toto200.site
+toto234bagus.click
+toto234bagus.sbs
 toto234bagus.top
 toto234enak.click
 toto234enak.top
