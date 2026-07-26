@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 25 Jul 2026 19:11 UTC
-# Version: 2026.0725.1911.28
+# Last modified: 26 Jul 2026 02:59 UTC
+# Version: 2026.0726.0259.31
 # Syntax: Domains (without subdomains)
-# Number of entries: 1258
+# Number of entries: 1316
 #
 070slot.vip
 070slots.vip
@@ -237,15 +237,51 @@ apigacor899smb.site
 apigacordman.site
 apigacors800xbow.site
 apigacors880rwq.site
+apizeus777rp.com
+apizeus777slot.com
+apkwongtotodepo.site
+apkwongtotonew.site
+apo388slot.com
+appletotopasti.site
+aquaslot369.club
 aquaslot369.xyz
+arab777slot.com
 arenagacor22726.xyz
+arjuna189slot.com
 artphotostudio2003.lol
+arwana500slot.com
 arwanatoto879.site
+as388slot.club
+asia123slot.org
+asia200toto.com
+asiabet77jbslot.site
+asiabet77lbslot.site
+asiabet77pbslot.site
+asiabet77vbslot.site
 asiaslot777rtp.online
 asiktotox451.site
+aston303slot.club
+asupantotong.xyz
+atlas189slot.com
+avtoto-manja.online
+awan128slot.com
 awslot777.lol
+axes777slot.club
+axl777slot.com
+ayam168slot.com
+ayam365slot.com
+azul188slot.club
+babahtoto1.xyz
+babahtoto2.xyz
+babahtoto3.xyz
+babahtotojitu.xyz
+babahtotovip.xyz
+bagi138slot.club
 bahis-slot-1000.icu
+baju168slot.club
 baki888pestascatter.xyz
+bandar404slot.com
+bandartaruhan168slot.com
 bandungtoto123.site
 bandungtoto258wd.site
 bandungtotoku331jp.site
@@ -256,7 +292,23 @@ bandungtotoku335jp.site
 bandungtotoku336jp.site
 bandungtotoku337jp.site
 bandungtotoku338jp.site
+bangjokojbslot.site
+bangjokolbslot.site
+bangjokopbslot.site
+bangjokovbslot.site
+bangkatoto.lol
+bank303rtp.com
+banrtpp.online
+bansos188slot.com
+bantai189slot.com
 banteng328gacor.xyz
+bape-togel88.site
+bape-togel99.site
+barbar365slot.com
+barbartotovirgo.site
+batmantoto7frd.cfd
+batmantotodman.site
+bayarslot.online
 bayitotoku126.site
 bayitotoku127.site
 bayitotoku248jpx.site
@@ -268,7 +320,13 @@ bayitotoku253jpx.site
 bayitotoku254jpx.site
 bayitotoku255jpx.site
 bayitotoku256jpx.site
+bcl138slot.com
+bdslot88bad.vip
+bdslots777.com
+bdtotoyes.xyz
 bebtoto100.click
+bebtoto440.com
+bebtoto450.com
 benihtoto371.site
 benihtoto372.site
 benihtoto373.site
