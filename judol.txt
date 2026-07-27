@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 27 Jul 2026 03:22 UTC
-# Version: 2026.0727.0322.28
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 27 Jul 2026 06:35 UTC
+# Version: 2026.0727.0635.13
 # Syntax: Domains (without subdomains)
-# Number of entries: 1457
+# Number of entries: 1456
 #
 070slot.vip
 070slotq.com
@@ -995,7 +995,6 @@ kkslot777laus.top
 kkslot777opes.top
 kkslot777orbis.top
 kkslot777pila.top
-kkslot777spher.top
 kkslot777vinc.top
 koinslot168art.site
 koitoto001jpx.site
