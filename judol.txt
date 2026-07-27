@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 26 Jul 2026 19:15 UTC
-# Version: 2026.0726.1915.08
+# Last modified: 27 Jul 2026 03:22 UTC
+# Version: 2026.0727.0322.28
 # Syntax: Domains (without subdomains)
-# Number of entries: 1449
+# Number of entries: 1457
 #
 070slot.vip
 070slotq.com
@@ -497,6 +497,8 @@ cahayatotoku205x.cyou
 cahayatotoku206x.cyou
 cahayatotoku207x.cyou
 cahayatotoku208x.cyou
+cahayatotoku209x.cyou
+caramainslot.vip
 caritogel789aa.site
 caritogel789ad.site
 caritogel789ai.site
@@ -515,6 +517,7 @@ caritogel789qt.site
 caritogel789qu.site
 caritogel789qy.site
 cekslot719jpx.site
+cendol789slot.club
 cindototo208.site
 cindototo209.site
 cindototo210.site
@@ -522,6 +525,9 @@ cindototo368top.site
 cindototo808.site
 cindototo809.site
 cindototo810.site
+ciputratoto-hoki.site
+ciro138slot.club
+cm888slot.net
 congtogel001jpx.site
 congtogel020jpx.site
 congtogel117jpx.site
@@ -552,6 +558,8 @@ congtogelek218zr.site
 congtogelek218zt.site
 congtoto177owl.site
 cratosslot94437.top
+cuan900slot.com
+cucu777slot.com
 danatoto599jpx.site
 danatotowdx043.site
 danatotowdx044.site
