@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 27 Jul 2026 09:57 UTC
-# Version: 2026.0727.0957.05
+# Last modified: 27 Jul 2026 14:40 UTC
+# Version: 2026.0727.1440.32
 # Syntax: Domains (without subdomains)
-# Number of entries: 1481
+# Number of entries: 1535
 #
 070slot.vip
 070slotq.com
@@ -167,6 +167,7 @@ agenslotez338.club
 agenslotmaxwin.online
 ajototocair.site
 ak999slotsapk.com
+akaislot.top
 akatsuki189slot.com
 akiratoto.vip
 aks1300slot.club
@@ -190,6 +191,7 @@ alexistogel8gtr.site
 alexistogel8vgd.cfd
 alexistoto019.live
 alexistoto030.live
+alexistoto078.live
 alexistoto121.live
 alexistoto168ms.site
 alexistoto171.live
@@ -197,9 +199,12 @@ alexistoto178rh.site
 alexistoto178sa.site
 alexistoto209.live
 alexistoto214.live
+alexistoto232.live
 alexistoto241.live
 alexistoto247.cfd
 alexistoto248.live
+alexistoto281.live
+alexistoto282.live
 alexistoto291.live
 alexistoto328gc.site
 alexistoto357.live
@@ -256,6 +261,7 @@ apigacor880jos.site
 apigacor881kit.site
 apigacor887jp.site
 apigacor889str.live
+apigacor88cis.site
 apigacor88co.site
 apigacor88cola.site
 apigacor88dov.site
@@ -285,6 +291,7 @@ arab777slot.com
 arenagacor22726.xyz
 arjuna189slot.com
 artphotostudio2003.lol
+arwahtoto0305.com
 arwana500slot.com
 arwanatoto879.site
 as388slot.club
@@ -301,8 +308,10 @@ asligoslot88.lol
 aston303slot.club
 asupantotong.xyz
 atlas189slot.com
+avatarslot88-chip.site
 avtoto-manja.online
 awan128slot.com
+awpslot.click
 awslot777.lol
 awslot7772.com
 axes777slot.club
@@ -316,6 +325,7 @@ babahtoto3.xyz
 babahtotojitu.xyz
 babahtotovip.xyz
 bagi138slot.club
+bagustoto.online
 bahis-slot-1000.icu
 baju168slot.club
 baki888pestascatter.xyz
@@ -501,6 +511,8 @@ cahayatotoku206x.cyou
 cahayatotoku207x.cyou
 cahayatotoku208x.cyou
 cahayatotoku209x.cyou
+cahayatotoku210x.cyou
+cahayatotoxgcrs11.site
 caramainslot.vip
 caritogel789aa.site
 caritogel789ad.site
@@ -564,17 +576,59 @@ cratosslot94437.top
 cuan900slot.com
 cucu777slot.com
 danatoto599jpx.site
+danatotoku257x.cyou
+danatotoku258x.cyou
+danatotoku259x.cyou
+danatotoku260x.cyou
+danatotoku261x.cyou
+danatotoku262x.cyou
+danatotoku263x.cyou
+danatotoku264x.cyou
+danatotoku265x.cyou
+danatotoku266x.cyou
+danatotoku267x.cyou
+danatotoku268x.cyou
+danatotoku269x.cyou
+danatotoku271x.cyou
+danatotoku272x.cyou
 danatotowdx043.site
 danatotowdx044.site
 dapurtogel426web.site
+dapurtoto.online
+dapurtotogcrs1.site
+dapurtotox11gcra.site
+dapurtotox22wde.site
+dapurtotox29pro.site
+dapurtotoxgcr11.site
+dapurtotoxgcra1.site
+dapurtotoxgcra11.site
+dapurtotoxpro29.site
 dasartoto123shc.site
 dbltoto258wd.site
 dbltoto369jpx.site
 dbltoto599jpx.site
 deal-slot-2026.click
 deemo-kkslot777.top
+delik777slot.club
+demon189slot.com
+demoslot789.com
+deposlot1000.com
+depototo.xyz
+desa55jbslot.site
+desa55lbslot.site
+desa55maxwin.site
+desa55pbslot.site
+desa55vbslot.site
+desa55zeus.site
 deslotsregame93592.site
+dewa365slot.com
+dewa505slot.com
+dewa787slot.net
+dewabos138slot.com
+dewaqqrtp.site
 dewaslot389masuk.top
+dewaslotortp.click
+dewataslot888asli.com
 dewatogel001jpx.site
 dewatogel020jpx.site
 dewatogel499jpx.site
