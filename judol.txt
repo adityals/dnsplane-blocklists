@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 27 Jul 2026 14:40 UTC
-# Version: 2026.0727.1440.32
+# Last modified: 27 Jul 2026 19:37 UTC
+# Version: 2026.0727.1937.22
 # Syntax: Domains (without subdomains)
-# Number of entries: 1535
+# Number of entries: 1596
 #
 070slot.vip
 070slotq.com
@@ -629,11 +629,19 @@ dewaqqrtp.site
 dewaslot389masuk.top
 dewaslotortp.click
 dewataslot888asli.com
+dewataslot888baru.com
+dewataslot888kita.com
+dewataslot888pusat.com
+dewataslot888utama.com
 dewatogel001jpx.site
 dewatogel020jpx.site
 dewatogel499jpx.site
 dewatogel508jpx.site
 dewigacor178alt.vip
+dewivip288slot.com
+di138slot.club
+diamond138slot.com
+diamond365slot.com
 dingdongtogel001jpx.site
 dingdongtogel020jpx.site
 dingdongtogel117jpx.site
@@ -660,14 +668,29 @@ dingdongtogel508jpx.site
 dingdongtogel599jpx.site
 dingdongtogel736jpx.site
 dingdongtogel808jpx.site
+dj588slot.net
 dolantogel123a.site
+dolantogel5hyt.sbs
+dolantogel6nh.sbs
+dong303slot.club
 donototo123shc.site
+dory189slot.com
+dprtoto-july24.click
+dprtoto-july24.site
+dprtoto-july27.site
+dratu777slot.com
 duatoto202.site
 duatoto203.site
 duatoto205.site
 duatoto368.site
 duatoto369.site
 duatoto370.site
+ducatirtp.online
+dukunslot.online
+dunia-airtoto.online
+duren777slot.bet
+elang666slot.club
+emastoto.online
 emastoto711jpx.site
 emastoto712jpx.site
 emastoto713jpx.site
@@ -676,7 +699,20 @@ emastoto715jpx.site
 emastoto716jpx.site
 emastoto717jpx.site
 emastoto718jpx.site
+enakslotas.site
+enakslotbd.site
+enakslotbr.online
+enakslotcr.online
+enakslotfe.site
+enakslotgw.online
+enakslotht.online
+enakslotkg.site
+enakslotre.site
+enakslotwd.online
+enakslotyz.online
+enakslotzy.site
 ertpkugas-367.site
+evostogel123.shop
 evostoto101jp.site
 evostoto258az.site
 evostoto258er.site
@@ -687,6 +723,31 @@ evostoto258qs.site
 evostoto258tr.site
 evostoto258wd.site
 evostoto260wd.site
+evostoto303.shop
+evostoto5qas.cfd
+evostotowde254x.cyou
+evostotowde255x.cyou
+evostotowde256x.cyou
+evostotowde257x.cyou
+evostotowde258x.cyou
+evostotowde259x.cyou
+evostotowde260x.cyou
+evostotowde261x.cyou
+evostotowde262x.cyou
+evostotowde263x.cyou
+evostotowde264x.cyou
+evostotowde265x.cyou
+evostotowde266x.cyou
+evostotowde267x.cyou
+evostotowde268x.cyou
+evostotowde271x.cyou
+evostotox32wde.site
+evostotox39pro.site
+evostotoxgcra11.site
+evostotoxking2.site
+evostotoxpro88.site
+evostotoxwde32.site
+evostotoxwins4.site
 exotogel303hub.site
 f200m-slot.bond
 f200m-slot.cfd
