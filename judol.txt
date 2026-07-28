@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 27 Jul 2026 19:37 UTC
-# Version: 2026.0727.1937.22
+# Last modified: 28 Jul 2026 02:40 UTC
+# Version: 2026.0728.0240.59
 # Syntax: Domains (without subdomains)
-# Number of entries: 1596
+# Number of entries: 1663
 #
 070slot.vip
 070slotq.com
@@ -749,24 +749,69 @@ evostotoxpro88.site
 evostotoxwde32.site
 evostotoxwins4.site
 exotogel303hub.site
+exototo8ew.site
+f200m-slot.autos
 f200m-slot.bond
 f200m-slot.cfd
 f200m-slot.click
+f200m-slot.cyou
 f200m-slot.lol
+f200m-slot.monster
 f200m-slot.online
+f200m-slot.quest
+f200m-slot.rest
 f200m-slot.sbs
 f200m-slot.site
+f200m-slot.space
+f200m-slot.website
 f200m-slot.xyz
+f2togel.xyz
+fafa178slot.com
+fiatogel7788.com
+fifa808slot.club
+fortuna189slot.com
+fortune365slot.com
+g76toto-bambu.site
+g76toto-inces.site
+g76toto-rtp1.online
+g76toto-sedap.site
+g76toto-spain.site
+g76totolobang.site
+gacor-wartegbet.site
 gacor108win.click
 gacor138.site
+gacor138.website
 gacor138.xyz
 gacor167a.online
 gacor167a.xyz
+gacor168.link
 gacor168.online
+gacor200id.com
+gacor200s.com
+gacor200y.com
+gacor300slot.com
 gacor305.vip
 gacor500x.xyz
 gacor577.vip
 gacor668xgcrs1.site
+gacor777c.com
+gacor777d.com
+gacor777ku157x.cyou
+gacor777ku158x.cyou
+gacor777ku159x.cyou
+gacor777ku160x.cyou
+gacor777ku161x.cyou
+gacor777ku162x.cyou
+gacor777ku163x.cyou
+gacor777ku164x.cyou
+gacor777ku165x.cyou
+gacor777ku166x.cyou
+gacor777ku167x.cyou
+gacor777ku168x.cyou
+gacor777ku169x.cyou
+gacor777ku171x.cyou
+gacor777ku172x.cyou
+gacor77bgt.xyz
 gacor77wdx043.site
 gacor77wdx044.site
 gacor77wdx045.site
@@ -775,11 +820,33 @@ gacor77wdx047.site
 gacor808.online
 gacor8800.xyz
 gacor881it.site
+gacor889a.com
+gacorfuyunghai.cfd
+gacorhoke123sun.live
+gacorhoki127jp.live
 gacorhokie777.site
+gacorku168apk.com
+gacorr268top1.com
+gacorslot138-idolaku.biz
 gacorslot138-idolaku.click
 gacorslot138-idolaku.lol
+gacorslot138-neo.biz
 gacorslot138-neo.click
 gacorslot168.xyz
+gacorslotku240x.cyou
+gacorslotku241x.cyou
+gacorslotku242x.cyou
+gacorslotku243x.cyou
+gacorslotku244x.cyou
+gacorslotku245x.cyou
+gacorslotku247x.cyou
+gacorslotku248x.cyou
+gacorslotku251x.cyou
+gacorslotku252x.cyou
+gacorslotku253x.cyou
+gacorslotku254x.cyou
+gacorslotku256x.cyou
+gacorwin6.site
 gacorx500piv.site
 gacorx500qvrl.site
 gacorx500rqxv.site
