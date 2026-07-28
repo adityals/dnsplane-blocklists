@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 28 Jul 2026 08:38 UTC
-# Version: 2026.0728.0838.43
+# Last modified: 28 Jul 2026 14:11 UTC
+# Version: 2026.0728.1411.54
 # Syntax: Domains (without subdomains)
-# Number of entries: 1692
+# Number of entries: 1720
 #
 070slot.vip
 070slotq.com
@@ -44,6 +44,7 @@
 1xslots-581.top
 1xslots-742.top
 1xslots-838.top
+2000braslots.com
 2026winslots.com
 20rtppiton786.pro
 222toto.xyz
@@ -158,6 +159,7 @@ abutogel8bh.cfd
 abutogel8ng.sbs
 abutogelxpga.site
 ace189slot.com
+achang1688-slot.com
 ada777slot.club
 afb365gacor.top
 agenslot1389.com
@@ -193,6 +195,7 @@ alexistogel8vgd.cfd
 alexistoto019.live
 alexistoto030.live
 alexistoto078.live
+alexistoto114.live
 alexistoto121.live
 alexistoto168ms.site
 alexistoto171.live
@@ -204,6 +207,7 @@ alexistoto232.live
 alexistoto241.live
 alexistoto247.cfd
 alexistoto248.live
+alexistoto268.live
 alexistoto281.live
 alexistoto282.live
 alexistoto291.live
@@ -291,6 +295,7 @@ aquaslot369.club
 aquaslot369.xyz
 arab777slot.com
 arenagacor22726.xyz
+arenasimplebet8rtp.icu
 arjuna189slot.com
 artphotostudio2003.lol
 arwahtoto0305.com
@@ -348,6 +353,7 @@ bangjokolbslot.site
 bangjokopbslot.site
 bangjokovbslot.site
 bangkatoto.lol
+bangkoktotoxsipp22.site
 bank303rtp.com
 banrtpp.online
 bansos188slot.com
@@ -402,6 +408,7 @@ berlintoto590.site
 best808slot.com
 bet111slotlogin.com
 bettoto88cuan111.site
+betwin123slot.net
 bewokwinjbslot.site
 bewokwinlbslot.site
 bewokwinpbslot.site
@@ -409,6 +416,7 @@ bewokwinvbslot.site
 bgslot789.click
 bgslot789x.click
 big777slot.club
+bigslot238.org
 bingo120slot.club
 bintang123slot.org
 biroslotmampir.cfd
@@ -477,6 +485,7 @@ bonanza138pbslot.site
 bonanza168jbslot.site
 bonanza288vbslot.site
 bonanza338lbslot.site
+bonanzaslot88id.sbs
 bonbon138slot.club
 bonus-slot-2026.click
 bos288toto.club
@@ -515,6 +524,8 @@ cahayatotoku207x.cyou
 cahayatotoku208x.cyou
 cahayatotoku209x.cyou
 cahayatotoku210x.cyou
+cahayatotoku211x.cyou
+cahayatotoku212x.cyou
 cahayatotoxgcrs11.site
 caramainslot.vip
 caritogel789aa.site
@@ -536,6 +547,7 @@ caritogel789qu.site
 caritogel789qy.site
 cekslot719jpx.site
 cendol789slot.club
+cincin303slot.net
 cindototo208.site
 cindototo209.site
 cindototo210.site
@@ -578,7 +590,13 @@ congtoto177owl.site
 cratosslot94437.top
 cuan900slot.com
 cucu777slot.com
+cucukakek.cfd
+cucukakek.site
+cucutotox52hokk.site
+d200mslot.club
 danatoto599jpx.site
+danatoto777.website
+danatoto899.com
 danatotoku257x.cyou
 danatotoku258x.cyou
 danatotoku259x.cyou
@@ -594,17 +612,20 @@ danatotoku268x.cyou
 danatotoku269x.cyou
 danatotoku271x.cyou
 danatotoku272x.cyou
+danatotoku275x.cyou
 danatotowdx043.site
 danatotowdx044.site
 dapurtogel426web.site
 dapurtoto.online
 dapurtotogcrs1.site
 dapurtotox11gcra.site
+dapurtotox11gcrs.site
 dapurtotox22wde.site
 dapurtotox29pro.site
 dapurtotoxgcr11.site
 dapurtotoxgcra1.site
 dapurtotoxgcra11.site
+dapurtotoxgcrs11.site
 dapurtotoxpro29.site
 dasartoto123shc.site
 dbltoto258wd.site
@@ -680,7 +701,9 @@ donototo123shc.site
 dory189slot.com
 dprtoto-july24.click
 dprtoto-july24.site
+dprtoto-july27.click
 dprtoto-july27.site
+dptotoresmi2.xyz
 dratu777slot.com
 duatoto202.site
 duatoto203.site
@@ -754,6 +777,7 @@ evostotoxwde32.site
 evostotoxwins4.site
 exotogel303hub.site
 exototo8ew.site
+exototo8yh.sbs
 f200m-slot.autos
 f200m-slot.bond
 f200m-slot.cfd
@@ -815,6 +839,7 @@ gacor777ku168x.cyou
 gacor777ku169x.cyou
 gacor777ku171x.cyou
 gacor777ku172x.cyou
+gacor777ku176x.cyou
 gacor77bgt.xyz
 gacor77wdx043.site
 gacor77wdx044.site
@@ -830,6 +855,7 @@ gacorfuyunghai.cfd
 gacorhoke123sun.live
 gacorhoki127jp.live
 gacorhokie777.site
+gacorhoku788mix.live
 gacorku168apk.com
 gacorr268top1.com
 gacorslot138-idolaku.biz
@@ -855,6 +881,8 @@ gacorwin6.site
 gacorx500piv.site
 gacorx500qvrl.site
 gacorx500rqxv.site
+gadaitotoxsipi22.site
+gadaitotoxwds27.site
 gadunslot133.site
 gbo777slot.xyz
 gelegarzeus007.click
