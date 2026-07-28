@@ -1,15 +1,16 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 28 Jul 2026 05:52 UTC
-# Version: 2026.0728.0552.40
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 28 Jul 2026 08:38 UTC
+# Version: 2026.0728.0838.43
 # Syntax: Domains (without subdomains)
-# Number of entries: 1663
+# Number of entries: 1692
 #
 070slot.vip
 070slotq.com
 070slots.vip
+1-berkawantotopro.site
 10001slot.xyz
 108slot.xyz
 1112slot.xyz
@@ -234,6 +235,7 @@ altogelwdx044.site
 altogelwdx045.site
 altogelwdx046.site
 altogelwdx047.site
+altogelwdx048.site
 ampbatikslot.online
 angelslotx1.cfd
 angelslotx1.click
@@ -410,6 +412,7 @@ big777slot.club
 bingo120slot.club
 bintang123slot.org
 biroslotmampir.cfd
+birutoto123x.site
 birutoto1rt.cfd
 birutoto258az.site
 birutoto258er.site
@@ -685,6 +688,7 @@ duatoto205.site
 duatoto368.site
 duatoto369.site
 duatoto370.site
+dubaitoto731pro.site
 ducatirtp.online
 dukunslot.online
 dunia-airtoto.online
@@ -817,6 +821,7 @@ gacor77wdx044.site
 gacor77wdx045.site
 gacor77wdx046.site
 gacor77wdx047.site
+gacor77wdx048.site
 gacor808.online
 gacor8800.xyz
 gacor881it.site
@@ -906,6 +911,7 @@ hoki108xscattern.site
 hoki108xscatterv.site
 hoki108xscatterx.site
 hoki108xscatterz.site
+hokinew189rtp.sbs
 hondatogel228zen.site
 hondatoto001jpx.site
 hondatoto020jpx.site
@@ -1014,6 +1020,9 @@ inatogelek775rba.site
 inatogelek781wuy.site
 inatogelek823rba.site
 inatogelek932rba.site
+indoslot303link.bond
+indoslot303link.cfd
+indoslot303link.sbs
 indoslot303ms.bond
 indoslot303ms.cfd
 indoslot303ms.click
@@ -1074,6 +1083,7 @@ jonitogel250jpx.site
 jonitogel251jpx.site
 jonitogel252jpx.site
 jordanslot1337.xyz
+jostoto864max.site
 jualtoto233.site
 jualtoto235.site
 jualtoto258il.site
@@ -1261,6 +1271,7 @@ kuningtoto8080cool.site
 kvtoto292.site
 kvtoto893.site
 lapak898rtp.site
+lapaktoto248wd.site
 latoto8989.xyz
 lembagatoto809jpx.site
 lembagatoto810jpx.site
@@ -1279,6 +1290,8 @@ logototowdx043.site
 logototowdx044.site
 logototowdx045.site
 logototowdx046.site
+logototowdx047.site
+logototowdx048.site
 ltdtoto131.site
 ltdtoto132.site
 ltdtoto133.site
@@ -1310,8 +1323,10 @@ lunatogel043jepe.site
 lunatogel044jepe.site
 lunatogel045jepe.site
 lunatogel046jepe.site
+lunatogel047jepe.site
 lunatogelxgcro550.site
 lusatoto123hjp.site
+luxury138maxwin.site
 macauslot188.online
 mafiatogel365web.site
 mafiatoto282.site
@@ -1352,6 +1367,7 @@ mahjong669jpx.site
 mahjong671jpx.site
 mahjong693jp.site
 mahjong850jpx.site
+mahjong962go.site
 mahjongdh131.site
 mahjongdh132.site
 mahjongs275jp.site
@@ -1424,6 +1440,7 @@ maxwin138fxj.site
 maxwin138fxjp.site
 maxwin138fxkj.site
 maxwin138fxko.site
+maxwin138fzip.site
 maxwin138xfikjp.site
 maxwin139.online
 maxwin178eu.sbs
@@ -1484,6 +1501,8 @@ mineraltoto150.site
 mineraltoto151.site
 mineraltoto152.site
 mineraltoto361.site
+new-rtphero138.online
+newrtp-hero138.online
 olxtoto265hot.click
 olxtotobet123.click
 omslot999.xyz
@@ -1511,6 +1530,7 @@ royal888pbslot.site
 royal888vbslot.site
 royaltoto342jpx.site
 rrtp168-jackpot.top
+rtp-newraja328.online
 rtp-newraja328.xyz
 rtp123indomantap.xyz
 rtp777.xyz
@@ -1527,8 +1547,10 @@ rtpfruit777.cfd
 rtpfungame-777.top
 rtpgasing777.click
 rtphokicuan168.online
+rtpjitu-koi855.vip
 rtpkkslot-777.top
 rtpleci123a.xyz
+rtpnaga188jagung.xyz
 rtpnew-raja328.online
 rtpnex777bagus.site
 rtpp-tumi123.xyz
@@ -1540,8 +1562,10 @@ rtpparis123timun.xyz
 rtppjackpot-168.top
 rtppolahaloy500.site
 rtpptumi123.click
+rtpsky123almon.xyz
 rtpsky123kelapa.xyz
 rtpsky123nangka.xyz
+rtpsky123persik.xyz
 rtpsky123pir.xyz
 rtpsky123plum.xyz
 rtpsky123semangka.xyz
@@ -1588,8 +1612,10 @@ toto120hot.click
 toto120idbet.click
 toto1212.site
 toto121bet.click
+toto129bit.site
 toto133.site
 toto200.site
+toto2000.site
 toto234bagus.click
 toto234bagus.sbs
 toto234bagus.top
@@ -1608,6 +1634,7 @@ toto700xgass77.site
 toto700xgcra11.site
 toto700xjp3.site
 toto710.xyz
+toto789jphoki.site
 toto88wdx036.site
 toto88wdx037.site
 toto88wdx038.site
@@ -1620,6 +1647,7 @@ toto88wdx044.site
 toto88wdx045.site
 toto88wdx046.site
 toto88wdx047.site
+toto88wdx048.site
 toto999.online
 totobet805.vip
 ungutoto493nix.site
@@ -1648,6 +1676,7 @@ watitotowdx043.site
 watitotowdx044.site
 watitotowdx045.site
 watitotowdx046.site
+watitotowdx047.site
 we777slot.xyz
 winslot888.xyz
 wongtogel177jet.site
