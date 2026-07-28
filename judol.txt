@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 28 Jul 2026 14:11 UTC
-# Version: 2026.0728.1411.54
+# Last modified: 28 Jul 2026 19:29 UTC
+# Version: 2026.0728.1929.51
 # Syntax: Domains (without subdomains)
-# Number of entries: 1720
+# Number of entries: 1791
 #
 070slot.vip
 070slotq.com
@@ -884,8 +884,24 @@ gacorx500rqxv.site
 gadaitotoxsipi22.site
 gadaitotoxwds27.site
 gadunslot133.site
+galaxy666slot.com
+game303slot.com
+game888slot.info
+ganesa189slot.com
+ganja138slot.com
+ganteng888slot.net
+gap189slot.club
+gaple188slot.com
+gasing777rtp.rest
+gasmaxwinterus.xyz
+gatesofolympus-tr.click
 gbo777slot.xyz
 gelegarzeus007.click
+gembala303slot.com
+gembel303slot.com
+gemoy168slot.com
+gen303slot.com
+gendut188slot.com
 gengtoto001jpx.site
 gengtoto020jpx.site
 gengtoto292.site
@@ -896,6 +912,14 @@ gengtoto692.site
 gengtoto693.site
 gengtoto888.xyz
 gengtotoku121jp.site
+gengtotoku203x.cyou
+gengtotoku204x.cyou
+gengtotoku205x.cyou
+gengtotoku206x.cyou
+gengtotoku207x.cyou
+gengtotoku208x.cyou
+gengtotoku211x.cyou
+gengtotoku212x.cyou
 gengtotoku268.site
 gengtotoku269.site
 gengtotoku270.site
@@ -904,21 +928,68 @@ gengtotoku272.site
 gengtotoku273.site
 gengtotoku274.site
 gengtotoku275.site
+genting168slot.com
+geritoto.vip
+gesit188slot.com
+gg189slot.com
+ggjudislotgg.top
+ggslot777slot.com
+gigaslot.online
 glory777slot.xyz
+gogon969slot.club
+gold138slot.com
+gold365slot.com
+golden126slot.club
+goldentoto.xyz
+golimaslot.xyz
 goltogel303win.site
 goltogel354win.site
+goltogel6dc.sbs
+goltogel6fe.site
 goltogel736win.site
+goltogel7yj.site
 goltogel911win.site
 goltogelxgasi123.site
 goodbet711-slot.online
+gopay178slot.com
 gopay303rtp.site
+goslot88resmi.xyz
+goto888slot.com
 gototochrm3000.click
+goyang888slot.com
 gslotz888z.click
+gta365slot.net
+gudang365slot.com
+gudangslot168slot.com
+guetotobaru2026.com
+gunung288slot.com
+gurita365slot.com
+guru128slot.com
+haha365slot.com
 hamtotoxgcr150.site
+hanabi188slot.com
 hantutogel108.xyz
 hantutogel109.xyz
 hantutogel110.xyz
 hantutogel111.xyz
+hao188slot.com
+happyslot168.org
+happyslotjbcuan.site
+happyslotjbgaming.site
+happyslotjbjackpot.site
+happyslotjbmenang.site
+happyslotjbslot.site
+happyslotlbcuan.site
+happyslotlbgaming.site
+happyslotlbjackpot.site
+happyslotlbmenang.site
+happyslotlbslot.site
+happyslotpbcuan.site
+happyslotpbgaming.site
+happyslotpbjackpot.site
+happyslotpbmenang.site
+happyslotpbslot.site
+happyslotvbcuan.site
 hargatoto156.xyz
 hgo909rtp.xyz
 hinototo011.xyz
