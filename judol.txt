@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 29 Jul 2026 14:15 UTC
-# Version: 2026.0729.1415.39
+# Last modified: 29 Jul 2026 19:20 UTC
+# Version: 2026.0729.1920.22
 # Syntax: Domains (without subdomains)
-# Number of entries: 1937
+# Number of entries: 2032
 #
 070slot.vip
 070slotq.com
@@ -1046,6 +1046,8 @@ gurita365slot.com
 guru128slot.com
 gurutoto.xyz
 haha365slot.com
+hamtoto.xyz
+hamtotox11gcrs.site
 hamtotoxgcr150.site
 hanabi188slot.com
 hantutogel108.xyz
@@ -1053,6 +1055,7 @@ hantutogel109.xyz
 hantutogel110.xyz
 hantutogel111.xyz
 hao188slot.com
+haotogel.click
 happyslot168.org
 happyslotjbcuan.site
 happyslotjbgaming.site
@@ -1080,6 +1083,7 @@ harimau168slot.com
 harimau365slot.com
 harimau868slot.com
 harley189slot.com
+harumslot.click
 harumslotfix.site
 harus777slot.com
 hasiantoto.xyz
@@ -1096,6 +1100,7 @@ hinototo500.xyz
 hinototo606.site
 hinototo607.site
 hinototo608.site
+hitogelmnyk.site
 hiu138slot.com
 hiu168slot.com
 hiu365slot.com
@@ -1111,6 +1116,7 @@ hoki108xscattern.site
 hoki108xscatterv.site
 hoki108xscatterx.site
 hoki108xscatterz.site
+hoki138zeus.com
 hoki168slot.com
 hoki177slot.com
 hoki311slot.com
@@ -1119,6 +1125,7 @@ hokislot333.org
 hokitoto.click
 hometogel4cd.site
 hometogel7few.cfd
+hometogel7ft.site
 hondatogel228zen.site
 hondatoto001jpx.site
 hondatoto020jpx.site
@@ -1141,6 +1148,7 @@ hondatoto972jpx.site
 hongkongtotogames.online
 hp138-gacor.lol
 hp138-gacor.xyz
+hujantoto.click
 hujantoto117jpx.site
 hujantoto369jpx.site
 hujantoto736jpx.site
@@ -1158,8 +1166,27 @@ hujantotoko735jpx.site
 hujantotoko736jpx.site
 hujantotoko737jpx.site
 hujantotoko738jpx.site
+hujantotoku211x.cyou
+hujantotoxon.site
+ibetslot.click
+idksslot.xyz
 idnslot711top.live
 idnslot899sun.live
+idntoto77.xyz
+idrslot17.xyz
+idrslot18.xyz
+idrslot19.xyz
+igtoto.click
+ikn888slot.com
+imbagacor-chip.site
+imbaslot-xx.xyz
+imbaslot.click
+imbazeus-banjir.xyz
+imbazeus-chip.site
+imbazeus.icu
+impian168slot.com
+in567slotsyono.com
+in777slots.net
 inatogel001jpx.site
 inatogel014jpx.site
 inatogel020jpx.site
@@ -1204,6 +1231,7 @@ inatogel478jpx.site
 inatogel499jpx.site
 inatogel508jpx.site
 inatogel560xjp.site
+inatogel5fdv.sbs
 inatogel774xtp.site
 inatogel896jpx.site
 inatogelek106wuy.site
@@ -1230,13 +1258,45 @@ inatogelek775rba.site
 inatogelek781wuy.site
 inatogelek823rba.site
 inatogelek932rba.site
+inatogell.xyz
+inatotox27wda.site
+inatotoxpro88.site
+indextogel.online
+indo123gacor.com
+indosatotoxgas10.site
+indosattoto.click
+indoslot126.club
+indoslot3031.com
+indoslot303apk.com
+indoslot303link.asia
+indoslot303link.autos
+indoslot303link.beer
+indoslot303link.boats
 indoslot303link.bond
+indoslot303link.buzz
+indoslot303link.casa
 indoslot303link.cfd
 indoslot303link.click
+indoslot303link.courses
+indoslot303link.cyou
+indoslot303link.forum
+indoslot303link.homes
+indoslot303link.lat
+indoslot303link.living
 indoslot303link.lol
+indoslot303link.mom
+indoslot303link.monster
 indoslot303link.online
+indoslot303link.quest
+indoslot303link.rest
 indoslot303link.sbs
+indoslot303link.shop
 indoslot303link.site
+indoslot303link.skin
+indoslot303link.space
+indoslot303link.store
+indoslot303link.surf
+indoslot303link.website
 indoslot303link.xyz
 indoslot303ms.bond
 indoslot303ms.cfd
@@ -1246,11 +1306,27 @@ indoslot303ms.online
 indoslot303ms.sbs
 indoslot303ms.site
 indoslot303ms.xyz
+indoslot303r.com
+indoslot88.click
+indovip138slot.com
+indra188slot.com
+indslot303.com
+inem862slot.com
 ini72gacor889.xyz
 ini73gacor889.xyz
+ini777slot.com
+instaslot138.org
+interwin368slot.com
+iramatogel.click
 isototox150.site
+istana178slot.com
+istana404slot.com
 istana888rtp.site
+itu777gacorvip.com
+iwantogel.xyz
+jabar777slot.com
 jackpot168-rrtp.top
+jacktoto.online
 jacktotowdx036.site
 jacktotowdx037.site
 jacktotowdx038.site
@@ -1258,7 +1334,26 @@ jacktotowdx039.site
 jacktotowdx040.site
 jacktotowdx041.site
 jacktotowdx042.site
+jagoledakjbslot.site
+jagoledaklbslot.site
+jagoledakpbslot.site
+jagoledakvbslot.site
+jagotogel.top
+jaguarwin888slot.com
+jajantogel693zip.live
+jakseltotox91kingg.site
+jakseltotox91kingo.site
 jakseltotoxgase100.site
+jakseltotoxgcr1.site
+jakseltotoxhki5.site
+jakseltotoxhkis5.site
+jakseltotoxjpd45.site
+jakseltotoxkingg91.site
+jakseltotoxkingo91.site
+jambi123slot.com
+jambitoto.top
+jamin777slot.com
+jamintoto.xyz
 jeboltogel001jpx.site
 jeboltogel020jpx.site
 jeboltogel117jpx.site
