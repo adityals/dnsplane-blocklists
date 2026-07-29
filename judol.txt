@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 29 Jul 2026 05:57 UTC
-# Version: 2026.0729.0557.17
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 29 Jul 2026 08:44 UTC
+# Version: 2026.0729.0844.26
 # Syntax: Domains (without subdomains)
-# Number of entries: 1822
+# Number of entries: 1868
 #
 070slot.vip
 070slotq.com
@@ -145,6 +145,7 @@
 99slot.click
 aatotoxhki5.site
 abdi126slot.club
+abortp480-group.site
 abutogel117jpx.site
 abutogel158jp.site
 abutogel178jp.site
@@ -240,6 +241,7 @@ altogelwdx045.site
 altogelwdx046.site
 altogelwdx047.site
 altogelwdx048.site
+amoy333-slotdemo.online
 ampbatikslot.online
 angelslotx1.cfd
 angelslotx1.click
@@ -430,8 +432,10 @@ birutoto258jp.site
 birutoto258qs.site
 birutoto258tr.site
 birutoto258wd.site
+birutoto303x.site
 birutoto3edr.cfd
 birutoto726max.site
+birutoto989x.site
 birutotoasd.site
 birutotoasw.site
 bisnis680slot.club
@@ -460,17 +464,22 @@ bobatoto177ind.site
 bobatoto178ind.site
 bobatoto179ind.site
 bobatoto180ind.site
+bobatoto222x.site
 bobatoto23wed.site
 bobatoto258il.site
 bobatoto258qs.site
 bobatoto295tgr.site
+bobatoto303x.site
+bobatoto356x.site
 bobatoto369jpx.site
 bobatoto3re.sbs
 bobatoto499jpx.site
 bobatoto508jpx.site
 bobatoto599jpx.site
 bobatoto736jpx.site
+bobatoto789x.site
 bobatoto808jpx.site
+bobatoto888x.site
 bobatotox13jp.site
 bobatotox18top.site
 bobatotox28top.site
@@ -799,6 +808,7 @@ fiatogel7788.com
 fifa808slot.club
 fortuna189slot.com
 fortune365slot.com
+fungame-777rtp.top
 g76toto-bambu.site
 g76toto-inces.site
 g76toto-rtp1.online
@@ -847,6 +857,7 @@ gacor77wdx045.site
 gacor77wdx046.site
 gacor77wdx047.site
 gacor77wdx048.site
+gacor77wdx049.site
 gacor808.online
 gacor8800.xyz
 gacor881it.site
@@ -1152,7 +1163,12 @@ inatogelek823rba.site
 inatogelek932rba.site
 indoslot303link.bond
 indoslot303link.cfd
+indoslot303link.click
+indoslot303link.lol
+indoslot303link.online
 indoslot303link.sbs
+indoslot303link.site
+indoslot303link.xyz
 indoslot303ms.bond
 indoslot303ms.cfd
 indoslot303ms.click
@@ -1229,9 +1245,11 @@ judol303kor.xyz
 judol303ong.xyz
 judol303oro.xyz
 judol88lucky550.site
+judolast303.xyz
 judolbai303.xyz
 judolkiw303.xyz
 judolklx303.xyz
+judolpor303.xyz
 judolprw303.xyz
 kakaslot777.xyz
 kakek123.top
@@ -1422,6 +1440,7 @@ logototowdx045.site
 logototowdx046.site
 logototowdx047.site
 logototowdx048.site
+logototowdx050.site
 ltdtoto131.site
 ltdtoto132.site
 ltdtoto133.site
@@ -1454,6 +1473,7 @@ lunatogel044jepe.site
 lunatogel045jepe.site
 lunatogel046jepe.site
 lunatogel047jepe.site
+lunatogel048jepe.site
 lunatogelxgcro550.site
 lusatoto123hjp.site
 luxury138maxwin.site
@@ -1495,6 +1515,7 @@ mahjong666jpx.site
 mahjong667jpx.site
 mahjong669jpx.site
 mahjong671jpx.site
+mahjong682jpx.site
 mahjong693jp.site
 mahjong850jpx.site
 mahjong962go.site
@@ -1550,6 +1571,7 @@ mawartotowdx044.site
 mawartotowdx045.site
 mawartotowdx046.site
 mawartotowdx047.site
+mawartotowdx048.site
 mawartotowdx727.site
 mawartotowdx939.site
 maxslot889xptc.site
@@ -1566,9 +1588,12 @@ maxwin116xcuan.site
 maxwin138fiksjp.site
 maxwin138fix.site
 maxwin138fkzp.site
+maxwin138fxcc.site
 maxwin138fxj.site
+maxwin138fxje.site
 maxwin138fxjp.site
 maxwin138fxkj.site
+maxwin138fxkk.site
 maxwin138fxko.site
 maxwin138fzip.site
 maxwin138xfikjp.site
@@ -1631,6 +1656,7 @@ mineraltoto150.site
 mineraltoto151.site
 mineraltoto152.site
 mineraltoto361.site
+muliatoto457web.site
 new-rtphero138.online
 newrtp-hero138.online
 olxtoto265hot.click
@@ -1638,6 +1664,7 @@ olxtotobet123.click
 omslot999.xyz
 operatogel304pop.site
 p2000slot.xyz
+palace303maxwin.site
 pg777slot.xyz
 pragmatic188oli.site
 pragmatic888.click
@@ -1660,6 +1687,7 @@ royal888pbslot.site
 royal888vbslot.site
 royaltoto342jpx.site
 rrtp168-jackpot.top
+rtp-italia188b.site
 rtp-newraja328.online
 rtp-newraja328.xyz
 rtp123indomantap.xyz
@@ -1670,6 +1698,7 @@ rtp789ocgas.site
 rtp789oxgas.site
 rtp789pxgas.site
 rtpaloy500.site
+rtpangpao808.online
 rtpbisnis555.vip
 rtpbtv168.xyz
 rtpcandu123mr.click
@@ -1681,6 +1710,9 @@ rtpjitu-koi855.vip
 rtpkkslot-777.top
 rtpleci123a.xyz
 rtpnaga188jagung.xyz
+rtpnaga188markisa.xyz
+rtpnaga188timun.xyz
+rtpnaga188wortel.xyz
 rtpnew-raja328.online
 rtpnex777bagus.site
 rtpp-tumi123.xyz
@@ -1693,12 +1725,15 @@ rtppjackpot-168.top
 rtppolahaloy500.site
 rtpptumi123.click
 rtpsky123almon.xyz
+rtpsky123cermai.xyz
 rtpsky123kelapa.xyz
 rtpsky123nangka.xyz
 rtpsky123persik.xyz
 rtpsky123pir.xyz
 rtpsky123plum.xyz
+rtpsky123sawo.xyz
 rtpsky123semangka.xyz
+rtpsky123wortel.xyz
 rtpvio5000.vip
 rupiahtogel889owl.site
 rupiahtotowdx035.site
@@ -1713,10 +1748,13 @@ rupiahtotowdx043.site
 rupiahtotowdx044.site
 rupiahtotowdx045.site
 scatter303.xyz
+scatter333.xyz
 scatter333max.online
 scatter333max.site
 scatter888.click
+serverthailand789maxwin.site
 situslot777.click
+slot138.click
 slot178.xyz
 slot288.xyz
 slot3000.xyz
@@ -1731,6 +1769,7 @@ slothok527jp.site
 slothoke654jp.site
 slothoki109.xyz
 slothoku168llm.site
+slotpatenpastijp138.online
 slots365.xyz
 sp777slot.xyz
 suntikrtpba303nk.online
@@ -1742,6 +1781,7 @@ toto120hot.click
 toto120idbet.click
 toto1212.site
 toto121bet.click
+toto123gacor.vip
 toto129bit.site
 toto133.site
 toto200.site
@@ -1760,11 +1800,14 @@ toto500.online
 toto500.vip
 toto500.xyz
 toto700x77gasi.site
+toto700x77gass.site
 toto700xgass77.site
 toto700xgcra11.site
 toto700xjp3.site
 toto710.xyz
+toto777.click
 toto789jphoki.site
+toto868.xyz
 toto88wdx036.site
 toto88wdx037.site
 toto88wdx038.site
@@ -1778,6 +1821,7 @@ toto88wdx045.site
 toto88wdx046.site
 toto88wdx047.site
 toto88wdx048.site
+toto88wdx049.site
 toto999.online
 totobet805.vip
 ungutoto493nix.site
@@ -1807,6 +1851,8 @@ watitotowdx044.site
 watitotowdx045.site
 watitotowdx046.site
 watitotowdx047.site
+watitotowdx048.site
+watitotowdx049.site
 we777slot.xyz
 winslot888.xyz
 wongtogel177jet.site
