@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 28 Jul 2026 19:29 UTC
-# Version: 2026.0728.1929.51
+# Last modified: 29 Jul 2026 02:48 UTC
+# Version: 2026.0729.0248.01
 # Syntax: Domains (without subdomains)
-# Number of entries: 1791
+# Number of entries: 1822
 #
 070slot.vip
 070slotq.com
@@ -990,8 +990,22 @@ happyslotpbjackpot.site
 happyslotpbmenang.site
 happyslotpbslot.site
 happyslotvbcuan.site
+happyslotvbgaming.site
+happyslotvbjackpot.site
+happyslotvbmenang.site
+happyslotvbslot.site
 hargatoto156.xyz
+harimau138slot.com
+harimau168slot.com
+harimau365slot.com
+harimau868slot.com
+harley189slot.com
+harumslotfix.site
+harus777slot.com
+hasiantoto.xyz
+helpslot.site
 hgo909rtp.xyz
+hidung777slot.com
 hinototo011.xyz
 hinototo1000.xyz
 hinototo200.site
@@ -1002,6 +1016,13 @@ hinototo500.xyz
 hinototo606.site
 hinototo607.site
 hinototo608.site
+hiu138slot.com
+hiu168slot.com
+hiu365slot.com
+hiwin777slot.com
+hkbet138slot.com
+hobimainscatter.site
+hok303slot.club
 hoki108xscatterb.site
 hoki108xscatterc.site
 hoki108xscatterl.site
@@ -1010,7 +1031,14 @@ hoki108xscattern.site
 hoki108xscatterv.site
 hoki108xscatterx.site
 hoki108xscatterz.site
+hoki168slot.com
+hoki177slot.com
+hoki311slot.com
 hokinew189rtp.sbs
+hokislot333.org
+hokitoto.click
+hometogel4cd.site
+hometogel7few.cfd
 hondatogel228zen.site
 hondatoto001jpx.site
 hondatoto020jpx.site
@@ -1030,6 +1058,7 @@ hondatoto808jpx.site
 hondatoto943jpx.site
 hondatoto969jpx.site
 hondatoto972jpx.site
+hongkongtotogames.online
 hp138-gacor.lol
 hp138-gacor.xyz
 hujantoto117jpx.site
@@ -1049,6 +1078,8 @@ hujantotoko735jpx.site
 hujantotoko736jpx.site
 hujantotoko737jpx.site
 hujantotoko738jpx.site
+idnslot711top.live
+idnslot899sun.live
 inatogel001jpx.site
 inatogel014jpx.site
 inatogel020jpx.site
