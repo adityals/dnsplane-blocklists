@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 30 Jul 2026 14:09 UTC
-# Version: 2026.0730.1409.00
+# Last modified: 30 Jul 2026 19:28 UTC
+# Version: 2026.0730.1928.15
 # Syntax: Domains (without subdomains)
-# Number of entries: 2171
+# Number of entries: 2228
 #
 070slot.vip
 070slotq.com
@@ -1557,6 +1557,9 @@ kakek4d.site
 kambing138slot.com
 kambing168slot.com
 kambing365slot.com
+kampslot138.org
+kangkung777slot.com
+kangtogel123cat.live
 kangtoto123.click
 kangtoto138bet.click
 kangtoto180hot.click
@@ -1591,13 +1594,24 @@ kangtotoko212jp.site
 kangtotoku776jp.site
 kangtototo161mw.site
 kangtotowin123.click
+kaostogel.xyz
+karo188slot.com
+kartel189slot.com
 kartutoto188.site
+kasih777slot.com
+kaskustoto.click
 kaskustoto001jpx.site
 kaskustoto020jpx.site
 kaskustoto117jpx.site
+kaskustoto12kij.sbs
+kaskustoto189fjb.live
 kaskustoto241.online
+kaskustoto365.com
+kaskustoto365hot.shop
+kaskustoto369bet.shop
 kaskustoto369jpx.site
 kaskustoto499jpx.site
+kaskustoto500id.shop
 kaskustoto508jpx.site
 kaskustoto576.cfd
 kaskustoto599jpx.site
@@ -1606,12 +1620,30 @@ kaskustoto736jpx.site
 kaskustoto808jpx.site
 kaskustoto839.sbs
 kaskustoto843.sbs
+kaskustoto8fr.sbs
 kaskustoto964.site
+kaskustotoxjp.site
+kaskustotoxsip17.site
+kaskustotoxsipi22.site
+kaskustotoxsips7.site
+kastil777slot.com
 kastogel228net.site
 kastotox055.site
+katak168slot.com
+katak365slot.com
+kdg138slot.com
+kdslot.click
 kdslot777.online
 kdslot777.site
 kdslot888.xyz
+keceslots777.com
+kejutoto583bro.live
+kelas198slot.com
+kembarjituslot.vip
+kencana303slot.com
+kencur138slot.com
+kenzo188slot.com
+kenzototo2.top
 kenzototo936ypl.site
 kepritogel001jpx.site
 kepritogel020jpx.site
@@ -1621,15 +1653,40 @@ kepritogel499jpx.site
 kepritogel508jpx.site
 kepritogel599jpx.site
 kepritogel736jpx.site
+kera888slot.com
+keris4drtp.top
+ketuatoto.online
+key777slot.com
+kfjanxqpowmzla298-f2togel.store
 kijang500-rtp6.site
+kiki123slot.com
+kilat128slot.com
+kilat131slot.com
+kilat368slot.com
+kimtoto1.site
+kimtoto3.site
+kimtoto4.site
+kimtoto66.site
+kimtoto88.site
+kimtoto99.site
+king-slot.xyz
+king138slot.com
+king365slot.com
+kingdomtoto.click
+kingdomtoto.xyz
 kingdomtoto112az.site
 kingdomtoto258il.site
 kingdomtoto258qs.site
 kingdomtoto857dm.site
 kingdomtotowdx043.site
+kinghorsetoto5ghj.sbs
+kinghorsetoto6sxz.sbs
 kingkongtotohoki896jp.site
+kipas123slot.com
 kiratoto256gil.site
+kiss8toto.xyz
 kkslot-777demo.top
+kkslot777.today
 kkslot777bonum.top
 kkslot777credo.top
 kkslot777donum.top
