@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 31 Jul 2026 14:12 UTC
-# Version: 2026.0731.1412.17
+# Last modified: 31 Jul 2026 19:34 UTC
+# Version: 2026.0731.1934.58
 # Syntax: Domains (without subdomains)
-# Number of entries: 5874
+# Number of entries: 5883
 #
 01ggn3rtpvk71uobs8v0ktf74o0dphp5.top
 01jamuslot.click
@@ -29,6 +29,7 @@
 1-berkawantotopro.site
 1-xslots.online
 10001slot.xyz
+10001toto.club
 1000togel.org
 101totox.org
 108slot.xyz
@@ -80,6 +81,7 @@
 12-malaysia-slot.online
 12-malaysia-slot.vip
 1212slot.net
+1221slot.club
 123dragonslot.com
 123okslot.net
 123slots.vip
@@ -104,6 +106,7 @@
 1688ruayslot.biz
 1688ruayslot.cloud
 1688ruayslot.fun
+1688ruayslot.life
 1688ruayslot.run
 1688ruayslot.website
 1688ruayslot1.com
@@ -308,6 +311,7 @@
 21rtppiton786.pro
 222toto.xyz
 234eslot.com
+234togel.asia
 247supertotobet.icu
 248supertotobet.icu
 249supertotobel.com
@@ -5428,6 +5432,7 @@ syracusestallions.com
 tacosmabok88.pages.dev
 tante777slot.xyz
 team.rallycharlotte.org
+teslatogel754net.site
 teslatoto123.lol
 teslatoto123.site
 teslatoto147.xyz
@@ -5446,6 +5451,7 @@ togel123bbfs.site
 togel123sdy.site
 togel138xpst.site
 togel138xrot.site
+togel178.click
 togel1987.xyz
 togel212.xyz
 togel232hk.site
@@ -5563,6 +5569,7 @@ toto500nevs.site
 toto500tek3.site
 toto500tos9.site
 toto600.site
+toto700.click
 toto700x77gasi.site
 toto700x77gass.site
 toto700xgasi77.site
@@ -5598,6 +5605,7 @@ toto88wdx046.site
 toto88wdx047.site
 toto88wdx048.site
 toto88wdx049.site
+toto88wdx051.site
 toto919pos.lol
 toto987asb.site
 toto987twt.site
@@ -5742,6 +5750,7 @@ watitotowdx047.site
 watitotowdx048.site
 watitotowdx049.site
 watitotowdx051.site
+watitotowdx053.site
 waxing5rb.elegantspasalon.com
 wdtoto007pas.site
 we777slot.xyz
