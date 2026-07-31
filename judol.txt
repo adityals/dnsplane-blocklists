@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 31 Jul 2026 08:19 UTC
-# Version: 2026.0731.0819.46
+# Last modified: 31 Jul 2026 08:53 UTC
+# Version: 2026.0731.0853.18
 # Syntax: Domains (without subdomains)
-# Number of entries: 5853
+# Number of entries: 5862
 #
 01ggn3rtpvk71uobs8v0ktf74o0dphp5.top
 01jamuslot.click
@@ -3830,10 +3830,12 @@ kakek3033fav.site
 kakek3033gass.site
 kakek3033lv.site
 kakek3033pg.site
+kakek3038ol.site
 kakek303dnwe.site
 kakek303tosn.site
 kakek303vikh.site
 kakek305wdl.live
+kakek307ice.site
 kakek308ace.live
 kakek4d.site
 kambing138slot.com
@@ -3940,6 +3942,7 @@ kejutoto583bro.live
 kelas198slot.com
 keluaranjitu.com
 kembarjituslot.vip
+kenangan889rtpw.xyz
 kencana303slot.com
 kencur138slot.com
 kenzo188slot.com
@@ -4055,6 +4058,7 @@ koitoto99.xyz
 koitotoko88jpx.site
 koitotologin.xyz
 koko128slot.com
+koko303-polagacor.cfd
 koko303-rtpgacor.pics
 koko389slot.com
 koko5000rtp.site
@@ -4208,6 +4212,7 @@ logototowdx047.site
 logototowdx048.site
 logototowdx049.site
 logototowdx050.site
+logototowdx051.site
 ltdtoto131.site
 ltdtoto132.site
 ltdtoto133.site
@@ -4250,6 +4255,7 @@ lunatogel046jepe.site
 lunatogel047jepe.site
 lunatogel048jepe.site
 lunatogel049jepe.site
+lunatogel050jepe.site
 lunatogelxgcro550.site
 lusatoto123hjp.site
 luxury138maxwin.site
@@ -4318,6 +4324,7 @@ mahjong673jpx.site
 mahjong682jpx.site
 mahjong693jp.site
 mahjong850jpx.site
+mahjong955jpa.site
 mahjong962go.site
 mahjongdh131.site
 mahjongdh132.site
@@ -4332,6 +4339,7 @@ mahjongwin138s.vip
 mahjongwin138t.vip
 mahjongwin138u.vip
 mahjongx127jt.site
+mahjongx458pg.site
 mahjongx585jp.site
 mahjongx591jp.site
 mahjongx686jp.site
@@ -4392,6 +4400,7 @@ mawartotowdx046.site
 mawartotowdx047.site
 mawartotowdx048.site
 mawartotowdx049.site
+mawartotowdx050.site
 mawartotowdx727.site
 mawartotowdx939.site
 maxslot889xptc.site
