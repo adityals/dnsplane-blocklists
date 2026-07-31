@@ -1,9 +1,9 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 31 Jul 2026 02:57 UTC
-# Version: 2026.0731.0257.25
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 31 Jul 2026 06:18 UTC
+# Version: 2026.0731.0618.09
 # Syntax: Domains (without subdomains)
 # Number of entries: 2297
 #
