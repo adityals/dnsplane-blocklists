@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 31 Jul 2026 08:53 UTC
-# Version: 2026.0731.0853.18
+# Last modified: 31 Jul 2026 14:12 UTC
+# Version: 2026.0731.1412.17
 # Syntax: Domains (without subdomains)
-# Number of entries: 5862
+# Number of entries: 5874
 #
 01ggn3rtpvk71uobs8v0ktf74o0dphp5.top
 01jamuslot.click
@@ -4423,6 +4423,8 @@ maxwin131xcuan.site
 maxwin134xcuan.site
 maxwin138fiksjp.site
 maxwin138fix.site
+maxwin138fixd.site
+maxwin138fixwd.site
 maxwin138fkzp.site
 maxwin138fxcc.site
 maxwin138fxj.site
@@ -4443,6 +4445,7 @@ maxwin288.vip
 maxwin333.vip
 maxwin365.online
 maxwin388.xyz
+maxwin500.click
 maxwin659xjp.site
 maxwin666.xyz
 maxwin680xhoki.site
@@ -4594,6 +4597,7 @@ mitchtaxi.com
 mobile.akagroupltd.com
 mobile.prediksihkpools.top
 mollificiopadano.com
+mpo111gacor.top
 mposlot777.online
 muliatoto457web.site
 mylannaspa.com
@@ -4641,6 +4645,7 @@ new.oregonrecoverynetwork.org
 newrtp-hero138.online
 nex288gacor.online
 nex777maxwin.site
+next777lbmaxwin.site
 ngrtpp161.vip
 ninjutsu.cheservicesjobs.com
 nomorslot.archbalt.org
@@ -4677,6 +4682,7 @@ olotogel789qs.site
 olotogel789qt.site
 olotogel789qu.site
 olotogel789qy.site
+olototo138bit.site
 olxtoto100bet.click
 olxtoto123.click
 olxtoto130hot.click
@@ -5058,8 +5064,11 @@ rtp789pxgas.site
 rtp7q21v842f8ngmjscb7a1ld0575uls.top
 rtp888slot.net
 rtp999.top
+rtpair168c.click
+rtpair168fu.click
 rtpaloy500.site
 rtpangpao808.online
+rtparwana855.vip
 rtpbisnis555.vip
 rtpbtv168.xyz
 rtpcandu123mr.click
@@ -5074,6 +5083,7 @@ rtpkkslot-777.top
 rtplapas500gacor.site
 rtpleci123a.xyz
 rtpnaga188jagung.xyz
+rtpnaga188labu.xyz
 rtpnaga188markisa.xyz
 rtpnaga188timun.xyz
 rtpnaga188wortel.xyz
@@ -5222,6 +5232,7 @@ sesetotowdx046.site
 sexyslot888.vip
 shermanoaksnailsalon.com
 shop-1.flightyapparel.com
+sinar123lbmaxwin.site
 sinimahjong222.bond
 situs-bo-togel.piper.com
 situs.jaworskismarket.com
@@ -5260,6 +5271,7 @@ slot138spin.sbs
 slot138untung.icu
 slot1688.cfd
 slot178.xyz
+slot212.click
 slot288.xyz
 slot3000.xyz
 slot333.click
