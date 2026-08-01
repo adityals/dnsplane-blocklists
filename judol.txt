@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 31 Jul 2026 19:34 UTC
-# Version: 2026.0731.1934.58
+# Last modified: 01 Aug 2026 02:57 UTC
+# Version: 2026.0801.0257.56
 # Syntax: Domains (without subdomains)
-# Number of entries: 5883
+# Number of entries: 5901
 #
 01ggn3rtpvk71uobs8v0ktf74o0dphp5.top
 01jamuslot.click
@@ -595,6 +595,8 @@
 8888slot.best
 8888slot.bid
 8888slot.xyz
+8888slotapk.com
+8888slotlogin.com
 8888slots.win
 888roxoslots.site
 888slot.click
@@ -610,6 +612,7 @@
 888slotgame.app
 888slotgame.pro
 888slotgame.win
+888slotgameapp.com
 888slotlucky550.site
 888slotlucky551.site
 888slotpaz.site
@@ -647,6 +650,7 @@
 988slotmax.com
 988slotmpo.com
 988slotterbaik.com
+988toto.com
 98toto1jepx.site
 98toto368top.site
 98toto55fix.site
@@ -750,9 +754,12 @@ aeartproject.xyz
 afb365gacor.top
 afktotoprediksih.xyz
 ag777slotsgame.com
+agam69rtppp.lol
 agen666slot.com
+agen777slot.club
 agen878slot.com
 agendarattogel.online
+agendarattogel.vip
 agenjamuslot.site
 agenmaxwin.online
 agenslot128.me
@@ -767,6 +774,7 @@ agenslot138r.com
 agenslot138x.com
 agenslot138y.com
 agenslot138z.com
+agenslot168.club
 agenslot188.online
 agenslot188.website
 agenslotez338.club
@@ -911,6 +919,7 @@ alexistoto178rh.site
 alexistoto178sa.site
 alexistoto209.live
 alexistoto214.live
+alexistoto222.live
 alexistoto232.live
 alexistoto241.live
 alexistoto246.live
@@ -924,18 +933,21 @@ alexistoto282.live
 alexistoto291.live
 alexistoto293.live
 alexistoto303hot.shop
+alexistoto324.live
 alexistoto328gc.site
 alexistoto337.live
 alexistoto357.live
 alexistoto369.click
 alexistoto369hot.shop
 alexistoto388.live
+alexistoto394.live
 alexistoto427.live
 alexistoto449.live
 alexistoto465.live
 alexistoto46ont.site
 alexistoto478.live
 alexistoto47ont.site
+alexistoto482.live
 alexistoto48ont.site
 alexistoto49ont.site
 alexistoto505.shop
@@ -1008,6 +1020,7 @@ allstarslotssouthafrica.online
 alltslots.top
 alpatoto.cfd
 alpatoto.online
+alphaslot77.vip
 alt11-ktm303gacor.pro
 alt12-ktm303gacor.pro
 alt123toto.com
@@ -1018,6 +1031,7 @@ altapkpresidenslot.com
 alternatifhuntertoto.site
 altertoto1xit.site
 altogel77a.site
+altogelsirup.cfd
 altogelwdx043.site
 altogelwdx044.site
 altogelwdx045.site
@@ -1038,6 +1052,7 @@ ambyargacor.vip
 americanmahjong101.com
 americanmahjonghouse.xyz
 amerikatoto-bor.site
+amin89maxwin.site
 amintotoblue.xyz
 amoy333-slotdemo.com
 amoy333-slotdemo.online
@@ -1054,6 +1069,7 @@ ampbatikslot.online
 ampgambarslotpass.site
 amppokemontoto.site
 amprakyatslot.online
+ampresmigentingtoto.online
 ampslot10k.site
 ampslotdp10k.site
 ampsritoto.online
@@ -1081,11 +1097,13 @@ anjay888gacor.space
 anjing138slot.com
 anjing365slot.com
 antamtotox44win.site
+antamtotox45jpt.site
 antamtotoxhoks6.site
 antamtotoxjpd45.site
 antamtotoxwin44.site
 antamtotoxwint45.site
 antidotslot.xyz
+anugerahtoto.xyz
 ap686slot.com
 apa-ginigini-buujang.caffevignette.com
 apace138-rtp.com
