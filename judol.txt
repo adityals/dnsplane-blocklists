@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 01 Aug 2026 06:04 UTC
-# Version: 2026.0801.0604.08
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 01 Aug 2026 08:24 UTC
+# Version: 2026.0801.0824.58
 # Syntax: Domains (without subdomains)
-# Number of entries: 5704
+# Number of entries: 5721
 #
 01jamuslot.click
 070slot.vip
@@ -756,6 +756,7 @@ ajototo1xit.site
 ajototocair.site
 ak999slotsapk.com
 akaislot.top
+akaislotid.xyz
 akarslotxgoal55.site
 akasia899slot.club
 akatsuki189slot.com
@@ -776,6 +777,7 @@ alertpropertylaw.click
 alexaslot138key.com
 alexaslot138slot.com
 alexaslot188.com
+alexis777slot.net
 alexistogel001jpx.site
 alexistogel020jpx.site
 alexistogel066jpx.site
@@ -876,6 +878,7 @@ alexistoto246.live
 alexistoto247.cfd
 alexistoto248.live
 alexistoto268.live
+alexistoto270.live
 alexistoto277.live
 alexistoto281.live
 alexistoto282.live
@@ -1154,6 +1157,7 @@ arenawin505slot.com
 arjuna189slot.com
 arkada-slot1.top
 arne-slotv.online
+aromatotoz.xyz
 artistotogacor.vip
 artistotomobile.site
 artphotostudio2003.lol
@@ -1166,6 +1170,7 @@ arwanatoto879.site
 arwanatotov3d.site
 as388slot.club
 asd123slot.com
+asdtoto.xyz
 aseptogel.xyz
 asia123slot.org
 asia200toto.com
@@ -1181,6 +1186,7 @@ asian4dslot.vip
 asianslot777.com
 asiaslot128.org
 asiaslot189.com
+asiaslot365.club
 asiaslot777a.com
 asiaslot777rtp.online
 asiatogel.top
@@ -1265,7 +1271,9 @@ ato777slots.com
 atoto121.store
 atoto313.com
 atoto700.com
+au328slotmahjong.com
 aulaslottus.online
+auroratoto1.vip
 ausslots.site
 australianslots.online
 authentikweddings.com
@@ -1278,6 +1286,7 @@ avtoto-manja.online
 awan128slot.com
 awislot.lol
 awpslot.click
+awpslotid.xyz
 awslot777.lol
 awslot7772.com
 awslot777q.com
@@ -1289,6 +1298,9 @@ ayam365slot.com
 ayodong138slot.club
 ayoslot.lol
 ayucasinogacor.xyz
+ayutogelzx208.com
+ayutogelzx576.com
+ayutogelzx941.com
 az-pinup-slots.top
 az-slots-pinup.top
 az-slots-play.xyz
@@ -2919,6 +2931,7 @@ gacor200y.com
 gacor25.click
 gacor288hoki.com
 gacor300mania.cfd
+gacor300mania.xyz
 gacor300rtp.click
 gacor300slot.com
 gacor303a.com
@@ -3882,10 +3895,13 @@ kiss8toto.xyz
 kitchentablesquared.com
 kkslot-777demo.top
 kkslot777.today
+kkslot777best.top
 kkslot777bonum.top
 kkslot777credo.top
+kkslot777cuaan.top
 kkslot777donum.top
 kkslot777dux.top
+kkslot777emas.top
 kkslot777fide.top
 kkslot777frux.top
 kkslot777gova.top
@@ -5201,6 +5217,7 @@ slothoke763jp.site
 slothoki109.xyz
 slothoku168llm.site
 slothoku212.site
+slothoku366lab.site
 slotindolucky550.site
 slotjplucky550.site
 sloto123.online
