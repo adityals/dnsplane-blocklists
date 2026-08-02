@@ -2,12 +2,13 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 02 Aug 2026 08:28 UTC
-# Version: 2026.0802.0828.28
+# Last modified: 02 Aug 2026 13:25 UTC
+# Version: 2026.0802.1325.18
 # Syntax: Domains (without subdomains)
-# Number of entries: 5817
+# Number of entries: 5856
 #
 01jamuslot.click
+01toto.click
 070slot.vip
 070slot5.com
 070slot8.com
@@ -26,6 +27,7 @@
 10001slot.xyz
 10001toto.club
 1000togel.org
+1001sloting.art
 101totox.org
 108slot.xyz
 1112slot.xyz
@@ -4328,6 +4330,8 @@ mahjongwin138t.vip
 mahjongwin138u.vip
 mahjongx127jt.site
 mahjongx458pg.site
+mahjongx458vr.site
+mahjongx482gy.site
 mahjongx585jp.site
 mahjongx591jp.site
 mahjongx686jp.site
@@ -4389,6 +4393,8 @@ mawartotowdx047.site
 mawartotowdx048.site
 mawartotowdx049.site
 mawartotowdx050.site
+mawartotowdx051.site
+mawartotowdx052.site
 mawartotowdx727.site
 mawartotowdx939.site
 maxslot889xptc.site
@@ -4404,6 +4410,7 @@ maxwin110xcuan.site
 maxwin113xcuan.site
 maxwin116xcuan.site
 maxwin119xcuan.site
+maxwin122.online
 maxwin122xcuan.site
 maxwin125xcuan.site
 maxwin128xcuan.site
@@ -4412,16 +4419,21 @@ maxwin134xcuan.site
 maxwin138fiksjp.site
 maxwin138fix.site
 maxwin138fixd.site
+maxwin138fixnd.site
+maxwin138fixni.site
 maxwin138fixwd.site
+maxwin138fkjo.site
 maxwin138fkzp.site
 maxwin138fxcc.site
 maxwin138fxj.site
 maxwin138fxje.site
 maxwin138fxjk.site
 maxwin138fxjp.site
+maxwin138fxk.site
 maxwin138fxkj.site
 maxwin138fxkk.site
 maxwin138fxko.site
+maxwin138fxkz.site
 maxwin138fzip.site
 maxwin138xfikjp.site
 maxwin139.online
@@ -4586,6 +4598,7 @@ muliatoto457web.site
 mylannaspa.com
 nagaslot777.lol
 nagaslot777como.top
+nagatoto168.click
 nagatoto168dujxp.site
 nagatoto168fujxp.site
 nagatoto168gujxp.site
@@ -4663,7 +4676,9 @@ olotogel789qy.site
 olototo138bit.site
 olxtoto100bet.click
 olxtoto123.click
+olxtoto123viral.click
 olxtoto130hot.click
+olxtoto180hot.click
 olxtoto200bet.click
 olxtoto255.click
 olxtoto265hot.click
@@ -4895,6 +4910,7 @@ pragmatic138xu.site
 pragmatic138xy.site
 pragmatic188oli.site
 pragmatic189.top
+pragmatic189.xyz
 pragmatic888.click
 prediksi.bocoranhk.me
 prediksi4d.online
@@ -5018,9 +5034,11 @@ rtp-newraja328.xyz
 rtp-slot.cuddlememontessorischool.com
 rtp-slot.eddievarelaformayor.com
 rtp-slot.rtpedia.com
+rtp1001.xyz
 rtp123indomantap.xyz
 rtp2027.top
 rtp288.top
+rtp2bata123.click
 rtp777.xyz
 rtp789dxgas.site
 rtp789kxgas.site
@@ -5080,6 +5098,8 @@ rtpsky123sawo.xyz
 rtpsky123semangka.xyz
 rtpsky123wortel.xyz
 rtpslot365.xyz
+rtpsuster123mantap1.top
+rtpsuster123mantap3.top
 rtpto1.joelhformayor.com
 rtptoto123.sbs
 rtpvegas338.site
@@ -5229,6 +5249,7 @@ slot1111.sbs
 slot1234.site
 slot138.click
 slot1688.cfd
+slot177.xyz
 slot178.xyz
 slot212.click
 slot288.xyz
@@ -5238,6 +5259,7 @@ slot356.xyz
 slot365.vip
 slot3651.online
 slot365v.online
+slot367.xyz
 slot5000qq.site
 slot7000plus.site
 slot7500.xyz
@@ -5257,14 +5279,18 @@ slot777mvp.click
 slot777now.click
 slot777xgoal55.site
 slot777xgoal552.site
+slot798-alt.site
+slot838.xyz
 slot88.guru
 slot8800.online
 slot8800.xyz
 slot8800life.vip
+slot883tr.sbs
 slot8881.online
 slot8888.xyz
 slot88899dh130.site
 slot888bets.click
+slot888cuan.online
 slot888fyp.click
 slot888hdku.site
 slot888hot.click
@@ -5299,6 +5325,7 @@ slotcc789qw.site
 slotdemoakun.exoticwheelsindia.com
 slotdepo10k.choosemollybarr.com
 slotdh99131.site
+slotgacor138.top
 slotgacor288.xyz
 slotgacorkodokhoki889.online
 slotgama101.site
@@ -5315,6 +5342,7 @@ slothoku168llm.site
 slothoku212.site
 slothoku366lab.site
 slotindolucky550.site
+slotjplucky321.site
 slotjplucky550.site
 sloto123.online
 slotonline888.online
@@ -5375,6 +5403,7 @@ suntikrtpba303nk.online
 suntogel9364.site
 supertoto728.top
 supertoto929.top
+surgaslot777.xyz
 suster.plainsmedicalstaffing.com
 swaticonsultancy.com
 sweetbonanza1000slot.sbs
@@ -5385,6 +5414,7 @@ team.rallycharlotte.org
 teslatogel754net.site
 teslatoto123.lol
 teslatoto123.site
+teslatoto123x.site
 teslatoto147.xyz
 tetes.malvestidas.com
 thatcurryplace.com
@@ -5411,6 +5441,7 @@ togel369bbfs.site
 togel388.site
 togel389kka.site
 togel389klq.site
+togel4dduren136.site
 togel4dlucky550.site
 togel515bb.site
 togel551bb.site
@@ -5455,6 +5486,8 @@ togelon176.xyz
 togelon368top.site
 togelslotlucky550.site
 togeltimur368top.site
+togelup303x.site
+togelup898x.site
 togelxgoal551.site
 top1toto768.xyz
 top1totoxhoka105.site
@@ -5518,6 +5551,8 @@ toto600.site
 toto700.click
 toto700x77gasi.site
 toto700x77gass.site
+toto700x78gas.site
+toto700xgas77.site
 toto700xgasi77.site
 toto700xgass77.site
 toto700xgcra11.site
@@ -5552,6 +5587,8 @@ toto88wdx047.site
 toto88wdx048.site
 toto88wdx049.site
 toto88wdx051.site
+toto88wdx052.site
+toto88wdx053.site
 toto919pos.lol
 toto987asb.site
 toto987twt.site
@@ -5629,6 +5666,7 @@ vio777pbslot.site
 vio777vbslot.site
 vip777slot.xyz
 vn888slot.xyz
+vw108slot.xyz
 waktogel001jpx.site
 waktogel020jpx.site
 waktogel066jpx.site
@@ -5689,6 +5727,7 @@ watitotowdx047.site
 watitotowdx048.site
 watitotowdx049.site
 watitotowdx051.site
+watitotowdx052.site
 watitotowdx053.site
 waxing5rb.elegantspasalon.com
 wdtoto007pas.site
