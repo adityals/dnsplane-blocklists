@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 02 Aug 2026 02:56 UTC
-# Version: 2026.0802.0256.50
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 02 Aug 2026 06:07 UTC
+# Version: 2026.0802.0607.19
 # Syntax: Domains (without subdomains)
-# Number of entries: 5862
+# Number of entries: 5786
 #
 01jamuslot.click
 070slot.vip
@@ -2119,22 +2119,6 @@ coloksgp-togel.site
 coloktoto.vip
 combetyetrtplayrfagppde.xyz
 comfortplazasuites.click
-comtotoutamaarea.xyz
-comtotoutamaasia.online
-comtotoutamadaftar.xyz
-comtotoutamagroup.online
-comtotoutamaindo.xyz
-comtotoutamalive.xyz
-comtotoutamamobile.xyz
-comtotoutamanet.xyz
-comtotoutamapintu.online
-comtotoutamaplaza.online
-comtotoutamaplus.xyz
-comtotoutamaportal.online
-comtotoutamapusat.xyz
-comtotoutamaresmi.xyz
-comtotoutamawap.online
-comtotoutamaweb.xyz
 congtogel.vip
 congtogel001jpx.site
 congtogel020jpx.site
@@ -2210,36 +2194,6 @@ cuan900slot.com
 cuanslot338.org
 cuantoto777.org
 cuantoto99.online
-cuantotoaksesasia.xyz
-cuantotoakungroup.xyz
-cuantotoalternatifapp.xyz
-cuantotoapkplaza.xyz
-cuantotoareaakun.xyz
-cuantotoasiapintu.xyz
-cuantotobaruplus.xyz
-cuantotodaftar.xyz
-cuantotodaftarpintu.xyz
-cuantotogroupindo.xyz
-cuantotoid.xyz
-cuantotoindoapp.xyz
-cuantotolinkutama.xyz
-cuantotologinplaza.xyz
-cuantotomasukbaru.xyz
-cuantotomemberlink.xyz
-cuantotomobilemedia.xyz
-cuantotoofficiallive.xyz
-cuantotoplusarea.xyz
-cuantotoportalmobile.xyz
-cuantotoproutama.xyz
-cuantotopusatlink.xyz
-cuantotoresmiapk.xyz
-cuantotositusmember.xyz
-cuantototerbaruarea.xyz
-cuantotovipid.xyz
-cuantotovipweb.xyz
-cuantotowapmedia.xyz
-cuantotoweblive.xyz
-cuantotozonagroup.xyz
 cucu777slot.com
 cucukakek.cfd
 cucukakek.site
@@ -2510,36 +2464,6 @@ dewatogelwdx047.site
 dewatoto.xyz
 dewatoto138.org
 dewi288slot.com
-dewidewitotoaksesindo.xyz
-dewidewitotoakunresmi.xyz
-dewidewitotoalternatif.xyz
-dewidewitotoalternatifklik.xyz
-dewidewitotoapkmarket.xyz
-dewidewitotoareamember.xyz
-dewidewitotoasianet.xyz
-dewidewitotobaruakses.xyz
-dewidewitotodaftarnet.xyz
-dewidewitotogrouppro.xyz
-dewidewitotoindoklik.xyz
-dewidewitotolinkhome.xyz
-dewidewitotologinmarket.xyz
-dewidewitotomasukakses.xyz
-dewidewitotomemberterbaru.xyz
-dewidewitotomobileconnect.xyz
-dewidewitotomobilewap.xyz
-dewidewitotoofficialcenter.xyz
-dewidewitotopluszona.xyz
-dewidewitotoportalapk.xyz
-dewidewitotoprohome.xyz
-dewidewitotopusatterbaru.xyz
-dewidewitotoresmiofficial.xyz
-dewidewitotositusvip.xyz
-dewidewitototerbaruzona.xyz
-dewidewitotovipdaftar.xyz
-dewidewitotowapconnect.xyz
-dewidewitotowaplogin.xyz
-dewidewitotowebcenter.xyz
-dewidewitotozonaresmi.xyz
 dewigacor178alt.vip
 dewislot77min.icu
 dewitogel138.org
