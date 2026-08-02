@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 02 Aug 2026 06:07 UTC
-# Version: 2026.0802.0607.19
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 02 Aug 2026 08:28 UTC
+# Version: 2026.0802.0828.28
 # Syntax: Domains (without subdomains)
-# Number of entries: 5786
+# Number of entries: 5817
 #
 01jamuslot.click
 070slot.vip
@@ -327,6 +327,7 @@
 333slot.xyz
 337slot.xyz
 337sloto.com
+338slot.click
 338slot2.site
 3446slotsq.com
 356slot.xyz
@@ -730,6 +731,7 @@ agenslot138z.com
 agenslot168.club
 agenslot188.online
 agenslot188.website
+agenslot188gacor.site
 agenslotez338.club
 agenslotmaxwin.online
 agent.myfossil.org
@@ -992,6 +994,7 @@ altogelwdx048.site
 altogelwdx049.site
 altogelwdx051.site
 altogelwdx052.site
+altogelwdx053.site
 amazon-slot.lol
 amazslot.online
 ambianceslot.xyz
@@ -1362,6 +1365,9 @@ banddar234slot.com
 bandot777slot.com
 bandotslot5.site
 bandotslot55.site
+bandotslot55555.site
+bandotslot666.site
+bandotslot7777.site
 bandotslot888.site
 bandotslotid.site
 bandotslotku.site
@@ -1819,8 +1825,12 @@ bosslot888.com
 bosstoto168.com
 bostontotojoss.online
 bostontototampan.online
+bostoto666.site
+bostoto6666.site
+bostoto66666.site
 bostoto77777.site
 bostoto8888.site
+bostoto88888.site
 boswaktogel.lol
 botoltotohoki48.site
 botoltotohoki49.site
@@ -2944,6 +2954,7 @@ gacor180a.store
 gacor181.org
 gacor188.app
 gacor188a.com
+gacor200.click
 gacor200a.com
 gacor200apk.com
 gacor200b.com
@@ -2955,6 +2966,7 @@ gacor25.click
 gacor268.club
 gacor288hoki.com
 gacor300mania.cfd
+gacor300mania.click
 gacor300mania.cyou
 gacor300mania.homes
 gacor300mania.xyz
@@ -3042,6 +3054,8 @@ gacor77wdx048.site
 gacor77wdx049.site
 gacor77wdx051.site
 gacor77wdx052.site
+gacor77wdx053.site
+gacor77wdx054.site
 gacor808.online
 gacor8800.xyz
 gacor881it.site
@@ -3111,6 +3125,8 @@ gacorslotku260x.cyou
 gacorslotku261x.cyou
 gacorslotku262x.cyou
 gacorslotku265x.cyou
+gacorslt138ai.lol
+gacorslt138ai.xyz
 gacortop.online
 gacortop.site
 gacorunited.online
@@ -3392,6 +3408,7 @@ hp138-gacor.xyz
 hujantoto.click
 hujantoto117jpx.site
 hujantoto369jpx.site
+hujantoto717x.site
 hujantoto736jpx.site
 hujantoto753it.site
 hujantoto8080cool.site
@@ -3663,6 +3680,7 @@ jili777slot.site
 jilislot777.click
 jilislot777jp.site
 jitu138toto.org
+jitutoto777.xyz
 jiwa123slot.com
 jm200slot.xyz
 jnetoto001jpx.site
@@ -3793,11 +3811,13 @@ kakek3033gass.site
 kakek3033lv.site
 kakek3033pg.site
 kakek3038ol.site
+kakek3038viip.site
 kakek303dnwe.site
 kakek303tosn.site
 kakek303vikh.site
 kakek305wdl.live
 kakek307ice.site
+kakek307jet.site
 kakek308ace.live
 kakek4d.site
 kambing138slot.com
@@ -3962,14 +3982,18 @@ kkslot-777demo.top
 kkslot777.today
 kkslot777best.top
 kkslot777bonum.top
+kkslot777bos.top
+kkslot777cair.top
 kkslot777credo.top
 kkslot777cuaan.top
+kkslot777dewa.top
 kkslot777donum.top
 kkslot777dux.top
 kkslot777emas.top
 kkslot777fide.top
 kkslot777frux.top
 kkslot777gova.top
+kkslot777hooki.top
 kkslot777laus.top
 kkslot777omen.top
 kkslot777opes.top
@@ -4040,6 +4064,7 @@ kpktoto020jpx.site
 kpktoto066jpx.site
 kpktoto117jpx.site
 kpktoto123.click
+kpktoto123vip.click
 kpktoto125hot.click
 kpktoto138hot.click
 kpktoto145.click
@@ -4060,6 +4085,7 @@ kpktoto7dg.sbs
 kpktoto808jpx.site
 kpktoto8yy.site
 kpktotoapi138.click
+kpktotobet138.click
 kpktotoko1011.site
 kpktotoko168agn.site
 kpktotoko168amp.site
@@ -4171,6 +4197,9 @@ logototowdx048.site
 logototowdx049.site
 logototowdx050.site
 logototowdx051.site
+logototowdx052.site
+logototowdx053.site
+logototowdx054.site
 ltdtoto131.site
 ltdtoto132.site
 ltdtoto133.site
@@ -4214,6 +4243,8 @@ lunatogel047jepe.site
 lunatogel048jepe.site
 lunatogel049jepe.site
 lunatogel050jepe.site
+lunatogel051jepe.site
+lunatogel052jepe.site
 lunatogelxgcro550.site
 lusatoto123hjp.site
 luxury138maxwin.site
