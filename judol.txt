@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 03 Aug 2026 14:44 UTC
-# Version: 2026.0803.1444.09
+# Last modified: 03 Aug 2026 19:40 UTC
+# Version: 2026.0803.1940.55
 # Syntax: Domains (without subdomains)
-# Number of entries: 6135
+# Number of entries: 6187
 #
 007slots.pro
 01jamuslot.click
@@ -3664,8 +3664,11 @@ hondatoto972jpx.site
 hondatoto973jpx.site
 hongkongtotogames.online
 hongtogel.click
+hot168slot.com
+hotel888slot.com
 hp138-gacor.lol
 hp138-gacor.xyz
+hubtoto.click
 hujantoto.click
 hujantoto117jpx.site
 hujantoto369jpx.site
@@ -3676,6 +3679,8 @@ hujantoto8080cool.site
 hujantoto808bo.site
 hujantoto808jpx.site
 hujantoto898.site
+hujantotoanps.site
+hujantotocapts1.site
 hujantotoko730jpx.site
 hujantotoko731jpx.site
 hujantotoko732jpx.site
@@ -3688,25 +3693,50 @@ hujantotoko738jpx.site
 hujantotoko739jpx.site
 hujantotoko740jpx.site
 hujantotoko741jpx.site
+hujantotoku209x.cyou
 hujantotoku211x.cyou
+hujantotoku212x.cyou
+hujantotoku213x.cyou
+hujantotoku214x.cyou
+hujantotoku216x.cyou
+hujantotonyaw.site
 hujantotoxon.site
+hukumtoto.click
+humas-rtp2026.store
+huntertoto.xyz
+huskyslot.click
+huskyslotid.xyz
 hv777slot.com
 i777slot.net
 ibetslot.click
+idamantoto.site
+idamantoto304fox.live
 idamantoto305max.site
+idamantoto6yh.cfd
+idamantoto9bc.sbs
+idamantoto9cv.sbs
+idamantoto9ws.site
+ideslot.click
 idiscatter78.site
 idksslot.xyz
+idnslot.click
 idnslot711top.live
 idnslot808trk.live
 idnslot899sun.live
 idntoto77.xyz
+idol188slot.com
 idrslot17.xyz
 idrslot18.xyz
 idrslot19.xyz
 igtoto.click
 ikn888slot.com
+ikon303slot.com
+ikontoto.top
 ikontoto399gpk.site
 ikontoto399gql.site
+ilhamtotoanps.site
+ilhamtotocapts1.site
+ilhamtotonyaw.site
 imbagacor-chip.site
 imbaslot-xx.xyz
 imbaslot.click
@@ -3760,9 +3790,11 @@ inatogel442jpx.site
 inatogel445jpx.site
 inatogel478jpx.site
 inatogel499jpx.site
+inatogel4dc.sbs
 inatogel508jpx.site
 inatogel560xjp.site
 inatogel5fdv.sbs
+inatogel5sx.site
 inatogel707jpx.site
 inatogel708jpx.site
 inatogel709jpx.site
@@ -3807,10 +3839,14 @@ inatogelek932rba.site
 inatogell.xyz
 inatogelwdx046.site
 inatotox27wda.site
+inatotox28wd.site
 inatotoxpro88.site
+inatotoxwd27.site
+inatotoxwd28.site
 ind.hutchshotchicken.com
 indextogel.online
 indo123gacor.com
+indobetslot88.click
 indomipi.py-foods.com
 indosatotoxgas10.site
 indosattoto.click
@@ -3870,14 +3906,19 @@ interwin368slot.com
 inukrainestudy.com
 iramatogel.click
 iran-brain.com
+islot99.click
 isototox150.site
 istana178slot.com
 istana404slot.com
 istana888rtp.site
+istanaslotanps.site
+italia888slot.com
 itu777gacorvip.com
 iwantogel.xyz
 jabar777slot.com
+jabartoto.click
 jackpot168-rrtp.top
+jacktoto.click
 jacktoto.online
 jacktotowdx036.site
 jacktotowdx037.site
@@ -3886,6 +3927,7 @@ jacktotowdx039.site
 jacktotowdx040.site
 jacktotowdx041.site
 jacktotowdx042.site
+jago189slot.club
 jagoledakjbslot.site
 jagoledaklbslot.site
 jagoledakpbslot.site
@@ -3893,18 +3935,22 @@ jagoledakvbslot.site
 jagotogel.top
 jaguarwin888slot.com
 jajantogel693zip.live
+jakseltotox53hok.site
 jakseltotox91kingg.site
 jakseltotox91kingo.site
 jakseltotoxgase100.site
 jakseltotoxgcr1.site
 jakseltotoxhki5.site
 jakseltotoxhkis5.site
+jakseltotoxhok53.site
 jakseltotoxjpd45.site
+jakseltotoxking91.site
 jakseltotoxkingg91.site
 jakseltotoxkingo91.site
 jambi123slot.com
 jambitoto.top
 jambitoto368top.site
+jamet123slot.com
 jamin777slot.com
 jamintoto.xyz
 jamur4drtp.vip
@@ -3913,12 +3959,18 @@ jandanya-rtp.site
 jandaslot.click
 jangkar123slot.com
 jangkar128slot.com
+jangkautoto.online
+janjigacor.click
 janjitoto.click
+japri168slot.com
 jaringan-airtoto.online
 jarum888slot.com
 jas138slot.com
+jasatoto99.xyz
 jasminslots.top
 jateng777slot.com
+javaslot88.xyz
+javatogel.xyz
 jayaslotapk.xyz
 jdtoto-chip.site
 jeboltogel001jpx.site
