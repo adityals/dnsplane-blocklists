@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 03 Aug 2026 02:56 UTC
-# Version: 2026.0803.0256.56
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 03 Aug 2026 06:29 UTC
+# Version: 2026.0803.0629.18
 # Syntax: Domains (without subdomains)
-# Number of entries: 6016
+# Number of entries: 6037
 #
 01jamuslot.click
 01toto.click
@@ -374,6 +374,7 @@
 432slot.online
 448supertotobet.com
 456slot.xyz
+4d.osakaoh.com
 4d.tuktuck.com
 4dslot.online
 4dslot.xyz
@@ -794,6 +795,7 @@ aksesdewataslotzona.sbs
 aksesrajatoto88.sbs
 aksesslot777.store
 aku777slot.com
+akund-emoslotpg.oystergrotto.com
 akundemo.museummputantular.com
 aladin999slot.com
 alaskatoto.site
@@ -1172,6 +1174,7 @@ apkslotlucky550.site
 apkwongtotodepo.site
 apkwongtotonew.site
 aplikasimahjong.online
+apo.arphil.org
 apo388slot.com
 apolloslotssouthafrica.online
 app123toto.org
@@ -1540,6 +1543,7 @@ bb7rtp.xyz
 bbfstoto.click
 bbmtoto.click
 bbo303slot.club
+bbq.curveballkitchen.com
 bcl138slot.com
 bcltoto.click
 bdslot88bad.vip
@@ -1868,6 +1872,7 @@ bocoran168slot.com
 bocoranslotdora.site
 bocorantogelakurat.online
 bocorantoto.vip
+bola-01.profdrahmetkale.com
 bola-ttm-ngawitoto.online
 bola138slot.com
 bola568slot.com
@@ -1908,6 +1913,7 @@ bonuszeusbonus.cfd
 bookslots.click
 bookyourslot.online
 bor188slot.com
+borju.pigadvocates.fit
 borneo189slot.com
 borneototo.click
 borneototo.lol
@@ -1961,6 +1967,7 @@ bro.bruinwib.com
 bromo138slot.org
 bromo777slot.com
 bromo777slot.net
+brown.bakeryadda.com
 brslots136.com
 brslots333.com
 bslot200.com
@@ -2177,7 +2184,6 @@ cgacor200.com
 cgacor200.store
 chaba365-slot.com
 chaggacore.cfd
-chamadaslot.online
 chamadaslot101.com
 champion-slots-xgn.top
 champion138slot.com
@@ -2186,6 +2192,7 @@ champion365slot.com
 chateauxmuse.com
 checkanagent.com
 cheese.talamospizzas.com
+chef.acrossthecoastseafood.com
 chelsea841slot.club
 chelsea888slot.com
 chipgacor.site
@@ -2625,6 +2632,7 @@ dgacor200.com
 dgacor200.store
 dhhotdogs.com
 di138slot.club
+diagnostics.jainhospital.org
 diamond138slot.com
 diamond365slot.com
 diamond789-slot.com
@@ -2676,6 +2684,7 @@ directrampartplanet.click
 direktur168slot.com
 direkturtoto.click
 direkturtoto.xyz
+discount.pmstorewholesale.com
 distrogacor.online
 ditogel.click
 diva168slot.com
@@ -2719,6 +2728,7 @@ dptotoresmi.xyz
 dptotoresmi1.xyz
 dptotoresmi2.xyz
 dptotoresmi3.xyz
+dr-eye.ascenddentalalliance.com
 dragon222slot1.com
 dragon222slot10.com
 dragon222slot2.com
@@ -3287,7 +3297,6 @@ gacorslotku260x.cyou
 gacorslotku261x.cyou
 gacorslotku262x.cyou
 gacorslotku265x.cyou
-gacorslt138ai.lol
 gacorslt138ai.xyz
 gacortop.online
 gacortop.site
@@ -3431,7 +3440,6 @@ goto888slot.com
 gototochrm3000.click
 gowin666slot.com
 goyang888slot.com
-grandpashabet-scatter2026.vip
 gratis-main.demoslotfree.com
 grtoto.click
 gslotz888a.online
@@ -3608,7 +3616,6 @@ igtoto.click
 ikn888slot.com
 ikontoto399gpk.site
 ikontoto399gql.site
-imajbet-scatter2026.vip
 imbagacor-chip.site
 imbaslot-xx.xyz
 imbaslot.click
@@ -4301,6 +4308,7 @@ lakutotoxking1.site
 lalat138slot.com
 laman-airtoto.online
 lambo77maxwin.site
+lamineyamal.bnibarcelonacs.cat
 lancaster.veganvoodoolounge.com
 lapak898rtp.site
 lapaktoto248wd.site
@@ -4389,6 +4397,7 @@ ltdtoto209.site
 ltdtoto210.site
 ltdtoto211.site
 ltdtoto999.online
+luck.minamatadiseasemuseum.pro
 luluchu.org
 lunatogel036jepe.site
 lunatogel037jepe.site
@@ -4505,6 +4514,7 @@ mahjongx789oxgas.site
 mahjongx789pxgas.site
 mahjongx994jp.site
 mahjongz500gt.site
+mail.myzoomride.com
 maju.mansionbwineboutique.com
 malitotonews2026.xyz
 mandalatoto318gil.site
@@ -4675,9 +4685,11 @@ memorial.exercitpopular.org
 menangslot777.online
 menara1889rtp.site
 menu-kitchen.rhodeskitchen.com
+menu.ellocomexicancafe.com
 menu.gothamcitypizzas.com
 menu.oakfirebbq.com
 menu2.kart2cafe.com
+menu3.legardenroom.com
 menus.lagulaburger.com
 mikatoto599jpx.site
 mineraltoto136.site
@@ -4749,9 +4761,11 @@ miototo399.site
 miototo500.site
 miototo501.site
 mitchtaxi.com
+mobile-link-toto-4d.akagroupltd.com
 mobile.akagroupltd.com
 mobile.prediksihkpools.top
 mollificiopadano.com
+mozarella.talamospizzas.com
 mpo111gacor.top
 mposlot777.online
 muliatoto457web.site
@@ -4908,7 +4922,6 @@ opaltogel808jpx.site
 opaltogelwdx046.site
 opaltogelwdx047.site
 opazeus777.site
-open.curveballkitchen.com
 operatogel304pop.site
 oppatoto001jpx.site
 oppatoto005jpx.site
@@ -5144,11 +5157,13 @@ ratutogel889jpx.site
 redchilichineseny.com
 rekor777slot1.icu
 rekor777slot2.icu
+reservations.thelocalontheavenue.com
 reservations.therabbitholedenver.com
 restaurant.westendsportsgrill.com
 resto.paridiseclub.com
 resto.pizzasquaredsf.com
 result-today.xyz
+ribnik.ribnikzeje.com
 robbinsdpm.com
 rogtoto001jpx.site
 rogtoto020jpx.site
@@ -5287,6 +5302,7 @@ rupiahtotowdx044.site
 rupiahtotowdx045.site
 sakti777rtp.site
 saldo777rtp.site
+salmon.friendsdijital.com
 sawer123slot.site
 sbctoto188.site
 sbctoto189.site
@@ -5335,7 +5351,6 @@ scatter888.click
 scatter888.site
 scatterapibolang588.xyz
 sehats.smpn2palembang.id
-sekabet-scatter2026.vip
 sengtoto001jpx.site
 sengtoto020jpx.site
 sengtoto066jpx.site
@@ -5373,8 +5388,10 @@ sesetoto736jpx.site
 sesetoto808jpx.site
 sesetotowdx046.site
 sexyslot888.vip
+sggm-1.the-blackbird-cafe.com
 shermanoaksnailsalon.com
 shop-1.flightyapparel.com
+shop.amorfurnitureusa.com
 sinar123lbmaxwin.site
 sinimahjong222.bond
 situs-bo-togel.piper.com
@@ -5403,6 +5420,7 @@ slot-server-kamboja.itommey.com
 slot-win777.top
 slot.cfasanclemente.com
 slot.holoholobistro.com
+slot.mariposataqueria.com
 slot.yuriyscustomjewelry.net
 slot100.fisioterapiaveracruz.com
 slot1111.sbs
@@ -5525,6 +5543,7 @@ slots365.xyz
 slotsimtagacors.pages.dev
 slotwin303.site
 smartpassport100.click
+smp.elisabethmoellerjensen.com
 somatoto121jp.site
 somatoto131jp.site
 somatoto141jp.site
@@ -5649,6 +5668,7 @@ togeltimur368top.site
 togelup303x.site
 togelup898x.site
 togelxgoal551.site
+top1terus.firebellywings.com
 top1toto768.xyz
 top1totoxhoka105.site
 toptotocuan111.site
@@ -5774,6 +5794,7 @@ totoslotlucky551.site
 totoslots280jb.site
 totoslots288xob.site
 totososmed761.online
+trial91.pharmalifescience.com
 tvtoto172.site
 tvtoto203.site
 ulartoto123jp.site
