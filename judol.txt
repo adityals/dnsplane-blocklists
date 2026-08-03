@@ -1,12 +1,13 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 03 Aug 2026 06:29 UTC
-# Version: 2026.0803.0629.18
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 03 Aug 2026 09:52 UTC
+# Version: 2026.0803.0952.31
 # Syntax: Domains (without subdomains)
-# Number of entries: 6037
+# Number of entries: 6079
 #
+007slots.pro
 01jamuslot.click
 01toto.click
 070slot.vip
@@ -498,6 +499,8 @@
 74pinasscatter.xyz
 76pinasscatter.xyz
 777-slots.cyou
+777-slots.tv
+7777slot.pro
 777agslot.com
 777luckyslot.bet
 777slot.bingo
@@ -642,6 +645,7 @@
 98totox10.xyz
 999slot.cam
 999slot.ink
+999slot.page
 999slot.tech
 999slot.wine
 999slot1.online
@@ -758,6 +762,7 @@ agenslot168.club
 agenslot188.online
 agenslot188.website
 agenslot188gacor.site
+agenslot188hoki.top
 agenslotez338.club
 agenslotmaxwin.online
 agent.myfossil.org
@@ -917,6 +922,7 @@ alexistoto303hot.shop
 alexistoto324.live
 alexistoto328gc.site
 alexistoto337.live
+alexistoto342.live
 alexistoto357.live
 alexistoto369.click
 alexistoto369hot.shop
@@ -2344,6 +2350,7 @@ cucukakek.site
 cucukakek777slot.com
 cucutoto1.icu
 cucutoto1xit.site
+cucutoto436sky.live
 cucutotof3m.site
 cucutotohk.click
 cucutotoimut.online
@@ -2446,6 +2453,7 @@ danatotoku280x.cyou
 danatotoku281x.cyou
 danatotoku282x.cyou
 danatotoku283x.cyou
+danatotoku285x.cyou
 danatotologin.click
 danatotoltdn.site
 danatotomacau.lol
@@ -2624,6 +2632,18 @@ dewatogelwdx047.site
 dewatoto.xyz
 dewatoto138.org
 dewi288slot.com
+dewidewitotoaksesmarket.online
+dewidewitotoakunklik.online
+dewidewitotoalternatifsitus.online
+dewidewitotobaruwap.online
+dewidewitotogroupmarket.online
+dewidewitotoindoresmi.online
+dewidewitotomobileakses.online
+dewidewitotoofficialapk.online
+dewidewitotoplusdaftar.online
+dewidewitotowapakses.online
+dewidewitotowebofficial.online
+dewidewitotozonaklik.online
 dewigacor178alt.vip
 dewislot77min.icu
 dewitogel138.org
@@ -2862,6 +2882,7 @@ eurotogelat.site
 eurotogelaw.site
 eurotogelay.site
 eventpromosiukitoto.site
+evohokirtp9.xyz
 evoplayslot.vip
 evosgaming-rtp30.site
 evostogel123.shop
@@ -2940,6 +2961,7 @@ evostotowde279x.cyou
 evostotowde280x.cyou
 evostotowde281x.cyou
 evostotowde282x.cyou
+evostotowde283x.cyou
 evostotox32wde.site
 evostotox39pro.site
 evostotox88proo.site
@@ -3062,6 +3084,8 @@ fortuna189slot.com
 fortune365slot.com
 fortune777slots.click
 fortunegems500slot.com
+fortuneslot88.click
+forum-mmtoto.online
 foviance-mafiatoto.online
 fox138slot.net
 franstech.com
@@ -3070,6 +3094,7 @@ frenzyslots-vip.xyz
 fresnoairportpart150.com
 frostslot.xyz
 frslotwinpulsepoplabs.site
+fruit138slot.com
 fslot200.com
 fslot200.store
 fujisun-slot.online
@@ -3078,10 +3103,13 @@ fullslot-168.com
 fulltoto.xyz
 fungame-777rtp.top
 fungame777-rrtpp.sbs
+fungame777rtp.top
 funslot.xyz
+futsal138slot.com
 futureportplan.online
 fyptoto.site
 g2gslotx.click
+g2slot168.life
 g666slot.app
 g76toto-bambu.site
 g76toto-inces.site
@@ -3127,6 +3155,7 @@ gacor181.org
 gacor188.app
 gacor188a.com
 gacor200.click
+gacor200.ws
 gacor200a.com
 gacor200apk.com
 gacor200b.com
@@ -3134,6 +3163,7 @@ gacor200id.com
 gacor200r.com
 gacor200s.com
 gacor200y.com
+gacor23.online
 gacor25.click
 gacor268.club
 gacor288hoki.com
@@ -3179,6 +3209,8 @@ gacor668xgcrs1.site
 gacor668y.com
 gacor66w.lol
 gacor66w.top
+gacor67.online
+gacor737.com
 gacor773.com
 gacor7771.com
 gacor777akun.com
@@ -3210,6 +3242,7 @@ gacor777ku181x.cyou
 gacor777ku182x.cyou
 gacor777ku183x.cyou
 gacor777ku184x.cyou
+gacor777ku185x.cyou
 gacor777l.com
 gacor777max.com
 gacor777mpo.com
@@ -3257,6 +3290,7 @@ gacorhoki129jp.live
 gacorhoki130jp.live
 gacorhokie777.site
 gacorhoku788mix.live
+gacorhub.site
 gacorjoss.icu
 gacorku168apk.com
 gacorku168id.com
@@ -3510,6 +3544,7 @@ hinototo201.site
 hinototo202.site
 hinototo2222.icu
 hinototo500.xyz
+hinototo541zen.site
 hinototo5555.icu
 hinototo606.site
 hinototo607.site
@@ -4483,6 +4518,7 @@ mahjong673jpx.site
 mahjong682jpx.site
 mahjong693jp.site
 mahjong850jpx.site
+mahjong853gdf.site
 mahjong955jpa.site
 mahjong962go.site
 mahjongdh131.site
@@ -4503,6 +4539,7 @@ mahjongx458vr.site
 mahjongx482gy.site
 mahjongx585jp.site
 mahjongx591jp.site
+mahjongx654sr.site
 mahjongx686jp.site
 mahjongx691jp.site
 mahjongx747jp.site
@@ -4565,6 +4602,7 @@ mawartotowdx049.site
 mawartotowdx050.site
 mawartotowdx051.site
 mawartotowdx052.site
+mawartotowdx055.site
 mawartotowdx727.site
 mawartotowdx939.site
 maxslot889xptc.site
@@ -5274,6 +5312,7 @@ rtpsky123semangka.xyz
 rtpsky123wortel.xyz
 rtpslot365.xyz
 rtpsuster123mantap1.top
+rtpsuster123mantap2.top
 rtpsuster123mantap3.top
 rtpto1.joelhformayor.com
 rtptoto123.sbs
@@ -5741,6 +5780,8 @@ toto710.xyz
 toto777.click
 toto789cuanmax.site
 toto789dxgas.site
+toto789ixluck.site
+toto789ixmax.site
 toto789jphoki.site
 toto789jpwin.site
 toto789jxcuan.site
@@ -5910,6 +5951,7 @@ watitotowdx049.site
 watitotowdx051.site
 watitotowdx052.site
 watitotowdx053.site
+watitotowdx055.site
 waxing5rb.elegantspasalon.com
 wdtoto007pas.site
 we777slot.xyz
