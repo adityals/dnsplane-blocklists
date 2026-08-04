@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 04 Aug 2026 05:53 UTC
-# Version: 2026.0804.0553.29
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 04 Aug 2026 08:40 UTC
+# Version: 2026.0804.0840.30
 # Syntax: Domains (without subdomains)
-# Number of entries: 6228
+# Number of entries: 6246
 #
 007slots.pro
 01jamuslot.click
@@ -810,6 +810,7 @@ albertpike333.com
 alertpropertylaw.click
 alexaslot138key.com
 alexaslot138slot.com
+alexaslot138zip.site
 alexaslot188.com
 alexis777slot.net
 alexistogel001jpx.site
@@ -1036,6 +1037,9 @@ altogelwdx049.site
 altogelwdx051.site
 altogelwdx052.site
 altogelwdx053.site
+altogelwdx054.site
+altogelwdx055.site
+altogelwdx056.site
 amazon-slot.lol
 amazslot.online
 ambianceslot.xyz
@@ -1236,6 +1240,8 @@ asianslot88.click
 asiaslot128.org
 asiaslot189.com
 asiaslot365.club
+asiaslot777.click
+asiaslot777.xyz
 asiaslot777a.com
 asiaslot777rtp.online
 asiatogel.click
@@ -3259,6 +3265,7 @@ gacor77wdx051.site
 gacor77wdx052.site
 gacor77wdx053.site
 gacor77wdx054.site
+gacor77wdx055.site
 gacor808.online
 gacor8800.xyz
 gacor881it.site
@@ -3452,6 +3459,8 @@ go338slot.com
 gobet123slot.com
 gobet888slot.com
 gogon969slot.club
+gokken138rtpslot.online
+gokken999rtpslot.online
 gokutogel.xyz
 gold138slot.com
 gold365slot.com
@@ -3557,6 +3566,8 @@ happyslotvbmenang.site
 happyslotvbslot.site
 hargatoto11x.site
 hargatoto156.xyz
+hargatotoko303jp.site
+hargatotoko505jp.site
 hargatotox22sipp.site
 hargatotox23sip.site
 hargatotoxsip22.site
@@ -3630,6 +3641,7 @@ hometogel4cd.site
 hometogel4jy.cfd
 hometogel7few.cfd
 hometogel7ft.site
+hometogelwdx056.site
 homtogel.xyz
 hondaslot.xyz
 hondatogel228zen.site
@@ -4117,9 +4129,11 @@ judolbet88eps.xyz
 judolbet88nos.xyz
 judolbet88pis.xyz
 judolbetxgoal552.site
+judolbob303.xyz
 judolian303.xyz
 judolkiw303.xyz
 judolklx303.xyz
+judolmai303.xyz
 judolpor303.xyz
 judolprw303.xyz
 juleslotapp.site
@@ -4162,6 +4176,7 @@ kakek3033pg.site
 kakek3038ol.site
 kakek3038viip.site
 kakek303dnwe.site
+kakek303sun.site
 kakek303tosn.site
 kakek303vikh.site
 kakek305wdl.live
@@ -4753,6 +4768,7 @@ mawartotowdx049.site
 mawartotowdx050.site
 mawartotowdx051.site
 mawartotowdx052.site
+mawartotowdx053.site
 mawartotowdx055.site
 mawartotowdx727.site
 mawartotowdx939.site
@@ -4786,6 +4802,7 @@ maxwin138fkzp.site
 maxwin138fxcc.site
 maxwin138fxj.site
 maxwin138fxje.site
+maxwin138fxjep.site
 maxwin138fxjk.site
 maxwin138fxjp.site
 maxwin138fxk.site
@@ -4855,6 +4872,7 @@ maxwin967xhoki.site
 maxwin968xhoki.site
 maxwin969xhoki.site
 maxwin977xhoki.site
+maxwin982xhoki.site
 maxwinguncel2026.cfd
 maxwinlucky550.site
 maxwinz149ok.site
