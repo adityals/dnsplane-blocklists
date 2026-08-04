@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 04 Aug 2026 02:42 UTC
-# Version: 2026.0804.0242.02
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 04 Aug 2026 05:53 UTC
+# Version: 2026.0804.0553.29
 # Syntax: Domains (without subdomains)
-# Number of entries: 6232
+# Number of entries: 6228
 #
 007slots.pro
 01jamuslot.click
@@ -1072,10 +1072,8 @@ amptoto228.site
 ams789slot.com
 amzslotsfull.site
 amzslotsgp.site
-anadoluslot-appcasino.icu
 anadoluslot-hizli-giris.icu
 anadoluslot-tr.top
-anadoluslot-yenicasino.icu
 androslot-ontop.click
 aneh888slot.com
 anekatoto.xyz
@@ -5191,7 +5189,6 @@ partaitogelek007xjp.site
 partaitogelek007xsm.site
 partaitogelwdx046.site
 partaitogelwdx047.site
-pauladenuga.com
 pdx.har-bq.com
 peh888slot.xyz
 perfects123-slot.online
@@ -5634,7 +5631,6 @@ slot5000qq.site
 slot7000plus.site
 slot7500.xyz
 slot775.vip
-slot777.drinksonme.ng
 slot77799dh130.site
 slot77799dh131.site
 slot777hot.click
