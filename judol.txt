@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 04 Aug 2026 08:40 UTC
-# Version: 2026.0804.0840.30
+# Last modified: 04 Aug 2026 14:19 UTC
+# Version: 2026.0804.1419.06
 # Syntax: Domains (without subdomains)
-# Number of entries: 6246
+# Number of entries: 6285
 #
 007slots.pro
 01jamuslot.click
@@ -108,6 +108,7 @@
 1688ruayslot.website
 1688ruayslot1.com
 168ruayslot.com
+168slot.one
 168slots.bet
 168slots.win
 168slotx.click
@@ -416,6 +417,7 @@
 603slot.xyz
 618slotapk.net
 618slote.com
+619slot.app
 619slot.org
 64pinasscatter.xyz
 666ffslot.com
@@ -474,6 +476,7 @@
 698slots.net
 699slot.org
 699slots.app
+699slots.bet
 709zeusm.com
 70pinasscatter.xyz
 711slotmy.com
@@ -507,6 +510,7 @@
 777slot.plus
 777slot.st
 777slot.team
+777slot.tech
 777slot.vin
 777slotbank.com
 777slotlogin.bet
@@ -630,6 +634,7 @@
 988slotb.com
 988slotmax.com
 988slotmpo.com
+988slotresmivip.com
 988slotterbaik.com
 988toto.com
 98toto.click
@@ -768,6 +773,7 @@ agenslotmaxwin.online
 agent.myfossil.org
 agentogel2022.net
 agentogelonline.xyz
+agentoto888.com
 agentslots.xyz
 agodatoto.xyz
 agodatotok16xib.site
@@ -853,6 +859,7 @@ alexistogel57ont.site
 alexistogel58ont.site
 alexistogel599jpx.site
 alexistogel59ont.site
+alexistogel5fe.cfd
 alexistogel5vc.sbs
 alexistogel5vcd.cfd
 alexistogel60ont.site
@@ -876,6 +883,7 @@ alexistogel97swe.site
 alexistogelxar.site
 alexistogelxck.site
 alexistogelxit.site
+alexistogelxlp.site
 alexistogelxof.site
 alexistogelxpga.site
 alexistogelxpho.site
@@ -919,11 +927,14 @@ alexistoto281.live
 alexistoto282.live
 alexistoto291.live
 alexistoto293.live
+alexistoto299.live
 alexistoto303hot.shop
 alexistoto324.live
 alexistoto328gc.site
 alexistoto337.live
 alexistoto342.live
+alexistoto343.live
+alexistoto344.live
 alexistoto357.live
 alexistoto369.click
 alexistoto369hot.shop
@@ -934,6 +945,7 @@ alexistoto413.live
 alexistoto415.live
 alexistoto427.live
 alexistoto449.live
+alexistoto456.live
 alexistoto465.live
 alexistoto46ont.site
 alexistoto478.live
@@ -941,11 +953,13 @@ alexistoto47ont.site
 alexistoto482.live
 alexistoto48ont.site
 alexistoto49ont.site
+alexistoto504.live
 alexistoto505.shop
 alexistoto50ont.site
 alexistoto51ont.site
 alexistoto521.live
 alexistoto523.live
+alexistoto527.live
 alexistoto52ont.site
 alexistoto53ont.site
 alexistoto541.live
@@ -958,8 +972,10 @@ alexistoto615.live
 alexistoto615.sbs
 alexistoto621.live
 alexistoto637.live
+alexistoto658.live
 alexistoto671.live
 alexistoto672.live
+alexistoto677.live
 alexistoto743.live
 alexistoto765.live
 alexistoto766.live
@@ -1010,6 +1026,7 @@ allslot789.click
 allslot789game.net
 allslotgame789.asia
 allslots.online
+allslotwin777.shop
 allstarslotssouthafrica.online
 alltslots.top
 alpatoto.cfd
@@ -1171,6 +1188,7 @@ apigacorsvy1g.site
 apigacorsvy1u.site
 apigacorsvy1w.site
 apigacorsvz1d.site
+apislot.site
 apizeus777apk.com
 apizeus777id.com
 apizeus777rp.com
@@ -5532,6 +5550,7 @@ scatter303.xyz
 scatter333.xyz
 scatter333aiw.site
 scatter333bas.site
+scatter333box.site
 scatter333ciz.site
 scatter333gin.site
 scatter333gis.site
@@ -5630,7 +5649,9 @@ slot.holoholobistro.com
 slot.mariposataqueria.com
 slot.yuriyscustomjewelry.net
 slot100.fisioterapiaveracruz.com
+slot108.online
 slot1111.sbs
+slot121.online
 slot1234.site
 slot138.click
 slot1688.cfd
@@ -5639,6 +5660,7 @@ slot178.xyz
 slot212.click
 slot288.xyz
 slot3000.xyz
+slot321.online
 slot333.click
 slot356.xyz
 slot365.vip
@@ -5697,6 +5719,7 @@ slot999bonus.lol
 slota101.vip
 slotagamaga-2026win.vip
 slotapklucky550.site
+slotasia888-winner.xyz
 slotbar76193.top
 slotcc567qe.site
 slotcc567qq.site
@@ -5727,7 +5750,10 @@ slothoku212.site
 slothoku366lab.site
 slotindolucky550.site
 slotjplucky321.site
+slotjplucky436.site
+slotjplucky452.site
 slotjplucky550.site
+slotjplucky920.site
 sloto123.online
 slotonline888.online
 slotonline999.online
@@ -5801,6 +5827,7 @@ teslatoto123.lol
 teslatoto123.site
 teslatoto123x.site
 teslatoto147.xyz
+teslatoto303x.site
 tetes.malvestidas.com
 thatcurryplace.com
 theslot777.xyz
@@ -5871,14 +5898,18 @@ togelon176.xyz
 togelon368top.site
 togelslotlucky550.site
 togeltimur368top.site
+togelup111x.site
 togelup303x.site
+togelup808x.site
 togelup898x.site
+togelup919x.site
 togelxgoal551.site
 top1terus.firebellywings.com
 top1toto768.xyz
 top1totoxhoka105.site
 toptotocuan111.site
 toto-slot-togel158-4d-link-situs-togel.issanwineroom.com
+toto111.site
 toto120hot.click
 toto120hotid.click
 toto120idbet.click
@@ -5939,6 +5970,7 @@ toto700x77gasi.site
 toto700x77gass.site
 toto700x78gas.site
 toto700xgas77.site
+toto700xgas78.site
 toto700xgasi77.site
 toto700xgass77.site
 toto700xgcra11.site
@@ -5947,8 +5979,11 @@ toto710.xyz
 toto777.click
 toto789cuanmax.site
 toto789dxgas.site
+toto789ixgas.site
 toto789ixluck.site
 toto789ixmax.site
+toto789ixspin.site
+toto789ixwinz.site
 toto789jphoki.site
 toto789jpwin.site
 toto789jxcuan.site
@@ -5977,6 +6012,9 @@ toto88wdx049.site
 toto88wdx051.site
 toto88wdx052.site
 toto88wdx053.site
+toto88wdx054.site
+toto88wdx055.site
+toto88wdx056.site
 toto919pos.lol
 toto987asb.site
 toto987twt.site
@@ -6118,6 +6156,7 @@ watitotowdx049.site
 watitotowdx051.site
 watitotowdx052.site
 watitotowdx053.site
+watitotowdx054.site
 watitotowdx055.site
 waxing5rb.elegantspasalon.com
 wdtoto007pas.site
