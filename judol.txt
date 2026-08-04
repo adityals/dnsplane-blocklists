@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 03 Aug 2026 19:40 UTC
-# Version: 2026.0803.1940.55
+# Last modified: 04 Aug 2026 02:42 UTC
+# Version: 2026.0804.0242.02
 # Syntax: Domains (without subdomains)
-# Number of entries: 6187
+# Number of entries: 6232
 #
 007slots.pro
 01jamuslot.click
@@ -3971,7 +3971,11 @@ jasminslots.top
 jateng777slot.com
 javaslot88.xyz
 javatogel.xyz
+jayaslot288.org
+jayaslot4dking.site
+jayaslot4droam.site
 jayaslotapk.xyz
+jayatogel888.org
 jdtoto-chip.site
 jeboltogel001jpx.site
 jeboltogel020jpx.site
@@ -3981,17 +3985,24 @@ jeboltogel369jpx.site
 jeboltogel499jpx.site
 jeboltogel508jpx.site
 jeboltogel599jpx.site
+jeboltogel6nj.cfd
 jeboltogel736jpx.site
 jeboltogel808jpx.site
 jeboltogel889jpx.site
+jebret188slot.com
 jeeptoto.click
 jep777slot.com
+jeruk168slot.com
+jeruk888slot.com
+jet77rtp.lol
 jili333slotapp.click
 jili333slotslogin.click
 jili777slot.site
 jilislot777.click
 jilislot777jp.site
+jinslot.xyz
 jitu138toto.org
+jitutoto.xyz
 jitutoto777.xyz
 jiwa123slot.com
 jm200slot.xyz
@@ -4018,8 +4029,11 @@ jogo888slots.com
 join999slot.com
 joker268slot.xyz
 jokerslot303.org
+jokislot777.net
 jon365slot.com
+jonislot.xyz
 jonitogel.click
+jonitogel.lol
 jonitogel123jp.sbs
 jonitogel243jpx.site
 jonitogel244jpx.site
@@ -4036,6 +4050,7 @@ jonitogel254jpx.site
 jonitogel255jpx.site
 jonitogel256jpx.site
 jonitogel257jpx.site
+jonitogel88.xyz
 jonitogelfxj.site
 jonitogelfxjp.site
 jonitogelxfikjp.site
@@ -4047,13 +4062,18 @@ jostoto286one.live
 jostoto782jos.live
 jostoto864max.site
 jotuntoto-bandarslot.online
+jowoslot.xyz
+jowotogelv-a3.xyz
 jowotogelv-a4.xyz
+joyotogelanps.site
+joyslot88.bond
 jp138-maxwin.vip
 jpslot168.blog
 jpslot168.website
 jpslot388edu.com
 jpslotlucky550.site
 jptoto.online
+jualtoto.site
 jualtoto233.site
 jualtoto235.site
 jualtoto258il.site
@@ -4068,6 +4088,9 @@ jualtotoku206x.cyou
 jualtotoku207x.cyou
 jualtotoku210x.cyou
 jualtotoku211x.cyou
+jualtotoku212x.cyou
+jualtotoku213x.cyou
+jualtotoku215x.cyou
 jualtotoku230jta.site
 jualtotoku250jta.site
 jualtotoku260jta.site
@@ -4075,8 +4098,10 @@ jualtotoku270jp.site
 juara138slot.com
 juara189slot.com
 juara365slot.com
+juaratogel.xyz
 judislotzeus.com
 judol2026.org
+judol303.club
 judol303kor.xyz
 judol303ong.xyz
 judol303oro.xyz
@@ -4103,10 +4128,24 @@ juleslotapp.site
 juleslotasli.site
 juleslotoke.site
 juleslotviral.site
+jumtotoplay.site
+juniortogel.click
+juniortoto.cfd
+juniortoto.click
+juniortoto.xyz
+juragan69rtp.click
+juragankoin138slot.com
+juraganslot.click
+justogel.xyz
+k1togel.click
+kado888slot.com
+kaikoslot.top
 kaisarslot88aja.cfd
 kaisarslot88aja.click
 kaisarslot88aja.xyz
 kaito189slot.com
+kakak303slot.com
+kakakslot88.click
 kakaslot777.xyz
 kakatua168slot.com
 kakatua365slot.com
@@ -4132,10 +4171,12 @@ kakek307ice.site
 kakek307jet.site
 kakek308ace.live
 kakek4d.site
+kakekjp-resmi.xyz
 kambing138slot.com
 kambing168slot.com
 kambing365slot.com
 kampslot138.org
+kanan777slot.com
 kangkung777slot.com
 kangtogel123cat.live
 kangtoto123.click
@@ -4181,13 +4222,17 @@ kangtotoko216jp.site
 kangtotoko217jp.site
 kangtotoko218jp.site
 kangtotoko220jp.site
+kangtotoku101x.cyou
 kangtotoku776jp.site
 kangtotoku777jp.site
 kangtototo161mw.site
 kangtotowin123.click
 kaostogel.xyz
+kapaltoto.xyz
+karatetoto.click
 karo188slot.com
 kartel189slot.com
+kartutoto.xyz
 kartutoto188.site
 kasih777slot.com
 kaskustoto.click
