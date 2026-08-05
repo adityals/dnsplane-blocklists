@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 05 Aug 2026 14:13 UTC
-# Version: 2026.0805.1413.53
+# Last modified: 05 Aug 2026 19:38 UTC
+# Version: 2026.0805.1938.51
 # Syntax: Domains (without subdomains)
-# Number of entries: 6474
+# Number of entries: 6526
 #
 007slots.pro
 01jamuslot.click
@@ -4741,17 +4741,42 @@ lembagatotoxon.site
 lembagatotoxun.site
 lembu777slot.com
 lemon210rtp.site
+lexus368slot.com
+lgo388slot.com
+lgtoto.click
+liatogel.xyz
 libertyarmstn.net
+ligaasia146slot.com
+ligaasia148slot.com
+ligaslot303.org
+likeslot789.cyou
 linetogel123a.site
+linetogel127.club
+linetogel888.org
+lingtogel77.click
+link-tamanslot77.online
 link-toto-togel-4d-resmi-online.centromedicinanucleare.org
 link-totoslot288.sbs
 linkalternatifsbobet.net
+linksitusgacor305.com
 linkslot-1.shanghaicuisineorder.com
+linkslot.click
+linkslot177.com
 linkslotlucky550.site
+lionbet888slot.com
+liong888slot.net
+liontoto.xyz
+liontotopunya.xyz
+litetoto.click
+live-rtpbandar55.xyz
 live.srimaadentalclinic.shop
+live303slot.com
+livedewatangkasrtp.cfd
 livedrawsdy4d.com
+livertppacuplay138.com
 locations-2.fastnfriendlycstores.com
 locations.playgroundscanberra.com
+logamtoto.click
 logototowdx036.site
 logototowdx037.site
 logototowdx038.site
@@ -4771,6 +4796,13 @@ logototowdx051.site
 logototowdx052.site
 logototowdx053.site
 logototowdx054.site
+logototox34topp.site
+logototox35top.site
+logototoxtop34.site
+logototoxtop35.site
+lokitoto.click
+londonslot.click
+longtogel.click
 ltdtoto131.site
 ltdtoto132.site
 ltdtoto133.site
@@ -4799,7 +4831,12 @@ ltdtoto210.site
 ltdtoto211.site
 ltdtoto999.online
 luck.minamatadiseasemuseum.pro
+lucky768slot.com
+luckygacor49.xyz
+luckywin138slot.com
 luluchu.org
+luna99zeus.site
+lunastoto.click
 lunatogel036jepe.site
 lunatogel037jepe.site
 lunatogel038jepe.site
@@ -4820,9 +4857,14 @@ lunatogel052jepe.site
 lunatogelxgcro550.site
 lusatoto123hjp.site
 luxury138maxwin.site
+mabarslot123.com
+macauslot188.club
+macauslot188.nl
 macauslot188.online
+macauslot188soft.com
 macha-latte.thesingaporecafe.com
 maenslot1.digixhub.com
+mafiatogel304jns.live
 mafiatogel365web.site
 mafiatoto282.site
 mafiatoto283.site
@@ -4848,7 +4890,9 @@ mafiatoto802.site
 mafiatoto803.site
 mafiatoto805.site
 mafiatoto806.site
+mahjjong169slot.com
 mahjong.theneerbreak.com
+mahjong222idn.com
 mahjong245xjt.site
 mahjong257gg.site
 mahjong261jpx.site
@@ -4869,6 +4913,7 @@ mahjong278jpx.site
 mahjong308jpx.site
 mahjong323go.site
 mahjong333.click
+mahjong505.club
 mahjong602jpx.site
 mahjong603jpx.site
 mahjong608jpx.site
@@ -4883,18 +4928,25 @@ mahjong672jpx.site
 mahjong673jpx.site
 mahjong682jpx.site
 mahjong693jp.site
+mahjong732jpx.live
 mahjong850jpx.site
 mahjong853gdf.site
 mahjong955jpa.site
 mahjong962go.site
 mahjongdh131.site
 mahjongdh132.site
+mahjongjp88.click
+mahjongjp88anps.site
+mahjongjp88capts1.site
+mahjongjp88nyaw.site
 mahjonglucky550.site
 mahjongs275jp.site
+mahjongwa186.live
 mahjongways222hxu.site
 mahjongways222pzo.site
 mahjongwaysa222lic.site
 mahjongwaysa222rnp.site
+mahjongwin.online
 mahjongwin138alt.vip
 mahjongwin138s.vip
 mahjongwin138t.vip
