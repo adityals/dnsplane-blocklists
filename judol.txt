@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 05 Aug 2026 08:39 UTC
-# Version: 2026.0805.0839.55
+# Last modified: 05 Aug 2026 14:13 UTC
+# Version: 2026.0805.1413.53
 # Syntax: Domains (without subdomains)
-# Number of entries: 6425
+# Number of entries: 6474
 #
 007slots.pro
 01jamuslot.click
@@ -4522,7 +4522,9 @@ kkslot777pila.top
 kkslot777vinc.top
 klik-rtprun113.beauty
 koboislot.top
+koibet138slot.com
 koin787slot.com
+koinslot168.art
 koinslot168.online
 koinslot168art.site
 koinslot168in.biz
@@ -4545,6 +4547,7 @@ koitoto368zo.site
 koitoto368zu.site
 koitoto369jpx.site
 koitoto499jpx.site
+koitoto4df.cfd
 koitoto508jpx.site
 koitoto599jpx.site
 koitoto727bq.site
@@ -4567,19 +4570,28 @@ koitotoko88jpx.site
 koitotologin.xyz
 koko128slot.com
 koko303-polagacor.cfd
+koko303-polagacor.homes
+koko303-rtpgacor.baby
 koko303-rtpgacor.pics
 koko389slot.com
 koko5000rtp.site
+kokoslot.online
 komengtoto683zlf.live
 komodo138slot.com
 komodo365slot.com
+kompastoto.xyz
 konohatoto205.site
 konohatoto805.site
 konohatotox88proo.site
 konohatotox88topo.site
+konohatotox90pro.site
 konohatotoxgasi77.site
+konohatotoxpro88.site
+konohatotoxpro90.site
 konohatotoxproo88.site
 konohatotoxwds27.site
+kontes168slot.com
+kotatogel.click
 kpktoto001jpx.site
 kpktoto020jpx.site
 kpktoto066jpx.site
@@ -4599,6 +4611,7 @@ kpktoto499jpx.site
 kpktoto505hot.click
 kpktoto508jpx.site
 kpktoto599jpx.site
+kpktoto5fd.cfd
 kpktoto684vix.live
 kpktoto736jpx.site
 kpktoto7bn.sbs
@@ -4625,26 +4638,40 @@ kpktotoko168sok.site
 kpktotoko168tri.site
 kpktotowdx046.site
 kpktotox22sipp.site
+kpktotox23sip.site
+kpktotox24hok.site
 kpktotoxhoks7.site
+kpktotoxsip22.site
+kpktotoxsip23.site
+kpktotoxsip24.site
 kpktotoxsip27.site
 kpktotoxsipi21.site
 kpktotoxsipi22.site
 kpplisabang.org
 kring168slot.com
+kring188slot.com
+krisnatogel.xyz
 kucing168slot.com
 kucing365slot.com
+kucingslot.site
 kucingtoto.xyz
 kuda365slot.com
 kuku168slot.com
 kukutoto937zen.live
+kukutotox53hok.site
 kukutotox91kingg.site
 kukutotoxhok36.site
+kukutotoxhok53.site
 kukutotoxjpd45.site
+kukutotoxking91.site
 kukutotoxkingo91.site
 kukutotoxtops8.site
 kumaha.theupbeetlife.com
 kumontotok786xit.site
+kuningtoto.click
 kuningtoto8080cool.site
+kuningtotoanps.site
+kuningtotosamsg.site
 kupangtoto.top
 kurnia899slot.com
 kvtoto292.site
@@ -4652,34 +4679,56 @@ kvtoto893.site
 kx.domainearpaillan.com
 lacak188slot.com
 lag-icantik.sonienterprises.net
+lagunaslot.click
+laku303slot.com
 lakutotox77gass.site
+lakutotox78gas.site
+lakutotoxgas77.site
+lakutotoxgas78.site
+lakutotoxgas79.site
 lakutotoxgasi76.site
 lakutotoxgasi77.site
 lakutotoxjps3.site
 lakutotoxking1.site
 lalat138slot.com
 laman-airtoto.online
+lambe303slot.com
+lambo77lbmaxwin.site
 lambo77maxwin.site
 lamineyamal.bnibarcelonacs.cat
 lancaster.veganvoodoolounge.com
+landaktoto.click
 lapak898rtp.site
 lapaktoto248wd.site
 lapaktoto751jp.site
 lapangan777slot.com
+larva888slot.com
 lato888slot.com
+latoto2ed.site
 latoto4as.cfd
 latoto4nm.sbs
 latoto5gh.site
 latoto88.click
+latoto888.club
+latoto8989.com
 latoto8989.xyz
+latotoku101x.cyou
+latotoku102x.cyou
+latotoku103x.cyou
 latotolink.xyz
+latotoslot.xyz
+lavaslot777.com
 law-firm.osoollawfirm.com
+lawastoto.xyz
 lawu88slotx25.vip
 lawu88slotx26.vip
+lawu88slotx27.vip
 layarslotn.online
 layarslotn.xyz
+ledak388slot.club
 legend138slot.com
 legend365slot.com
+legions138slot.com
 lembagatoto.xyz
 lembagatoto809jpx.site
 lembagatoto810jpx.site
