@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 05 Aug 2026 02:40 UTC
-# Version: 2026.0805.0240.33
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 05 Aug 2026 05:50 UTC
+# Version: 2026.0805.0550.40
 # Syntax: Domains (without subdomains)
-# Number of entries: 6391
+# Number of entries: 6385
 #
 007slots.pro
 01jamuslot.click
@@ -1605,7 +1605,6 @@ bebtoto75.click
 bejo88slot.vip
 bejototo4d.vip
 bekas168slot.com
-belajaran.stuartcoffeeco.com
 belatototxcuan.site
 belatototxjackpot.site
 belatototxmenang.site
@@ -2365,7 +2364,6 @@ crazymonkeyslot.site
 crazyslot777slot.com
 criartpapelaria.online
 crimsoncrazeslots.online
-crown.thebrickerycafe.com
 crownslotsvip.vip
 crypto-zeus.xyz
 cryptotools.vip
@@ -2698,14 +2696,11 @@ dewidewitotologinpro.online
 dewidewitotomasukconnect.online
 dewidewitotomasukwap.online
 dewidewitotomemberhome.online
-dewidewitotomobileakses.online
 dewidewitotoofficialapk.online
 dewidewitotoplusdaftar.online
 dewidewitotoportalcenter.online
 dewidewitotoproterbaru.online
-dewidewitotowapakses.online
 dewidewitotowebofficial.online
-dewidewitotozonaklik.online
 dewigacor178alt.vip
 dewislot77min.icu
 dewitogel138.org
@@ -3977,7 +3972,6 @@ indoslot303link.monster
 indoslot303link.online
 indoslot303link.quest
 indoslot303link.rest
-indoslot303link.sbs
 indoslot303link.shop
 indoslot303link.site
 indoslot303link.skin
