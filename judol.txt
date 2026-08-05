@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 04 Aug 2026 19:41 UTC
-# Version: 2026.0804.1941.25
+# Last modified: 05 Aug 2026 02:40 UTC
+# Version: 2026.0805.0240.33
 # Syntax: Domains (without subdomains)
-# Number of entries: 6351
+# Number of entries: 6391
 #
 007slots.pro
 01jamuslot.click
@@ -3652,6 +3652,8 @@ hargatotoko303jp.site
 hargatotoko505jp.site
 hargatotoku101x.cyou
 hargatotoku102x.cyou
+hargatotoku103x.cyou
+hargatotoku104x.cyou
 hargatotox22sipp.site
 hargatotox23sip.site
 hargatotoxsip22.site
@@ -3695,6 +3697,7 @@ hiu168slot.com
 hiu365slot.com
 hiwin777slot.com
 hkbet138slot.com
+hktoto168.com
 ho-ley-shiyt.holightgroup.com
 hobimainscatter.site
 hok303slot.club
@@ -3715,6 +3718,8 @@ hoki138zeus.com
 hoki168slot.com
 hoki177slot.com
 hoki311slot.com
+hokigacor77.click
+hokigacor77.lol
 hokigacor77rtp.click
 hokinew189rtp.sbs
 hokinew189rtp.xyz
@@ -3792,7 +3797,9 @@ hujantotoku211x.cyou
 hujantotoku212x.cyou
 hujantotoku213x.cyou
 hujantotoku214x.cyou
+hujantotoku215x.cyou
 hujantotoku216x.cyou
+hujantotoku217x.cyou
 hujantotonyaw.site
 hujantotoxon.site
 hukumtoto.click
@@ -3822,6 +3829,7 @@ idol188slot.com
 idrslot17.xyz
 idrslot18.xyz
 idrslot19.xyz
+ig777slot.com
 igtoto.click
 ikn888slot.com
 ikon303slot.com
@@ -3840,6 +3848,7 @@ imbazeus.icu
 impian168slot.com
 in567slotsyono.com
 in777slots.net
+inagacorkaws.online
 inatogel001jpx.site
 inatogel014jpx.site
 inatogel020jpx.site
@@ -4070,6 +4079,7 @@ jayaslot4dking.site
 jayaslot4droam.site
 jayaslotapk.xyz
 jayatogel888.org
+jdb168slot.com
 jdtoto-chip.site
 jeboltogel001jpx.site
 jeboltogel020jpx.site
@@ -4184,7 +4194,9 @@ jualtotoku210x.cyou
 jualtotoku211x.cyou
 jualtotoku212x.cyou
 jualtotoku213x.cyou
+jualtotoku214x.cyou
 jualtotoku215x.cyou
+jualtotoku216x.cyou
 jualtotoku230jta.site
 jualtotoku250jta.site
 jualtotoku260jta.site
@@ -4220,6 +4232,7 @@ judolklx303.xyz
 judolmai303.xyz
 judolpor303.xyz
 judolprw303.xyz
+jujuslot.online
 juleslotapp.site
 juleslotasli.site
 juleslotoke.site
@@ -4320,10 +4333,13 @@ kangtotoko217jp.site
 kangtotoko218jp.site
 kangtotoko220jp.site
 kangtotoku101x.cyou
+kangtotoku103x.cyou
+kangtotoku104x.cyou
 kangtotoku776jp.site
 kangtotoku777jp.site
 kangtototo161mw.site
 kangtotowin123.click
+kangtotoyxmenang.site
 kaostogel.xyz
 kapaltoto.xyz
 karatetoto.click
@@ -4332,6 +4348,7 @@ kartel189slot.com
 kartutoto.xyz
 kartutoto188.site
 kasih777slot.com
+kaskusslot.online
 kaskustoto.click
 kaskustoto001jpx.site
 kaskustoto005jpx.site
@@ -4367,18 +4384,29 @@ kastogel228net.site
 kastotox055.site
 katak168slot.com
 katak365slot.com
+kaya789slot.com
+kaya888slot.com
+kayatoto77.click
+kayatoto77.online
 kdg138slot.com
 kdslot.click
 kdslot777.online
 kdslot777.site
 kdslot888.xyz
 keceslots777.com
+keju138slot.com
+kejutanslot.vip
 kejutoto583bro.live
 kelas198slot.com
 keluaranjitu.com
+kembar888slot.com
 kembarjituslot.vip
 kenangan889rtpw.xyz
+kenatoto.click
+kenatotov-a3.xyz
+kenatotov-a4.xyz
 kencana303slot.com
+kencangtoto.xyz
 kencur138slot.com
 kenzo188slot.com
 kenzototo2.top
@@ -4396,9 +4424,11 @@ kepritogelwdx046.site
 kepritogelwdx047.site
 kera888slot.com
 keris4drtp.top
+ketua138slot.com
 ketuatoto.online
 key777slot.com
 kfjanxqpowmzla298-f2togel.store
+kicautoto.xyz
 kidcredit.bedfordfallsusa.com
 kids.infanttoddlerfoods.com
 kijang500-rtp6.site
@@ -4406,12 +4436,22 @@ kiki123slot.com
 kilat128slot.com
 kilat131slot.com
 kilat368slot.com
+kimtoto.site
 kimtoto1.site
+kimtoto2.site
 kimtoto3.site
 kimtoto4.site
+kimtoto6.site
 kimtoto66.site
 kimtoto88.site
 kimtoto99.site
+kimtotogacor.site
+kimtotoindonesia.site
+kimtotoku.site
+kimtotomacau.site
+kimtotoplay.site
+kimtotovip.site
+kimtotowin.site
 king-slot.xyz
 king138slot.com
 king365slot.com
