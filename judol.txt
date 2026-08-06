@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 06 Aug 2026 05:54 UTC
-# Version: 2026.0806.0554.47
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 06 Aug 2026 08:39 UTC
+# Version: 2026.0806.0839.54
 # Syntax: Domains (without subdomains)
-# Number of entries: 6551
+# Number of entries: 6579
 #
 007slots.pro
 01jamuslot.click
@@ -109,6 +109,7 @@
 1688ruayslot1.com
 168ruayslot.com
 168slot.one
+168slot.onl
 168slots.bet
 168slots.win
 168slotx.click
@@ -478,6 +479,7 @@
 699slot.org
 699slots.app
 699slots.bet
+699slots.vip
 709zeusm.com
 70pinasscatter.xyz
 711slotmy.com
@@ -1887,6 +1889,7 @@ bobatoto499jpx.site
 bobatoto4d.vip
 bobatoto508jpx.site
 bobatoto50xwd.site
+bobatoto515jpx.site
 bobatoto599jpx.site
 bobatoto696x.site
 bobatoto736jpx.site
@@ -3130,6 +3133,7 @@ fixtotojoin.online
 fkipumus.satujua.it.com
 flamingoslots.icu
 flash777slot.com
+flixslot789.site
 flokitoto.xyz
 flowertoto138.net
 fomototo.top
@@ -3323,6 +3327,7 @@ gacor77wdx052.site
 gacor77wdx053.site
 gacor77wdx054.site
 gacor77wdx055.site
+gacor77wdx056.site
 gacor808.online
 gacor8800.xyz
 gacor881it.site
@@ -3411,6 +3416,8 @@ gacorwin8.site
 gacorx.vip
 gacorx50000.org
 gacorx500a.com
+gacorx500ex.top
+gacorx500ey.top
 gacorx500piv.site
 gacorx500qvrl.site
 gacorx500rqxv.site
@@ -3419,6 +3426,10 @@ gacorxkeras.cfd
 gacorxstar-d2.site
 gacorxstar-x1.site
 gacoslot138-dg.baby
+gacoslot138-dg.cfd
+gacoslot138-dg.click
+gacoslot138-dg.lol
+gacoslot138-dg.sbs
 gacoslot138-dg.xyz
 gadaitotox53hok.site
 gadaitotox91kingg.site
@@ -3530,6 +3541,7 @@ gokken138rtpslot.online
 gokken138rtpslot.store
 gokken999rtpslot.blog
 gokken999rtpslot.online
+gokken999rtpslot.site
 gokken999rtpslot.store
 gokutogel.xyz
 gold138slot.com
@@ -3850,6 +3862,7 @@ inatogel121jpx.site
 inatogel125jpx.site
 inatogel145xjp.site
 inatogel148xjp.site
+inatogel150xjp.site
 inatogel243jpx.site
 inatogel258il.site
 inatogel258qs.site
@@ -4269,6 +4282,7 @@ kakek3033fav.site
 kakek3033gass.site
 kakek3033lv.site
 kakek3033pg.site
+kakek3038bett.site
 kakek3038ol.site
 kakek3038viip.site
 kakek303dnwe.site
@@ -4654,6 +4668,7 @@ lacak188slot.com
 lag-icantik.sonienterprises.net
 lagunaslot.click
 laku303slot.com
+lakutoto792pro.site
 lakutotox77gass.site
 lakutotox78gas.site
 lakutotoxgas77.site
@@ -4736,6 +4751,7 @@ linkslot-1.shanghaicuisineorder.com
 linkslot.click
 linkslot177.com
 linkslotlucky550.site
+linkslotlucky934.site
 lionbet888slot.com
 liong888slot.net
 liontoto.xyz
@@ -4769,6 +4785,8 @@ logototowdx051.site
 logototowdx052.site
 logototowdx053.site
 logototowdx054.site
+logototowdx056.site
+logototowdx058.site
 logototox34topp.site
 logototox35top.site
 logototoxtop34.site
@@ -5047,6 +5065,8 @@ mawartotowdx051.site
 mawartotowdx052.site
 mawartotowdx053.site
 mawartotowdx055.site
+mawartotowdx056.site
+mawartotowdx058.site
 mawartotowdx727.site
 mawartotowdx939.site
 maxslot889xptc.site
@@ -5611,6 +5631,7 @@ rajaslot138.online
 rajaslot138.top
 rajaslot138hot.click
 rajaslot777.online
+rajaslot999.online
 rajaslotid123.click
 rajatogel158xjp.site
 rajatogel168xjp.site
@@ -5686,6 +5707,7 @@ rtp-epicwin138.xyz
 rtp-fungame777.top
 rtp-italia188b.site
 rtp-jackpot168.top
+rtp-kkslot777.top
 rtp-live.leukemia-lymphoma-society.com
 rtp-maxwin138.vip
 rtp-maxwin138.xyz
@@ -5788,6 +5810,8 @@ rupiahtotowdx042.site
 rupiahtotowdx043.site
 rupiahtotowdx044.site
 rupiahtotowdx045.site
+rupiahtotowdx056.site
+rupiahtotowdx058.site
 sakti777rtp.site
 saldo777rtp.site
 salmon.friendsdijital.com
@@ -6236,6 +6260,7 @@ toto700x77gass.site
 toto700x78gas.site
 toto700xgas77.site
 toto700xgas78.site
+toto700xgas79.site
 toto700xgasi77.site
 toto700xgass77.site
 toto700xgcra11.site
@@ -6306,6 +6331,7 @@ totoslots280jb.site
 totoslots288xob.site
 totososmed761.online
 trial91.pharmalifescience.com
+tribun855maxwin.xyz
 tvtoto172.site
 tvtoto203.site
 ulartoto123jp.site
@@ -6423,7 +6449,9 @@ watitotowdx052.site
 watitotowdx053.site
 watitotowdx054.site
 watitotowdx055.site
+watitotowdx056.site
 watitotowdx057.site
+watitotowdx058.site
 waxing5rb.elegantspasalon.com
 wdtoto007pas.site
 we777slot.xyz
