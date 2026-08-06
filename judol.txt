@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 05 Aug 2026 19:38 UTC
-# Version: 2026.0805.1938.51
+# Last modified: 06 Aug 2026 02:42 UTC
+# Version: 2026.0806.0242.23
 # Syntax: Domains (without subdomains)
-# Number of entries: 6526
+# Number of entries: 6578
 #
 007slots.pro
 01jamuslot.click
@@ -4957,9 +4957,11 @@ mahjongx458vr.site
 mahjongx482gy.site
 mahjongx585jp.site
 mahjongx591jp.site
+mahjongx610jp.live
 mahjongx654sr.site
 mahjongx686jp.site
 mahjongx691jp.site
+mahjongx700jp.live
 mahjongx747jp.site
 mahjongx786jp.site
 mahjongx789dxgas.site
@@ -4969,16 +4971,53 @@ mahjongx789oxgas.site
 mahjongx789pxgas.site
 mahjongx994jp.site
 mahjongz500gt.site
+mahkotaslot1.vip
+mahongtoto.click
 mail.myzoomride.com
+mainslot368.org
+mainslot777.com
+mainslot88anps.site
+mainslot88samsg.site
 maju.mansionbwineboutique.com
+malang303slot.com
 malitotonews2026.xyz
+malukutotox63wind.site
+malukutotox64win.site
+malukutotoxwin63.site
+malukutotoxwin64.site
+malukutotoxwin65.site
+mami123slot.net
+manadototo3sx.site
 mandalatoto318gil.site
 mandalatoto318gt.site
+manggatoto.click
+maniac777slot.com
 manisan.emn2025.com
+mantulslot.xyz
 mappmajenang.com
+mariototo.click
+markaszeus8.site
+markaszeus88.site
+markaszeusgacor.site
+markaszeusid.site
+markaszeusidn.site
+markaszeusindo.site
+markaszeusindonesia.site
+markaszeusjaya.site
+markaszeusnusantara.site
+markaszeusplay.site
+markaszeusq.site
+markaszeusqq.site
+markaszeustoto.site
+markaszeusvip.site
 marleeey-ag.b-cdn.net
+mas138slot.com
+maskertoto.xyz
+maskot168slot.com
 mastertogel335hub.site
 mastertogel708jpx.site
+mastertoto.xyz
+mastertoto338.org
 mastertotohoki329jpx.site
 mastertotohoki330jpx.site
 mastertotohoki331jpx.site
@@ -4991,7 +5030,12 @@ mastertotohoki337jpx.site
 mastertotohoki338jpx.site
 mastertotohoki339jpx.site
 mastertotohoki340jpx.site
+mastogel113.com
+mastogel114.com
 masukkoinslot168.site
+masukslot.xyz
+mata789slot.com
+mataramtoto.click
 mawartoto138hot.click
 mawartoto172cp.site
 mawartoto303hot.click
@@ -5002,7 +5046,15 @@ mawartoto400hot.click
 mawartoto505hot.click
 mawartoto505live.click
 mawartoto555id.click
+mawartotoaxmntp.site
+mawartotogjr.site
 mawartotoko1101.site
+mawartotomf.site
+mawartotonr.site
+mawartotopaps.site
+mawartotopma.site
+mawartotopsi.site
+mawartotoresmi.xyz
 mawartotowdx036.site
 mawartotowdx037.site
 mawartotowdx038.site
