@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 06 Aug 2026 02:42 UTC
-# Version: 2026.0806.0242.23
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 06 Aug 2026 05:54 UTC
+# Version: 2026.0806.0554.47
 # Syntax: Domains (without subdomains)
-# Number of entries: 6578
+# Number of entries: 6551
 #
 007slots.pro
 01jamuslot.click
@@ -798,7 +798,6 @@ ajototo1xit.site
 ajototocair.site
 ak999slotsapk.com
 akaislot.top
-akaislotid.xyz
 akarslotxgoal55.site
 akasia899slot.club
 akatsuki189slot.com
@@ -1378,7 +1377,6 @@ avtoto-manja.online
 awan128slot.com
 awislot.lol
 awpslot.click
-awpslotid.xyz
 awslot777.lol
 awslot7772.com
 awslot777q.com
@@ -2694,26 +2692,12 @@ dewatogelwdx047.site
 dewatoto.xyz
 dewatoto138.org
 dewi288slot.com
-dewidewitotoaksesmarket.online
-dewidewitotoakunklik.online
-dewidewitotoalternatifsitus.online
-dewidewitotoapkpro.online
-dewidewitotoareanet.online
-dewidewitotoasiamember.online
-dewidewitotobaruconnect.online
 dewidewitotobaruwap.online
 dewidewitotodaftarvip.online
-dewidewitotogroupmarket.online
 dewidewitotoindoresmi.online
 dewidewitotolinkmasuk.online
 dewidewitotologinpro.online
-dewidewitotomasukconnect.online
-dewidewitotomasukwap.online
 dewidewitotomemberhome.online
-dewidewitotoofficialapk.online
-dewidewitotoplusdaftar.online
-dewidewitotoportalcenter.online
-dewidewitotoproterbaru.online
 dewidewitotowebofficial.online
 dewigacor178alt.vip
 dewislot77min.icu
@@ -2866,7 +2850,6 @@ duchessslot.xyz
 duit169slot.club
 duitslot777.com
 dukunslot.online
-dummototowyear.site
 dunia-airtoto.online
 duniaslotj200m.world
 duniatoto-orca.online
@@ -3116,8 +3099,6 @@ f200m-slot.surf
 f200m-slot.website
 f200m-slot.xyz
 f200m-slot.yachts
-f2togel.site
-f2togel.xyz
 fafa168slot.vip
 fafa178slot.com
 fairyland-slots.click
@@ -3818,7 +3799,6 @@ hukumtoto.click
 humas-rtp2026.store
 huntertoto.xyz
 huskyslot.click
-huskyslotid.xyz
 hv777slot.com
 i777slot.net
 ibetslot.click
@@ -4501,25 +4481,18 @@ kitchentablesquared.com
 kkslot-777demo.top
 kkslot777.today
 kkslot777best.top
-kkslot777bonum.top
 kkslot777bos.top
 kkslot777cair.top
 kkslot777credo.top
 kkslot777cuaan.top
 kkslot777dewa.top
 kkslot777donum.top
-kkslot777dux.top
 kkslot777emas.top
 kkslot777fide.top
-kkslot777frux.top
 kkslot777gova.top
 kkslot777hooki.top
-kkslot777laus.top
 kkslot777omen.top
 kkslot777opes.top
-kkslot777orbis.top
-kkslot777pila.top
-kkslot777vinc.top
 klik-rtprun113.beauty
 koboislot.top
 koibet138slot.com
