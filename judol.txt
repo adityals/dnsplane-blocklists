@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 07 Aug 2026 07:20 UTC
-# Version: 2026.0807.0720.09
+# Last modified: 07 Aug 2026 13:08 UTC
+# Version: 2026.0807.1308.20
 # Syntax: Domains (without subdomains)
-# Number of entries: 6666
+# Number of entries: 6686
 #
 007slots.pro
 01jamuslot.click
@@ -29,6 +29,8 @@
 10001toto.club
 1000togel.org
 1001sloting.art
+100kslot.win
+100plusslot.asia
 101totox.org
 108slot.xyz
 1112slot.xyz
@@ -78,6 +80,7 @@
 1167xslot.com
 12-malaysia-slot.online
 12-malaysia-slot.vip
+1211slot.com
 1212slot.net
 1221slot.club
 123dragonslot.com
@@ -5358,6 +5361,7 @@ mobile.prediksihkpools.top
 mollificiopadano.com
 mozarella.talamospizzas.com
 mpo111gacor.top
+mposlot1221.site
 mposlot777.online
 muliatoto457web.site
 mylannaspa.com
@@ -5898,7 +5902,9 @@ rupiahtotowdx043.site
 rupiahtotowdx044.site
 rupiahtotowdx045.site
 rupiahtotowdx056.site
+rupiahtotowdx057.site
 rupiahtotowdx058.site
+rupiahtotowdx059.site
 sakti777rtp.site
 saldo777rtp.site
 salmon.friendsdijital.com
@@ -6047,10 +6053,13 @@ slot7500.xyz
 slot775.vip
 slot77799dh130.site
 slot77799dh131.site
+slot777bet.lol
 slot777hot.click
 slot777jkt.click
 slot777live.click
+slot777live.lol
 slot777livebet.click
+slot777livebet.lol
 slot777login.xyz
 slot777lucky550.site
 slot777lucky551.site
@@ -6129,7 +6138,9 @@ slotjplucky321.site
 slotjplucky436.site
 slotjplucky452.site
 slotjplucky550.site
+slotjplucky661.site
 slotjplucky920.site
+slotkyron392.site
 sloto123.online
 slotonline888.online
 slotonline999.online
@@ -6315,6 +6326,7 @@ toto226xjp.site
 toto227xjp.site
 toto228ku140.xyz
 toto228ku141.xyz
+toto228mirror.site
 toto228xjp.site
 toto229xjp.site
 toto234bagus.click
@@ -6345,9 +6357,12 @@ toto700.click
 toto700x77gasi.site
 toto700x77gass.site
 toto700x78gas.site
+toto700x79gas.site
 toto700xgas77.site
 toto700xgas78.site
 toto700xgas79.site
+toto700xgas80.site
+toto700xgas81.site
 toto700xgasi77.site
 toto700xgass77.site
 toto700xgcra11.site
@@ -6392,6 +6407,8 @@ toto88wdx053.site
 toto88wdx054.site
 toto88wdx055.site
 toto88wdx056.site
+toto88wdx057.site
+toto88wdx058.site
 toto919pos.lol
 toto987asb.site
 toto987twt.site
@@ -6419,6 +6436,7 @@ totoslots288xob.site
 totososmed761.online
 trial91.pharmalifescience.com
 tribun855maxwin.xyz
+tribun855slots.xyz
 tvtoto172.site
 tvtoto203.site
 ulartoto123jp.site
@@ -6539,6 +6557,7 @@ watitotowdx055.site
 watitotowdx056.site
 watitotowdx057.site
 watitotowdx058.site
+watitotowdx059.site
 waxing5rb.elegantspasalon.com
 wdtoto007pas.site
 we777slot.xyz
@@ -6546,6 +6565,7 @@ winslot888.xyz
 wongtogel177jet.site
 wowslot345.online
 wslot888.us.com
+wslot999.xyz
 wso138gacor.site
 xn--rtprinduslot-9d7t1745a8zxa.online
 xslot94812.top
