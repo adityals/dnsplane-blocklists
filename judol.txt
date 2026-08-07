@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 06 Aug 2026 14:14 UTC
-# Version: 2026.0806.1414.46
+# Last modified: 07 Aug 2026 00:05 UTC
+# Version: 2026.0807.0005.10
 # Syntax: Domains (without subdomains)
-# Number of entries: 6624
+# Number of entries: 6658
 #
 007slots.pro
 01jamuslot.click
@@ -4134,6 +4134,7 @@ jayaslotapk.xyz
 jayatogel888.org
 jdb168slot.com
 jdtoto-chip.site
+jebolslot.vip
 jeboltogel001jpx.site
 jeboltogel020jpx.site
 jeboltogel066jpx.site
@@ -4179,6 +4180,7 @@ jnetoto599jpx.site
 jnetoto736jpx.site
 jnetoto808jpx.site
 jnetoto889jpx.site
+jnetotoku101x.cyou
 jnetotologin.xyz
 jnt777slot.com
 jogjatotomnyk.site
@@ -4250,6 +4252,7 @@ jualtotoku213x.cyou
 jualtotoku214x.cyou
 jualtotoku215x.cyou
 jualtotoku216x.cyou
+jualtotoku217x.cyou
 jualtotoku230jta.site
 jualtotoku250jta.site
 jualtotoku260jta.site
@@ -4520,6 +4523,7 @@ kingdomtoto112az.site
 kingdomtoto258il.site
 kingdomtoto258qs.site
 kingdomtoto857dm.site
+kingdomtotoko36jp.site
 kingdomtotowdx043.site
 kingdomtotowdx044.site
 kingdomtotowdx045.site
@@ -4552,6 +4556,8 @@ kkslot777gova.top
 kkslot777hooki.top
 kkslot777omen.top
 kkslot777opes.top
+kkslots777.mobi
+kl108slotqris.com
 klik-rtprun113.beauty
 koboislot.top
 koibet138slot.com
@@ -4620,6 +4626,8 @@ konohatotox90pro.site
 konohatotoxgasi77.site
 konohatotoxpro88.site
 konohatotoxpro90.site
+konohatotoxpro92.site
+konohatotoxpro93.site
 konohatotoxproo88.site
 konohatotoxwds27.site
 kontes168slot.com
@@ -4694,6 +4702,7 @@ kukutotox53hok.site
 kukutotox91kingg.site
 kukutotoxhok36.site
 kukutotoxhok53.site
+kukutotoxhok54.site
 kukutotoxjpd45.site
 kukutotoxking91.site
 kukutotoxkingo91.site
@@ -4748,6 +4757,7 @@ latoto8989.xyz
 latotoku101x.cyou
 latotoku102x.cyou
 latotoku103x.cyou
+latotoku104x.cyou
 latotolink.xyz
 latotoslot.xyz
 lavaslot777.com
@@ -4836,6 +4846,7 @@ logototox34topp.site
 logototox35top.site
 logototoxtop34.site
 logototoxtop35.site
+logototoxtop36.site
 lokitoto.click
 londonslot.click
 longtogel.click
@@ -4993,7 +5004,9 @@ mahjongx458vr.site
 mahjongx482gy.site
 mahjongx585jp.site
 mahjongx591jp.site
+mahjongx603jp.live
 mahjongx610jp.live
+mahjongx611jp.live
 mahjongx654sr.site
 mahjongx686jp.site
 mahjongx691jp.site
@@ -5014,6 +5027,7 @@ mainslot368.org
 mainslot777.com
 mainslot88anps.site
 mainslot88samsg.site
+maintoto.online
 maju.mansionbwineboutique.com
 malang303slot.com
 malitotonews2026.xyz
@@ -5026,6 +5040,7 @@ mami123slot.net
 manadototo3sx.site
 mandalatoto318gil.site
 mandalatoto318gt.site
+mandalatotocgk.site
 manggatoto.click
 maniac777slot.com
 manisan.emn2025.com
@@ -5050,6 +5065,7 @@ marleeey-ag.b-cdn.net
 mas138slot.com
 maskertoto.xyz
 maskot168slot.com
+masterslot365.org
 mastertogel335hub.site
 mastertogel708jpx.site
 mastertoto.xyz
@@ -5085,12 +5101,14 @@ mawartoto555id.click
 mawartotoaxmntp.site
 mawartotogjr.site
 mawartotoko1101.site
+mawartotolhr.site
 mawartotomf.site
 mawartotonr.site
 mawartotopaps.site
 mawartotopma.site
 mawartotopsi.site
 mawartotoresmi.xyz
+mawartotovb.site
 mawartotowdx036.site
 mawartotowdx037.site
 mawartotowdx038.site
@@ -5114,7 +5132,13 @@ mawartotowdx056.site
 mawartotowdx058.site
 mawartotowdx727.site
 mawartotowdx939.site
+mawartotoyxmenang.site
+mawartotoyxwow.site
+maximtoto.vip
+maxslot188slot.com
 maxslot889xptc.site
+maxslot88bright.xyz
+maxslot88spark.xyz
 maxwin-1.rakyatslotmxwin.store
 maxwin-2026.vip
 maxwin-guvenligiris2026.icu
@@ -5187,11 +5211,14 @@ maxwin772xhoki.site
 maxwin773xhoki.site
 maxwin775xhoki.site
 maxwin776xhoki.site
+maxwin777.best
 maxwin777.click
 maxwin778xhoki.site
 maxwin814xhoki.site
 maxwin815xhoki.site
 maxwin816xhoki.site
+maxwin888.best
+maxwin888.mobi
 maxwin888.online
 maxwin930xhoki.site
 maxwin941xhoki.site
@@ -5215,6 +5242,8 @@ maxwin968xhoki.site
 maxwin969xhoki.site
 maxwin977xhoki.site
 maxwin982xhoki.site
+maxwin988.org
+maxwin996.app
 maxwinguncel2026.cfd
 maxwinlucky550.site
 maxwinz149ok.site
@@ -5223,6 +5252,11 @@ maxwinz155ok.site
 maxwinz158ok.site
 maxwinz161ok.site
 maxwinz164ok.site
+mayoraslot138.com
+mazda303slot.com
+mazoslot-pro.online
+mbahtoto.click
+mbaktoto.xyz
 mbl.goldenappliancerepair.com
 mcd.burgersontherun.com
 me777slot.click
