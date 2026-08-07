@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 07 Aug 2026 00:05 UTC
-# Version: 2026.0807.0005.10
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 07 Aug 2026 04:58 UTC
+# Version: 2026.0807.0458.45
 # Syntax: Domains (without subdomains)
-# Number of entries: 6658
+# Number of entries: 6648
 #
 007slots.pro
 01jamuslot.click
@@ -1088,7 +1088,6 @@ americanmahjong101.com
 americanmahjonghouse.xyz
 amerikatoto-bor.site
 amin89maxwin.site
-amintotoblue.xyz
 amoy333-slotdemo.com
 amoy333-slotdemo.online
 amoy333-slotdemo.org
@@ -2720,13 +2719,6 @@ dewatogelwdx047.site
 dewatoto.xyz
 dewatoto138.org
 dewi288slot.com
-dewidewitotobaruwap.online
-dewidewitotodaftarvip.online
-dewidewitotoindoresmi.online
-dewidewitotolinkmasuk.online
-dewidewitotologinpro.online
-dewidewitotomemberhome.online
-dewidewitotowebofficial.online
 dewigacor178alt.vip
 dewislot77min.icu
 dewitogel138.org
@@ -4113,7 +4105,6 @@ jandanya-rtp.site
 jandaslot.click
 jangkar123slot.com
 jangkar128slot.com
-jangkautoto.online
 janjigacor.click
 janjitoto.click
 japri168slot.com
@@ -5020,7 +5011,6 @@ mahjongx789oxgas.site
 mahjongx789pxgas.site
 mahjongx994jp.site
 mahjongz500gt.site
-mahkotaslot1.vip
 mahongtoto.click
 mail.myzoomride.com
 mainslot368.org
