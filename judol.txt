@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 07 Aug 2026 04:58 UTC
-# Version: 2026.0807.0458.45
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 07 Aug 2026 07:20 UTC
+# Version: 2026.0807.0720.09
 # Syntax: Domains (without subdomains)
-# Number of entries: 6648
+# Number of entries: 6666
 #
 007slots.pro
 01jamuslot.click
@@ -426,6 +426,7 @@
 666ffslot.com
 666slot.onl
 666slot.tech
+668duitslot.vip
 66pinasscatter.xyz
 66winslot.click
 678luckslot.com
@@ -757,6 +758,7 @@ afktoto667.com
 afktoto668.com
 afktoto669.com
 ag777slotsgame.com
+agacor180.site
 agam69rtppp.lol
 agen666slot.com
 agen777slot.club
@@ -1077,6 +1079,8 @@ altogelwdx053.site
 altogelwdx054.site
 altogelwdx055.site
 altogelwdx056.site
+altogelwdx057.site
+altogelwdx058.site
 amazon-slot.lol
 amazslot.online
 ambianceslot.xyz
@@ -3347,6 +3351,9 @@ gacor77wdx053.site
 gacor77wdx054.site
 gacor77wdx055.site
 gacor77wdx056.site
+gacor77wdx057.site
+gacor77wdx058.site
+gacor77wdx059.site
 gacor808.online
 gacor8800.xyz
 gacor881it.site
@@ -3765,6 +3772,8 @@ hometogel4jy.cfd
 hometogel7few.cfd
 hometogel7ft.site
 hometogelwdx056.site
+hometogelwdx057.site
+hometogelwdx058.site
 homtogel.xyz
 hondaslot.xyz
 hondatogel228zen.site
@@ -4297,6 +4306,7 @@ juragan69rtp.click
 juragankoin138slot.com
 juraganslot.click
 justogel.xyz
+k168slot.site
 k1togel.click
 kado888slot.com
 kaikoslot.top
@@ -4832,6 +4842,7 @@ logototowdx052.site
 logototowdx053.site
 logototowdx054.site
 logototowdx056.site
+logototowdx057.site
 logototowdx058.site
 logototox34topp.site
 logototox35top.site
@@ -4993,6 +5004,7 @@ mahjongx127jt.site
 mahjongx458pg.site
 mahjongx458vr.site
 mahjongx482gy.site
+mahjongx576yg.site
 mahjongx585jp.site
 mahjongx591jp.site
 mahjongx603jp.live
@@ -5078,6 +5090,7 @@ masukkoinslot168.site
 masukslot.xyz
 mata789slot.com
 mataramtoto.click
+mawartoto123.site
 mawartoto138hot.click
 mawartoto172cp.site
 mawartoto303hot.click
@@ -5119,6 +5132,7 @@ mawartotowdx052.site
 mawartotowdx053.site
 mawartotowdx055.site
 mawartotowdx056.site
+mawartotowdx057.site
 mawartotowdx058.site
 mawartotowdx727.site
 mawartotowdx939.site
@@ -5147,12 +5161,16 @@ maxwin125xcuan.site
 maxwin128xcuan.site
 maxwin131xcuan.site
 maxwin134xcuan.site
+maxwin138fikjo.site
+maxwin138fikke.site
 maxwin138fiksjp.site
 maxwin138fix.site
 maxwin138fixd.site
+maxwin138fixjr.site
 maxwin138fixnd.site
 maxwin138fixni.site
 maxwin138fixwd.site
+maxwin138fixze.site
 maxwin138fkjo.site
 maxwin138fkzp.site
 maxwin138fxcc.site
