@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 08 Aug 2026 12:53 UTC
-# Version: 2026.0808.1253.04
+# Last modified: 08 Aug 2026 18:41 UTC
+# Version: 2026.0808.1841.25
 # Syntax: Domains (without subdomains)
-# Number of entries: 6773
+# Number of entries: 6802
 #
 007slots.pro
 01jamuslot.click
@@ -1606,6 +1606,7 @@ batikentotocekici.xyz
 batikslot.click
 batmantoto2bf.sbs
 batmantoto3ng.site
+batmantoto5vbf.sbs
 batmantoto6cd.site
 batmantoto77lol.site
 batmantoto7frd.cfd
@@ -1648,6 +1649,7 @@ bayitotoxking93.site
 bayitotoxtopo34.site
 bb7rtp.xyz
 bbfstoto.click
+bbjslot.online
 bbmtoto.click
 bbo303slot.club
 bbq.curveballkitchen.com
@@ -1747,6 +1749,7 @@ betmen2023slot.club
 betogel4d.online
 betogel4d.xyz
 beton888slot.org
+betonkliktoto.top
 betorder-pragmaticplay.icu
 betredmitoto.site
 bettogeltop1x.site
@@ -1789,6 +1792,7 @@ bigslot288xy3.cyou
 bigslot288xyz3.cyou
 bigslot288xyz4.cyou
 bigslot288xyz5.cyou
+bigslot288xyz6.cyou
 bigslot289.com
 bigslot777.mobi
 bigslot88.online
@@ -1839,6 +1843,7 @@ birutoto4cv.site
 birutoto65vbm.site
 birutoto726max.site
 birutoto88.lol
+birutoto9.xyz
 birutoto989x.site
 birutotoanps.site
 birutotoasd.site
@@ -1901,6 +1906,7 @@ bobatoto005jpx.site
 bobatoto020jpx.site
 bobatoto066jpx.site
 bobatoto0ok.cfd
+bobatoto0ws.cfd
 bobatoto111xjp.site
 bobatoto117jpx.site
 bobatoto120jta.site
@@ -2223,6 +2229,7 @@ cahayatotoku216x.cyou
 cahayatotoku217x.cyou
 cahayatotoku218x.cyou
 cahayatotoku221x.cyou
+cahayatotoku222x.cyou
 cahayatotor0w.site
 cahayatotor1w.site
 cahayatotox11gcra.site
@@ -2543,10 +2550,12 @@ danaslot-b.online
 danaslot-d.online
 danatoto16jp.site
 danatoto2024.com
+danatoto230.com
 danatoto365.net
 danatoto599jpx.site
 danatoto777.website
 danatoto899.com
+danatoto994.com
 danatotocqx.online
 danatotodlep.site
 danatotoeqzn.site
@@ -2602,6 +2611,7 @@ danatotoku285x.cyou
 danatotoku287x.cyou
 danatotoku288x.cyou
 danatotoku289x.cyou
+danatotoku290x.cyou
 danatotologin.click
 danatotoltdn.site
 danatotomacau.lol
@@ -2730,10 +2740,12 @@ demoslot7777.org
 demoslot777ger.cyou
 demoslot777xwxx.cyou
 demoslot789.com
+demoslot88.top
 demoslotapp.motorcycles
 demoslotgratis1.bargorriti.com
 demoslotrupiah.org
 demoslotspg777.com
+demoslotvip.cfd
 denistoto.click
 densustoto.click
 dental.quakertownpediatricdentist.com
@@ -2895,7 +2907,10 @@ dory189slot.com
 dot77slot.site
 dota.brooklynstainlesssteel.com
 dota303slot.com
+dota88qugacor.site
 doyok123slot.club
+dprtoto-aug7.click
+dprtoto-aug7.site
 dprtoto-july24.click
 dprtoto-july24.site
 dprtoto-july27.click
@@ -3124,10 +3139,15 @@ evostotowde280x.cyou
 evostotowde281x.cyou
 evostotowde282x.cyou
 evostotowde283x.cyou
+evostotowde285x.cyou
+evostotowde286x.cyou
+evostotowde287x.cyou
+evostotowde288x.cyou
 evostotox32wde.site
 evostotox39pro.site
 evostotox88proo.site
 evostotox90pro.site
+evostotox92pro.site
 evostotoxgcra11.site
 evostotoxking2.site
 evostotoxpro88.site
@@ -3150,6 +3170,7 @@ exotogel303hub.site
 exototo.top
 exototo4gbf.sbs
 exototo666.com
+exototo6nm.site
 exototo777.org
 exototo8ew.site
 exototo8ewe.site
@@ -3215,6 +3236,7 @@ fedslot.xyz
 ferraritotopunya.site
 fiatogel.xyz
 fiatogel7788.com
+fiestaslots.vip
 fiestaslotse.click
 fifa808slot.club
 fijislot10.top
@@ -3238,6 +3260,9 @@ flash777slot.com
 flixslot789.site
 flokitoto.xyz
 flowertoto138.net
+flyingslotapp.site
+flyingslotofficial.site
+flyingslotplatform.site
 fomototo.top
 food.fusionquincy.com
 formula168slot.com
@@ -3368,6 +3393,7 @@ gacor668.click
 gacor6680.com
 gacor668akun.com
 gacor668apk.com
+gacor668id.com
 gacor668mpo.com
 gacor668xgcrs1.site
 gacor668y.com
@@ -3411,6 +3437,9 @@ gacor777ku185x.cyou
 gacor777ku186x.cyou
 gacor777ku187x.cyou
 gacor777ku188x.cyou
+gacor777ku189x.cyou
+gacor777ku190x.cyou
+gacor777ku191x.cyou
 gacor777l.com
 gacor777max.com
 gacor777mpo.com
