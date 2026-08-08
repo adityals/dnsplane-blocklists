@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 08 Aug 2026 04:13 UTC
-# Version: 2026.0808.0413.43
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 08 Aug 2026 06:57 UTC
+# Version: 2026.0808.0657.03
 # Syntax: Domains (without subdomains)
-# Number of entries: 6746
+# Number of entries: 6760
 #
 007slots.pro
 01jamuslot.click
@@ -1107,6 +1107,7 @@ altogelwdx055.site
 altogelwdx056.site
 altogelwdx057.site
 altogelwdx058.site
+altogelwdx059.site
 amazon-slot.lol
 amazslot.online
 ambianceslot.xyz
@@ -1302,6 +1303,7 @@ asia200toto.com
 asia988slot.net
 asiabet777lbmaxwin.site
 asiabet777maxwin.site
+asiabet777qugacor.site
 asiabet77jbslot.site
 asiabet77lbslot.site
 asiabet77pbslot.site
@@ -1891,6 +1893,7 @@ bobatoto005jpx.site
 bobatoto020jpx.site
 bobatoto066jpx.site
 bobatoto0ok.cfd
+bobatoto111xjp.site
 bobatoto117jpx.site
 bobatoto120jta.site
 bobatoto121nca.site
@@ -2949,6 +2952,7 @@ duniatoto-orca.online
 duren777slot.bet
 duriantogel.xyz
 dutaslot.xyz
+dwg288qugacor.site
 dwitogel.click
 dwptogel.click
 easyslot789.life
@@ -3842,6 +3846,7 @@ hometogel7ft.site
 hometogelwdx056.site
 hometogelwdx057.site
 hometogelwdx058.site
+hometogelwdx059.site
 homtogel.xyz
 hondaslot.xyz
 hondatogel228zen.site
@@ -4866,6 +4871,7 @@ lingtogel77.click
 link-tamanslot77.online
 link-toto-togel-4d-resmi-online.centromedicinanucleare.org
 link-totoslot288.sbs
+link178rtp.site
 linkalternatifsbobet.net
 linksitusgacor305.com
 linkslot-1.shanghaicuisineorder.com
@@ -4909,6 +4915,7 @@ logototowdx054.site
 logototowdx056.site
 logototowdx057.site
 logototowdx058.site
+logototowdx059.site
 logototox34topp.site
 logototox35top.site
 logototoxtop34.site
@@ -4977,6 +4984,7 @@ macauslot188.nl
 macauslot188.online
 macauslot188soft.com
 macha-latte.thesingaporecafe.com
+madu303qugacor.site
 maenslot1.digixhub.com
 mafiatogel304jns.live
 mafiatogel365web.site
@@ -5158,6 +5166,7 @@ mataramtoto.click
 mawartoto123.site
 mawartoto138hot.click
 mawartoto172cp.site
+mawartoto3030.site
 mawartoto303hot.click
 mawartoto369hot.click
 mawartoto369jp.click
@@ -5199,6 +5208,7 @@ mawartotowdx055.site
 mawartotowdx056.site
 mawartotowdx057.site
 mawartotowdx058.site
+mawartotowdx059.site
 mawartotowdx727.site
 mawartotowdx939.site
 mawartotoyxmenang.site
@@ -5639,6 +5649,7 @@ pajaktotoku558jp.site
 pajaktotoku559jp.site
 pajaktotowd311jp.site
 palace303maxwin.site
+palace303qugacor.site
 parlay-98.fincahotellamoni.com
 partaitogel001jpx.site
 partaitogel007xwd.site
@@ -5657,6 +5668,7 @@ partaitogelwdx046.site
 partaitogelwdx047.site
 pdx.har-bq.com
 peh888slot.xyz
+pelita888slot.vip
 perfects123-slot.online
 perkinshigh.org
 pertiwitoto399gpk.site
@@ -5739,6 +5751,7 @@ pragmatic188oli.site
 pragmatic189.top
 pragmatic189.xyz
 pragmatic888.click
+pragmaticbigbassbonanza1000.lol
 prediksi.bocoranhk.me
 prediksi4d.online
 prediksigardatoto888.xyz
@@ -5937,6 +5950,7 @@ rtpsuster123mantap1.top
 rtpsuster123mantap2.top
 rtpsuster123mantap3.top
 rtpto1.joelhformayor.com
+rtptoge123c.click
 rtptoto123.sbs
 rtpvegas338.site
 rtpvio5000.vip
