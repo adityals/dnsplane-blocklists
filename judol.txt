@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 08 Aug 2026 06:57 UTC
-# Version: 2026.0808.0657.03
+# Last modified: 08 Aug 2026 12:53 UTC
+# Version: 2026.0808.1253.04
 # Syntax: Domains (without subdomains)
-# Number of entries: 6760
+# Number of entries: 6773
 #
 007slots.pro
 01jamuslot.click
@@ -29,6 +29,7 @@
 10001toto.club
 1000togel.org
 1001sloting.art
+100cucislot.win
 100kslot.win
 100plusslot.asia
 101totox.org
@@ -349,6 +350,7 @@
 365rajapgslot.org
 365slot.click
 365slot.store
+365slotcom.com
 365slots.club
 365slots.pro
 365slotsng.com
@@ -366,6 +368,7 @@
 380slotmpo.com
 380slotterbaik.com
 380slotv.com
+389togel.com
 38rp888slot.club
 396clubslot.club
 396slot.club
@@ -421,6 +424,7 @@
 567slotse.com
 567slotsid.com
 567slotsl.com
+567slotsq.com
 567slotsy.com
 5758slot.org
 589slot.win
@@ -737,6 +741,7 @@ abutogel808jpx.site
 abutogel88cola.site
 abutogel8bh.cfd
 abutogel8hg.site
+abutogel8jm.sbs
 abutogel8ml.site
 abutogel8ng.sbs
 abutogel8qw.sbs
@@ -894,6 +899,7 @@ alexistogel58ont.site
 alexistogel599jpx.site
 alexistogel59ont.site
 alexistogel5fe.cfd
+alexistogel5hg.sbs
 alexistogel5op.cfd
 alexistogel5vc.sbs
 alexistogel5vcd.cfd
@@ -967,6 +973,7 @@ alexistoto293.live
 alexistoto299.live
 alexistoto303hot.shop
 alexistoto324.live
+alexistoto325.live
 alexistoto328gc.site
 alexistoto334.live
 alexistoto337.live
@@ -1172,6 +1179,7 @@ antamtotoxwint45.site
 antidotslot.xyz
 anugerahtoto.xyz
 ap686slot.com
+ap8slot.online
 apa-ginigini-buujang.caffevignette.com
 apace138-rtp.com
 apartment.grambal-stavby.cz
@@ -6206,6 +6214,7 @@ slothoke763jp.site
 slothoki109.xyz
 slothoku168llm.site
 slothoku212.site
+slothoku238.xyz
 slothoku366lab.site
 slotindolucky550.site
 slotjplucky321.site
@@ -6412,6 +6421,7 @@ toto234enak.top
 toto238.xyz
 toto268.xyz
 toto300.site
+toto365.online
 toto368.top
 toto4dxgoal552.site
 toto500.online
@@ -6483,6 +6493,8 @@ toto88wdx055.site
 toto88wdx056.site
 toto88wdx057.site
 toto88wdx058.site
+toto88wdx059.site
+toto88wdx060.site
 toto919pos.lol
 toto987asb.site
 toto987twt.site
@@ -6560,6 +6572,7 @@ vio777jbslot.site
 vio777lbslot.site
 vio777maxwin.site
 vio777pbslot.site
+vio777qugacor.site
 vio777vbslot.site
 vip777slot.xyz
 vn888slot.xyz
