@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 08 Aug 2026 01:46 UTC
-# Version: 2026.0808.0146.38
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 08 Aug 2026 04:13 UTC
+# Version: 2026.0808.0413.43
 # Syntax: Domains (without subdomains)
-# Number of entries: 6751
+# Number of entries: 6746
 #
 007slots.pro
 01jamuslot.click
@@ -4090,7 +4090,6 @@ indoslot303link.living
 indoslot303link.lol
 indoslot303link.mom
 indoslot303link.monster
-indoslot303link.online
 indoslot303link.quest
 indoslot303link.rest
 indoslot303link.shop
@@ -4278,8 +4277,6 @@ jonitogel255jpx.site
 jonitogel256jpx.site
 jonitogel257jpx.site
 jonitogel88.xyz
-jonitogelfxj.site
-jonitogelfxjp.site
 jonitogelxfikjp.site
 jonitogelxfkjp.site
 jonitoto889fix.live
@@ -5242,11 +5239,9 @@ maxwin138fixze.site
 maxwin138fkjo.site
 maxwin138fkzp.site
 maxwin138fxcc.site
-maxwin138fxj.site
 maxwin138fxje.site
 maxwin138fxjep.site
 maxwin138fxjk.site
-maxwin138fxjp.site
 maxwin138fxk.site
 maxwin138fxkj.site
 maxwin138fxkk.site
