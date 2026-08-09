@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 08 Aug 2026 18:41 UTC
-# Version: 2026.0808.1841.25
+# Last modified: 09 Aug 2026 01:51 UTC
+# Version: 2026.0809.0151.30
 # Syntax: Domains (without subdomains)
-# Number of entries: 6802
+# Number of entries: 6854
 #
 007slots.pro
 01jamuslot.click
@@ -3539,6 +3539,9 @@ gacorslotku266x.cyou
 gacorslotku267x.cyou
 gacorslotku268x.cyou
 gacorslotku269x.cyou
+gacorslotku271x.cyou
+gacorslotku272x.cyou
+gacorslotku273x.cyou
 gacorslt138ai.lat
 gacorslt138ai.xyz
 gacortop.online
@@ -3549,6 +3552,9 @@ gacorwin6.site
 gacorwin7.site
 gacorwin8.site
 gacorx.vip
+gacorx305ku.com
+gacorx305love.com
+gacorx305sor.com
 gacorx50000.org
 gacorx500a.com
 gacorx500ex.top
@@ -3582,6 +3588,7 @@ gadunslotaxazik.site
 gaib777slot.com
 galaxy666slot.com
 galaxybet777slot.com
+gamaslots-pxx.top
 game303slot.com
 game888slot.info
 gampangtoto.xyz
@@ -3599,12 +3606,18 @@ garudaslot.click
 gasing777rtp.rest
 gasmaxwinterus.xyz
 gate-of-olympus100-game.app
+gatesofolympus-1000-demo.com
 gatesofolympus-tr.click
 gatesofolympus.icu
+gatesofolympus1000-demo.com
 gatesofolympus1000igra.sbs
+gatesofolympusdemo1000.com
 gbo777slot.xyz
 gboslot.click
+gbslot888.com
+gdslot.online
 gdslot888.asia
+gdslots888.com
 gedetogel.xyz
 gelegarzeus007.click
 gembala303slot.com
@@ -3642,6 +3655,9 @@ gengtotoku215x.cyou
 gengtotoku216x.cyou
 gengtotoku217x.cyou
 gengtotoku218x.cyou
+gengtotoku220x.cyou
+gengtotoku221x.cyou
+gengtotoku222x.cyou
 gengtotoku268.site
 gengtotoku269.site
 gengtotoku270.site
@@ -3662,11 +3678,13 @@ geritoto.xyz
 gesit188slot.com
 gg189slot.com
 gg888slot.com
+gg999askmeslot.store
 ggjudislotgg.top
 ggjudislothoki.top
 ggjudislotultra.top
 ggslot777slot.com
 gigaslot.online
+gigaslot138win.com
 gila188slot.org
 gledek888slot.com
 globalbet888slot.com
@@ -3704,6 +3722,7 @@ goltogel6fv.cfd
 goltogel736win.site
 goltogel7yj.site
 goltogel811jp.site
+goltogel8cv.site
 goltogel911win.site
 goltogelx63wind.site
 goltogelx63wint.site
@@ -3722,6 +3741,7 @@ google1.kittiwakefloorcoverings.com
 gopay178slot.com
 gopay303rtp.site
 gopay666slot.com
+goslot138.com
 goslot777.club
 goslot88resmi.xyz
 goto888slot.com
@@ -3732,8 +3752,10 @@ goyang888slot.com
 gratis-main.demoslotfree.com
 grtoto.click
 gslot888.mobi
+gslotz888.bet
 gslotz888a.online
 gslotz888z.click
+gslotz999.bet
 gslotz999.cfd
 gta365slot.net
 gtrtoto.xyz
@@ -3762,6 +3784,16 @@ hamtotoxgcr150.site
 hanabi188slot.com
 hangout.blacklotuspizza.com
 hannoman777slot.com
+hanslot88beast.xyz
+hanslot88berani.xyz
+hanslot88center.xyz
+hanslot88hebat.xyz
+hanslot88mendali.xyz
+hanslot88meriah.xyz
+hanslot88percaya.xyz
+hanslot88populer.xyz
+hanslot88tangguh.xyz
+hanslot88terkendali.xyz
 hantogelzx163.com
 hantogelzx405.com
 hantogelzx892.com
@@ -3802,6 +3834,9 @@ hargatotoku101x.cyou
 hargatotoku102x.cyou
 hargatotoku103x.cyou
 hargatotoku104x.cyou
+hargatotoku105x.cyou
+hargatotoku107x.cyou
+hargatotoku108x.cyou
 hargatotox22sipp.site
 hargatotox23sip.site
 hargatotoxsip22.site
@@ -3824,6 +3859,14 @@ healthy.fifimakesiteasy.com
 helpslot.site
 hemat138gacor.xyz
 hengslot168.cloud
+heroslot88beast.xyz
+heroslot88center.xyz
+heroslot88hebat.xyz
+heroslot88mendali.xyz
+heroslot88meriah.xyz
+heroslot88populer.xyz
+heroslot88tangguh.xyz
+heroslot88terkendali.xyz
 hey888slot.com
 hgo909rtp.xyz
 hidung777slot.com
@@ -3885,6 +3928,7 @@ hometogelwdx057.site
 hometogelwdx058.site
 hometogelwdx059.site
 homtogel.xyz
+honda777slot.net
 hondaslot.xyz
 hondatogel228zen.site
 hondatoto001jpx.site
@@ -3924,6 +3968,7 @@ hp138-gacor.xyz
 hubtoto.click
 hujantoto.click
 hujantoto117jpx.site
+hujantoto259vip.live
 hujantoto369jpx.site
 hujantoto717x.site
 hujantoto736jpx.site
@@ -3955,15 +4000,20 @@ hujantotoku215x.cyou
 hujantotoku216x.cyou
 hujantotoku217x.cyou
 hujantotoku218x.cyou
+hujantotoku219x.cyou
+hujantotoku220x.cyou
+hujantotoku221x.cyou
 hujantotonyaw.site
 hujantotoxon.site
 hukumtoto.click
 humas-rtp2026.store
 huntertoto.xyz
 huskyslot.click
+huskyslotcc.xyz
 hv777slot.com
 i777slot.net
 ibetslot.click
+id888slot.info
 idamantoto.site
 idamantoto304fox.live
 idamantoto305max.site
@@ -3986,6 +4036,7 @@ idrslot18.xyz
 idrslot19.xyz
 ig777slot.com
 igtoto.click
+ikan128slot.com
 ikn888slot.com
 ikon303slot.com
 ikontoto.top
@@ -4096,6 +4147,7 @@ inatogelek807wuy.site
 inatogelek823rba.site
 inatogelek932rba.site
 inatogell.xyz
+inatogelpikachu.site
 inatogelwdx046.site
 inatoto-2026.com
 inatotox27wda.site
