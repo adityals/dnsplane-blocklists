@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 09 Aug 2026 12:55 UTC
-# Version: 2026.0809.1255.20
+# Last modified: 09 Aug 2026 18:44 UTC
+# Version: 2026.0809.1844.05
 # Syntax: Domains (without subdomains)
-# Number of entries: 6953
+# Number of entries: 6986
 #
 007slots.pro
 01jamuslot.click
@@ -4911,6 +4911,7 @@ kpktoto684vix.live
 kpktoto736jpx.site
 kpktoto7bn.sbs
 kpktoto7dg.sbs
+kpktoto7nb.site
 kpktoto808jpx.site
 kpktoto8yy.site
 kpktotoapi138.click
@@ -4943,9 +4944,11 @@ kpktotoxsip27.site
 kpktotoxsipi21.site
 kpktotoxsipi22.site
 kpplisabang.org
+kpsjituslotcc.xyz
 kring168slot.com
 kring188slot.com
 krisnatogel.xyz
+kslot777.bet
 kucing168slot.com
 kucing365slot.com
 kucingslot.site
@@ -4965,6 +4968,7 @@ kukutotoxtops8.site
 kumaha.theupbeetlife.com
 kumontotok786xit.site
 kuningtoto.click
+kuningtoto.lol
 kuningtoto8080cool.site
 kuningtotoanps.site
 kuningtotosamsg.site
@@ -4987,6 +4991,7 @@ lakutotoxgasi76.site
 lakutotoxgasi77.site
 lakutotoxjps3.site
 lakutotoxking1.site
+lalaslot.online
 lalat138slot.com
 laman-airtoto.online
 lambe303slot.com
@@ -5000,6 +5005,8 @@ lapaktoto248wd.site
 lapaktoto751jp.site
 lapangan777slot.com
 larva888slot.com
+laskar168slot.net
+laskar777slot.com
 lato888slot.com
 latoto2ed.site
 latoto4as.cfd
@@ -5009,10 +5016,15 @@ latoto88.click
 latoto888.club
 latoto8989.com
 latoto8989.xyz
+latoto9fv.cfd
 latotoku101x.cyou
 latotoku102x.cyou
 latotoku103x.cyou
 latotoku104x.cyou
+latotoku105x.cyou
+latotoku106x.cyou
+latotoku107x.cyou
+latotoku108x.cyou
 latotolink.xyz
 latotoslot.xyz
 lavaslot777.com
@@ -5053,6 +5065,7 @@ linetogel127.club
 linetogel888.org
 lingtogel77.click
 link-tamanslot77.online
+link-tamanslot77.site
 link-toto-togel-4d-resmi-online.centromedicinanucleare.org
 link-totoslot288.sbs
 link178rtp.site
@@ -5067,6 +5080,7 @@ lionbet888slot.com
 liong888slot.net
 liontoto.xyz
 liontotopunya.xyz
+lite-kingcobratoto.online
 litetoto.click
 live-rtpbandar55.xyz
 live.srimaadentalclinic.shop
@@ -5074,6 +5088,8 @@ live303slot.com
 livedewatangkasrtp.cfd
 livedrawsdy4d.com
 livertppacuplay138.com
+livewinrtp.xyz
+ll777slotlogin.net
 locations-2.fastnfriendlycstores.com
 locations.playgroundscanberra.com
 logamtoto.click
@@ -5106,6 +5122,7 @@ logototoxtop34.site
 logototoxtop35.site
 logototoxtop36.site
 lokitoto.click
+loncengtotojp.click
 londonslot.click
 longtogel.click
 ltdtoto131.site
@@ -5140,6 +5157,7 @@ lucky768slot.com
 luckygacor49.xyz
 luckywin138slot.com
 luluchu.org
+lumbung188slot.net
 luna99zeus.site
 lunastoto.click
 lunatogel036jepe.site
@@ -5162,6 +5180,8 @@ lunatogel052jepe.site
 lunatogelxgcro550.site
 lusatoto123hjp.site
 luxury138maxwin.site
+luxury333slot.info
+m88slot.online
 mabarslot123.com
 macauslot188.club
 macauslot188.nl
@@ -5198,6 +5218,7 @@ mafiatoto805.site
 mafiatoto806.site
 mahjjong169slot.com
 mahjong.theneerbreak.com
+mahjong222b.com
 mahjong222idn.com
 mahjong245xjt.site
 mahjong257gg.site
@@ -5216,9 +5237,14 @@ mahjong273jpx.site
 mahjong276jpx.site
 mahjong277jpx.site
 mahjong278jpx.site
+mahjong288bet.com
+mahjong288j.com
+mahjong289.net
 mahjong308jpx.site
 mahjong323go.site
 mahjong333.click
+mahjong333.dev
+mahjong500app.com
 mahjong505.club
 mahjong602jpx.site
 mahjong603jpx.site
@@ -5241,10 +5267,13 @@ mahjong955jpa.site
 mahjong962go.site
 mahjongdh131.site
 mahjongdh132.site
+mahjongjp186.live
 mahjongjp88.click
 mahjongjp88anps.site
 mahjongjp88capts1.site
 mahjongjp88nyaw.site
+mahjongjp88spray.site
+mahjongjp88student.site
 mahjonglucky550.site
 mahjongs275jp.site
 mahjongwa186.live
@@ -5267,6 +5296,8 @@ mahjongx591jp.site
 mahjongx603jp.live
 mahjongx610jp.live
 mahjongx611jp.live
+mahjongx618jp.live
+mahjongx619jp.live
 mahjongx654sr.site
 mahjongx686jp.site
 mahjongx691jp.site
@@ -5286,6 +5317,8 @@ mainslot368.org
 mainslot777.com
 mainslot88anps.site
 mainslot88samsg.site
+mainslot88spray.site
+mainslot88student.site
 maintoto.online
 maju.mansionbwineboutique.com
 malang303slot.com
