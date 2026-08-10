@@ -45,3 +45,10 @@ pdmajugroup.online
 terusmajuimage.xyz
 apajalah.online
 imgcdn.it.com
+#
+# 2026-08-10 — weekly search seeding session. Guard routed to review.txt on
+# .ac.id TLD alone (institution-domain caution), not on title — title is
+# unambiguous judol ("LINK GACOR Slot Maxwin Viral Hari Ini Dengan RTP
+# Tinggi..."), a hacked subdomain not campus content. Same call as
+# pa-jakartautara.go.id in the runbook: title decides, TLD doesn't.
+lpm.piksi.ac.id
