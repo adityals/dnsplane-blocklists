@@ -2,8 +2,8 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 09 Aug 2026 18:44 UTC
-# Version: 2026.0809.1844.05
+# Last modified: 10 Aug 2026 01:56 UTC
+# Version: 2026.0810.0156.31
 # Syntax: Domains (without subdomains)
 # Number of entries: 6986
 #
