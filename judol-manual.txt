@@ -2,53 +2,10 @@
 # Description: Hand-picked judol entries the automated pipeline can't produce. Hand-edited, never rewritten by a job.
 # Homepage: https://github.com/adityals/dnsplane
 # Syntax: Domains (without subdomains), one per line, exact hostname
-#
-# Two kinds of entry land here, both requiring human judgment no script can
-# make safely:
-#
-# 1. Doorway-kit infrastructure. auto.txt blocks hacked doorway hostnames one
-# at a time; those rotate within days (measured 2026-08-03: 5 of 5 apex hosts
-# from a 3-day-old seeding sweep were already NXDOMAIN). This targets the
-# opposite end: asset CDNs and redirect hubs that a doorway-page KIT reuses
-# across many disposable hacked hostnames. Block the kit's infra once, and
-# every past and future hacked hostname running that kit goes dead in one
-# shot — the rotation that beats auto.txt doesn't touch this layer.
-#
-# 2. Seeding candidates the agent isn't confident about. During the search
-# seeding runbook (docs/runbook-judol-seeding.md), if a host doesn't cleanly
-# clear the scoring/apex-vs-path rules — borderline marker count, ambiguous
-# title, unclear whether the SERP hit is the operator's apex or an unrelated
-# path — it goes here instead of auto.txt/seeds.txt. This file is served
-# directly (same as auto.txt), so an entry here still blocks; the point is
-# not to route around judgment, it's that ambiguous calls surface in a small
-# hand-reviewed diff Aditya sees at commit time, not buried in a 6000-line
-# harvester file or silently guessed either way.
-#
-# Evidence bar: a host must appear identically (same resource or outlink) on
-# >=2 independent, unrelated hacked doorway domains, found via
-# performance.getEntriesByType('resource') / outbound-link inspection in a
-# real browser session. A single-site hit is not enough — most doorway kits
-# use a shortener domain unique to that one operator (gacor.ly,
-# linkshortener.quest, myredirects.site, ...) with no reuse elsewhere; those
-# are NOT listed here, blocking them buys nothing auto.txt doesn't already.
-#
-# imgcdn.it.com: name suggests a generic image host. Kept after 2/12 unrelated
-# hacked domains loaded it identically, but re-verify before trusting long term
-# — a false positive here is a real image CDN, not a throwaway judol domain.
-#
-# 2026-08-03 — network-request sampling, 28 doorway pages attempted (from
-# baseline + vertical query sweeps), 12 yielded usable resource/outlink data.
-# 3 of ~9 distinct kits observed reused infra across unrelated hosts:
 slot-cdn.com
 sotomedan.net
 pdmajugroup.online
 terusmajuimage.xyz
 apajalah.online
 imgcdn.it.com
-#
-# 2026-08-10 — weekly search seeding session. Guard routed to review.txt on
-# .ac.id TLD alone (institution-domain caution), not on title — title is
-# unambiguous judol ("LINK GACOR Slot Maxwin Viral Hari Ini Dengan RTP
-# Tinggi..."), a hacked subdomain not campus content. Same call as
-# pa-jakartautara.go.id in the runbook: title decides, TLD doesn't.
 lpm.piksi.ac.id
