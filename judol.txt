@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 12 Aug 2026 02:04 UTC
-# Version: 2026.0812.0204.18
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 12 Aug 2026 04:51 UTC
+# Version: 2026.0812.0451.58
 # Syntax: Domains (without subdomains)
-# Number of entries: 14892
+# Number of entries: 14881
 #
 007slots.pro
 01jamuslot.click
@@ -204,7 +204,6 @@
 168slot.best
 168slot.bid
 168slot.bio
-168slot.biz
 168slot.one
 168slot.onl
 168slot.pro
@@ -3183,7 +3182,6 @@ bbfstotoslot.click
 bbjslot.online
 bbmtoto.click
 bbo303slot.club
-bbq.curveballkitchen.com
 bbtoto.xyz
 bbtotopunya.online
 bbtotopunya.site
@@ -5465,7 +5463,6 @@ dewatogel508jpx.site
 dewatogel626jpx.site
 dewatogel960jpx.site
 dewatogelresmi.online
-dewatogels.online
 dewatogels.xyz
 dewatogelvip.online
 dewatogelwdx046.site
@@ -5884,7 +5881,6 @@ elemenrtp4d.site
 elevateartpartners.online
 elexistogel.xyz
 elexistoto.xyz
-elexusslotvip100.com
 elk-slots.site
 elloslotkc.xyz
 elpvtoto.vip
@@ -6348,7 +6344,6 @@ flowertoto138.net
 flyingslotapp.site
 flyingslotofficial.site
 flyingslotplatform.site
-fomo19slot.online
 fomo19slot.site
 fomototo.top
 fontanslot-bcj.site
@@ -8421,7 +8416,6 @@ indoslot303link.forum
 indoslot303link.homes
 indoslot303link.lat
 indoslot303link.living
-indoslot303link.lol
 indoslot303link.mom
 indoslot303link.monster
 indoslot303link.quest
@@ -9192,7 +9186,6 @@ judislotwin5504.site
 judislotzeus.com
 juditotobola.online
 juditotosenin.site
-judol-bet888.com
 judol-terpercaya.xyz
 judol108.org
 judol2026.org
@@ -9740,7 +9733,6 @@ kencur138slot.com
 kenslot2024.xyz
 kentslot-obj.site
 kentslots.top
-kenyatoto.online
 kenzo188rtp-vip.xyz
 kenzo188slot.com
 kenzobetslot777.site
@@ -11607,7 +11599,6 @@ maniatoto.vip
 manisan.emn2025.com
 manjaslot88max.site
 mansiontogel.click
-manteslotto.online
 mantra55maxwin.site
 mantraslot.site
 mantraslot.xyz
@@ -11921,7 +11912,6 @@ maxslotsbet-vwj.site
 maxslotsbet.top
 maxwin-1.rakyatslotmxwin.store
 maxwin-2026.vip
-maxwin-adresguncelgiris.icu
 maxwin-girisguncel.icu
 maxwin-girisgunceli.icu
 maxwin-girisliyeni.icu
@@ -14305,7 +14295,6 @@ toto789ixspin.site
 toto789ixwinz.site
 toto789jphoki.site
 toto789jpwin.site
-toto789jxcuan.site
 toto789kxgas.site
 toto789maxwin.site
 toto789ocgas.site
