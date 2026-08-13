@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 13 Aug 2026 13:16 UTC
-# Version: 2026.0813.1316.08
+# Last modified: 13 Aug 2026 19:05 UTC
+# Version: 2026.0813.1905.56
 # Syntax: Domains (without subdomains)
-# Number of entries: 14877
+# Number of entries: 14913
 #
 007slots.pro
 01jamuslot.click
@@ -42,12 +42,15 @@
 1000toto.site
 1000toto2.org
 1001sloting.art
+1001togelbebek.vip
+1001togelsep.online
 100cucislot.win
 100kslot.win
 100mtotovip.com
 100plusslot.asia
 100togel.shop
 101totox.org
+101zslots.lol
 108mahjong.com
 108slot.xyz
 10layaktoto.click
@@ -170,6 +173,7 @@
 138slot.bio
 138slot.life
 138slot.net
+138sltgacor.xyz
 138vegas-gacor.com
 138vegas-gacor.ink
 138vegas-gacor.lol
@@ -1578,6 +1582,7 @@ agentoto88.click
 agentoto888.co
 agentoto888.com
 agentotoplay105.online
+agentotoplay105.xyz
 agentpetanitogel77.xyz
 agentslots.xyz
 agenttoto.online
@@ -1660,6 +1665,7 @@ akasia899slot.club
 akatsuki189slot.com
 akbtoto.xyz
 akbtoto238.online
+akbtoto238.xyz
 akiratoto.vip
 aks1300slot.club
 aks3004slot.club
@@ -2232,6 +2238,7 @@ amerikatoto-bor.site
 amerikatoto.click
 amin89maxwin.site
 amintoto426.online
+amintoto426.xyz
 amortprompt.xyz
 amoy333-slotdemo.com
 amoy333-slotdemo.online
@@ -2293,6 +2300,7 @@ angin188slot.com
 angka-maktoto.vip
 angkajitutoto.site
 angkajitutoto518.online
+angkajitutoto518.xyz
 angkasa189slot.com
 angkasa888slot.org
 angkasatoto.sbs
@@ -2331,6 +2339,7 @@ antidotslot.xyz
 antotomanisa.online
 anugerahtoto.xyz
 anugrahtoto677.online
+anugrahtoto677.xyz
 anugratoto729.online
 anya4dtoto.xyz
 ap686slot.com
@@ -2590,6 +2599,10 @@ asia200toto.com
 asia777slots.com
 asia988slot.net
 asiabet777lbmaxwin.site
+asiabet777lwgacor.site
+asiabet777lwmaxwin.site
+asiabet777lwslot.site
+asiabet777lwtoto.site
 asiabet777maxwin.site
 asiabet777qugacor.site
 asiabet77jbslot.site
@@ -2864,6 +2877,7 @@ babehgacor.top
 babehslot.top
 babetoto.click
 babetoto810.online
+babetoto810.xyz
 babu123slot.com
 babyslot.click
 bacansportolympus.lol
@@ -3070,6 +3084,7 @@ barber168lbmaxwin.site
 barber168maxwin.site
 barcatoto.xyz
 barcatoto969.online
+barcatoto969.xyz
 barcelona-slots.online
 barcelona88slot.xyz
 barcodetotocomfy.site
@@ -5402,6 +5417,9 @@ detikslot888.quest
 detikslot888.sbs
 detikslot888.shop
 detikslot888.xyz
+detikslot888disana.sbs
+detikslot888disana.top
+detikslot888disini.top
 detikslot889.com
 detiktoto-alt.site
 dewa121slots.com
@@ -5440,6 +5458,9 @@ dewataslot88.click
 dewataslot888.xyz
 dewataslot888asli.com
 dewataslot888baru.com
+dewataslot888disana.sbs
+dewataslot888disana.top
+dewataslot888disini.top
 dewataslot888kita.com
 dewataslot888pusat.com
 dewataslot888utama.com
@@ -5612,6 +5633,7 @@ direkturtoto.click
 direkturtoto.xyz
 direkturtoto1.site
 direkturtoto514.online
+direkturtoto514.xyz
 direkturtoto9fd.sbs
 dirtprompt.xyz
 discount.pmstorewholesale.com
@@ -5663,6 +5685,8 @@ dolantogelon1ont.site
 dolartoto.xyz
 dolo-volvototo-situs.online
 domino365slot.com
+dompet777rtp22.cfd
+dompet777rtp24.cfd
 dompettogel.click
 dompettogell.online
 domtoto.top
@@ -5814,6 +5838,10 @@ ducatitogelslot777.site
 duchessslot.xyz
 duit169slot.club
 duitslot777.com
+dukun138lwgacor.site
+dukun138lwmaxwin.site
+dukun138lwslot.site
+dukun138lwtoto.site
 dukunslot.online
 dumaitoto.click
 dunia-airtoto.online
@@ -5832,6 +5860,8 @@ duta168slot.top
 dutaslot.top
 dutaslot.xyz
 dver789-slot.com
+dwg288higacor.site
+dwg288himaxwin.site
 dwg288maxwin.site
 dwg288qugacor.site
 dwitogel.click
@@ -6717,6 +6747,7 @@ gacorabis.online
 gacoragenbos168.xyz
 gacoran270jpx.live
 gacoran556jpx.live
+gacorbet333.lol
 gacorbet88ip.xyz
 gacorbos88.click
 gacorbosku.site
@@ -6925,6 +6956,7 @@ gadunslotaxazik.site
 gahar188slot.com
 gaib777slot.com
 gain-game-slots.online
+gajah138rtpbarutinggi.click
 gajahmadatoto77.vip
 gajahtotopilihan.xyz
 galapagos-volvototo.online
@@ -7045,6 +7077,7 @@ gemoy168slot.com
 gempa777slot.com
 gempatoto404.com
 gen303slot.com
+gen777-rtp.site
 gendut188slot.com
 gendutslot.top
 generalslotbetsonline.xyz
@@ -7186,11 +7219,14 @@ gobet123slot.com
 gobet888slot.com
 gogon969slot.club
 gogototo.click
+gokken138-slotdemo.online
 gokken138rtpslot.online
 gokken138rtpslot.shop
 gokken138rtpslot.space
 gokken138rtpslot.store
 gokken999-slotdemo.com
+gokken999-slotgratis.online
+gokken999-slotgratis.site
 gokken999rtpslot.blog
 gokken999rtpslot.online
 gokken999rtpslot.site
