@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 13 Aug 2026 02:07 UTC
-# Version: 2026.0813.0207.01
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 13 Aug 2026 04:56 UTC
+# Version: 2026.0813.0456.37
 # Syntax: Domains (without subdomains)
-# Number of entries: 14881
+# Number of entries: 14877
 #
 007slots.pro
 01jamuslot.click
@@ -2139,7 +2139,6 @@ allslot789.net
 allslot789game.net
 allslot888.click
 allslot888.win
-allslot888m.net
 allslotauto.vip
 allslotgame789.asia
 allslots-canada2026.com
@@ -2800,7 +2799,6 @@ avertprompt.xyz
 avgoperaktoto99.site
 avitotool.online
 avtoto-manja.online
-avtoto1.online
 awan128slot.com
 awislot.lol
 awpslot.click
@@ -6344,7 +6342,6 @@ flowertoto138.net
 flyingslotapp.site
 flyingslotofficial.site
 flyingslotplatform.site
-fomo19slot.site
 fomototo.top
 fontanslot-bcj.site
 fontanslot-elj.site
@@ -10031,7 +10028,6 @@ kkslot777cair.top
 kkslot777credo.top
 kkslot777cuaan.top
 kkslot777dewa.top
-kkslot777donum.top
 kkslot777emas.top
 kkslot777fell.top
 kkslot777fide.top
