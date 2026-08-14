@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 14 Aug 2026 04:53 UTC
-# Version: 2026.0814.0453.10
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 14 Aug 2026 07:27 UTC
+# Version: 2026.0814.0727.43
 # Syntax: Domains (without subdomains)
-# Number of entries: 14927
+# Number of entries: 14947
 #
 007slots.pro
 01jamuslot.click
@@ -5414,6 +5414,7 @@ detikslot888.shop
 detikslot888.xyz
 detikslot888disana.sbs
 detikslot888disana.top
+detikslot888disini.sbs
 detikslot888disini.top
 detikslot889.com
 detiktoto-alt.site
@@ -5455,6 +5456,7 @@ dewataslot888asli.com
 dewataslot888baru.com
 dewataslot888disana.sbs
 dewataslot888disana.top
+dewataslot888disini.sbs
 dewataslot888disini.top
 dewataslot888kita.com
 dewataslot888pusat.com
@@ -5681,6 +5683,7 @@ dolartoto.xyz
 dolo-volvototo-situs.online
 domino365slot.com
 dompet777rtp22.cfd
+dompet777rtp23.cfd
 dompet777rtp24.cfd
 dompettogel.click
 dompettogell.online
@@ -6695,6 +6698,7 @@ gacor77wdx056.site
 gacor77wdx057.site
 gacor77wdx058.site
 gacor77wdx059.site
+gacor77wdx063.site
 gacor781.com
 gacor782.com
 gacor808.online
@@ -10793,6 +10797,7 @@ link12vegasslot77.xyz
 link178rtp.site
 link1vegasslot77.xyz
 link2vegasslot77.xyz
+link303maxwin.site
 link5vegasslot77.xyz
 link5warungtoto.xyz
 linkaltasiaslot777.xyz
@@ -11004,6 +11009,7 @@ logototowdx059.site
 logototowdx060.site
 logototowdx061.site
 logototowdx062.site
+logototowdx063.site
 logototowinko.site
 logototox189it.site
 logototox338it.site
@@ -12027,6 +12033,7 @@ maxwin138fxkk.site
 maxwin138fxkn.site
 maxwin138fxko.site
 maxwin138fxkz.site
+maxwin138fxnl.site
 maxwin138fxzep.site
 maxwin138fxzx.site
 maxwin138fzip.site
@@ -12219,6 +12226,7 @@ meetang168-slot.online
 mega118rtp.online
 mega388maxwin.site
 megaslot188.xyz
+megaslot288.icu
 megaslot288.xyz
 megaslot288fivx.site
 megaslot288zz.top
@@ -12365,6 +12373,7 @@ motoslot777.xyz
 mozarella.talamospizzas.com
 mpo111gacor.top
 mposlot1221.site
+mposlot303.site
 mposlot777.online
 mudahmaxwin138.xyz
 muliatoto457web.site
@@ -12546,6 +12555,7 @@ olxtoto255.click
 olxtoto255hot.lol
 olxtoto265hot.click
 olxtoto303.click
+olxtoto303.lol
 olxtoto303bet.lol
 olxtoto333.click
 olxtoto360.click
@@ -12600,6 +12610,10 @@ olympus878qc.site
 olympus878xt.site
 olympusdemo.picraftpizza.com
 olympusdoku188.xyz
+ombak126lwgacor.site
+ombak126lwmaxwin.site
+ombak126lwslot.site
+ombak126lwtoto.site
 omgslot888.vip
 omslot999.xyz
 omtogel001jpx.site
@@ -12744,6 +12758,10 @@ pajaktotoku559jp.site
 pajaktotoku560jp.site
 pajaktotoku561jp.site
 pajaktotowd311jp.site
+palace303lwgacor.site
+palace303lwmaxwin.site
+palace303lwslot.site
+palace303lwtoto.site
 palace303maxwin.site
 palace303qugacor.site
 panda88.pwwidayati.com
@@ -12836,6 +12854,7 @@ pgslotlucky634.site
 pgslotlucky920.site
 pgslotwin5501.site
 pgslotwin5502.site
+pirototocxdw1972.xyz
 pisang123rtp.xyz
 pisang777slot.vip
 plngacor678.online
@@ -12901,6 +12920,7 @@ polototo710.site
 polototo711.site
 polototo712.site
 polototo852.site
+popslot789.site
 portaltotolucky550.site
 portpoker303.online
 pos4dslot777.site
