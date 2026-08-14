@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 13 Aug 2026 19:05 UTC
-# Version: 2026.0813.1905.56
+# Last modified: 14 Aug 2026 02:04 UTC
+# Version: 2026.0814.0204.34
 # Syntax: Domains (without subdomains)
-# Number of entries: 14913
+# Number of entries: 14937
 #
 007slots.pro
 01jamuslot.click
@@ -7778,6 +7778,10 @@ hometogelwdx056.site
 hometogelwdx057.site
 hometogelwdx058.site
 hometogelwdx059.site
+hometogelwdx060.site
+hometogelwdx061.site
+hometogelwdx062.site
+hometogelwdx063.site
 hometoto.xyz
 homtogel.xyz
 honda777slot.net
@@ -8426,7 +8430,9 @@ indosattoto.click
 indosattotoslot.vip
 indoslot126.club
 indoslot138.store
+indoslot303.online
 indoslot303.pro
+indoslot303.site
 indoslot3030.com
 indoslot3031.com
 indoslot303apk.com
@@ -8470,6 +8476,7 @@ indoslot303ms.sbs
 indoslot303ms.site
 indoslot303ms.xyz
 indoslot303p.com
+indoslot303profit.vip
 indoslot303r.com
 indoslot303rp.com
 indoslot303slot.com
@@ -9283,6 +9290,8 @@ judolklx303.xyz
 judolmai303.xyz
 judolpor303.xyz
 judolprw303.xyz
+judolsto303.xyz
+judoltoc303.xyz
 jujuslot.online
 juleslot-amp.site
 juleslotapp.site
@@ -9380,6 +9389,7 @@ kakek305wdl.live
 kakek307ice.site
 kakek307jet.site
 kakek308ace.live
+kakek309hfm.site
 kakek338.net
 kakek338.org
 kakek4d.site
@@ -9876,6 +9886,7 @@ kids.infanttoddlerfoods.com
 kijang500-rtp6.site
 kiki123slot.com
 kikislot.xyz
+kikomaxwin333.site
 kilat128slot.com
 kilat131slot.com
 kilat368slot.com
@@ -10502,6 +10513,7 @@ kulta-jaska-slots.site
 kumaha.theupbeetlife.com
 kumisslot5.xyz
 kumontoto121jp.site
+kumontoto124jp.site
 kumontoto131jp.site
 kumontoto141jp.site
 kumontoto151jp.site
@@ -10996,6 +11008,9 @@ logototowdx056.site
 logototowdx057.site
 logototowdx058.site
 logototowdx059.site
+logototowdx060.site
+logototowdx061.site
+logototowdx062.site
 logototowinko.site
 logototox189it.site
 logototox338it.site
@@ -11169,6 +11184,7 @@ macauslot188soft.com
 macha-latte.thesingaporecafe.com
 madalatotoqvbl.site
 madetoto.click
+madu303himaxwin.site
 madu303maxwin.site
 madu303qugacor.site
 maeltotoslot8.xyz
@@ -11903,6 +11919,11 @@ mawartotowdx056.site
 mawartotowdx057.site
 mawartotowdx058.site
 mawartotowdx059.site
+mawartotowdx060.site
+mawartotowdx061.site
+mawartotowdx062.site
+mawartotowdx063.site
+mawartotowdx064.site
 mawartotowdx305.site
 mawartotowdx688.site
 mawartotowdx727.site
@@ -11973,6 +11994,7 @@ maxwin122xcuan.site
 maxwin123jnd.site
 maxwin125oin.site
 maxwin125xcuan.site
+maxwin127ksn.site
 maxwin127nwm.site
 maxwin128xcuan.site
 maxwin129ksn.site
@@ -11993,6 +12015,8 @@ maxwin138fixd.site
 maxwin138fixhe.site
 maxwin138fixjo.site
 maxwin138fixjr.site
+maxwin138fixjz.site
+maxwin138fixkc.site
 maxwin138fixnd.site
 maxwin138fixni.site
 maxwin138fixwd.site
