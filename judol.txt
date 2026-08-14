@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 14 Aug 2026 13:09 UTC
-# Version: 2026.0814.1309.58
+# Last modified: 14 Aug 2026 18:58 UTC
+# Version: 2026.0814.1858.10
 # Syntax: Domains (without subdomains)
-# Number of entries: 14970
+# Number of entries: 14999
 #
 007slots.pro
 01jamuslot.click
@@ -36,6 +36,7 @@
 1-berkawantotopro.site
 1-kkslot777.com
 1-xslots.online
+10001slot.net
 10001slot.xyz
 10001toto.club
 1000togel.org
@@ -44,9 +45,11 @@
 1001sloting.art
 1001togelbebek.vip
 1001togelsep.online
+1001winslot.net
 100cucislot.win
 100kslot.win
 100mtotovip.com
+100pasaranslot.com
 100plusslot.asia
 100togel.shop
 101totox.org
@@ -56,6 +59,7 @@
 10layaktoto.click
 1112slot.xyz
 111slot.bet
+1121otslot.com
 1121slot.click
 1121slot.club
 1121slot1.com
@@ -89,6 +93,7 @@
 1121slotfusion.shop
 1121slotfusionn.shop
 1121slotglobal.shop
+1121slothi.com
 1121slothoke.shop
 1121slotid.com
 1121slotidentity.shop
@@ -110,6 +115,7 @@
 1121slotofficials.lol
 1121slotorigin.shop
 1121slotpeakmax.shop
+1121slotq.com
 1121slotreal.lol
 1121slotreall.lol
 1121slotregis.lol
@@ -136,9 +142,13 @@
 1121slotverify.shop
 1121slotvision.shop
 1121slotvvpi.cyou
+1121slotxyz1.cyou
+1121slotxyz2.cyou
+1121slotyzz2.cyou
 1122slot.co
 1122slot.xyz
 1122slotgg.com
+1131ggslot.net
 1162xslot.org
 1166xslot.com
 1167xslot.com
@@ -154,6 +164,7 @@
 123apptoto.org
 123buzztoto.org
 123dragonslot.com
+123indoslot.com
 123mytoto.shop
 123okslot.net
 123slots.vip
@@ -202,6 +213,7 @@
 1688ruayslot1.com
 168congtogel.id
 168congtogel.top
+168ggslot.com
 168mahjong.com
 168ruayslot.com
 168slot.best
@@ -211,6 +223,7 @@
 168slot.onl
 168slot.pro
 168slot.run
+168slot.wine
 168slots.bet
 168slots.biz
 168slots.click
@@ -232,6 +245,7 @@
 171slots.vip
 171slotsagen.com
 171slotterbaik.com
+177winbetslot.com
 178togel.xyz
 180slot.vip
 180slot4.com
@@ -251,6 +265,7 @@
 188slot.xyz
 189slot.co
 189slot.com
+189slot.org
 18totoakunutama.xyz
 18totoalternatifterbaru.xyz
 18totoapkmobile.xyz
@@ -280,6 +295,7 @@
 18totowapindo.xyz
 18totowebmember.xyz
 18totozonautama.xyz
+1955slot.com
 19rtppiton786.pro
 1bandarslot.site
 1go-casino-slots-online2.top
@@ -287,6 +303,7 @@
 1go-casinoonline-slots2.top
 1gocasinoslots71.top
 1k2g3kaslotq.click
+1rtplebah55.online
 1slot.top
 1srtpk4w.cfd
 1win-casino-slots.xyz
@@ -14281,6 +14298,7 @@ toto13xgoal552.site
 toto13xgoal553.site
 toto155.online
 toto171.xyz
+toto188-bus.xyz
 toto188-oo.xyz
 toto189.online
 toto200.site
@@ -14420,6 +14438,10 @@ toto88wdx057.site
 toto88wdx058.site
 toto88wdx059.site
 toto88wdx060.site
+toto88wdx061.site
+toto88wdx062.site
+toto88wdx063.site
+toto88wdx064.site
 toto919.click
 toto919pos.lol
 toto987apt.site
@@ -14695,6 +14717,10 @@ watitotowdx056.site
 watitotowdx057.site
 watitotowdx058.site
 watitotowdx059.site
+watitotowdx060.site
+watitotowdx061.site
+watitotowdx062.site
+watitotowdx063.site
 waxing5rb.elegantspasalon.com
 wdtoto007pas.site
 we188-rtp.xyz
@@ -14706,6 +14732,7 @@ winbet757slot.xyz
 wings138situsgacor.xyz
 wings138slot.xyz
 winrtppayslot888.xyz
+winslot303.sbs
 winslot888.xyz
 winslotlucky550.site
 winslotlucky551.site
@@ -14804,6 +14831,7 @@ zeus128win5502.site
 zeus138.click
 zeus1380edf.cfd
 zeus1381bgg.site
+zeus1381hj.sbs
 zeus1381mn.sbs
 zeus1381vb.site
 zeus1382wed.site
@@ -14921,6 +14949,7 @@ zeus138wl.site
 zeus138wm.site
 zeus138wme.site
 zeus138wmq.site
+zeus138wmt.site
 zeus138wmw.site
 zeus138wn.site
 zeus138wo.site
