@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 14 Aug 2026 02:04 UTC
-# Version: 2026.0814.0204.34
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 14 Aug 2026 04:53 UTC
+# Version: 2026.0814.0453.10
 # Syntax: Domains (without subdomains)
-# Number of entries: 14937
+# Number of entries: 14927
 #
 007slots.pro
 01jamuslot.click
@@ -171,7 +171,6 @@
 138alienslot.com
 138rtpraja.xyz
 138slot.bio
-138slot.life
 138slot.net
 138sltgacor.xyz
 138vegas-gacor.com
@@ -947,7 +946,6 @@
 777casinoslotmachines.click
 777freshslots.com
 777goldslot.co
-777luckyslot.bet
 777luckyslot.us
 777luckyslots.com
 777maxwin.info
@@ -1361,7 +1359,6 @@ abahtogel.site
 abangnuhunslot.click
 abaslot.online
 abastoto.click
-abbyilesartportfolio2025-2026.com
 abc1311slot.com
 abc888slot.info
 abcslot.top
@@ -2416,8 +2413,6 @@ apigacor88rox.site
 apigacor88tiv.site
 apigacor88vex.site
 apigacor88waf.site
-apigacor88xfikjp.site
-apigacor88xfkjp.site
 apigacor88zax.site
 apigacor88zoy.site
 apigacor899smb.site
@@ -9032,8 +9027,6 @@ jonitogelon81jt.site
 jonitogelontk.site
 jonitogelresto1.site
 jonitogelx2x.site
-jonitogelxfikjp.site
-jonitogelxfkjp.site
 jonitoto.xyz
 jonitoto123jp.site
 jonitoto123pg.site
@@ -12009,7 +12002,6 @@ maxwin138.ac.mw
 maxwin138.top
 maxwin138fikjo.site
 maxwin138fikke.site
-maxwin138fiksjp.site
 maxwin138fix.site
 maxwin138fixd.site
 maxwin138fixhe.site
@@ -12038,7 +12030,6 @@ maxwin138fxkz.site
 maxwin138fxzep.site
 maxwin138fxzx.site
 maxwin138fzip.site
-maxwin138xfikjp.site
 maxwin139.online
 maxwin139iuy.site
 maxwin141sxz.site
@@ -12134,7 +12125,6 @@ maxwin88team.lol
 maxwin88team.online
 maxwin88team.site
 maxwin88team.top
-maxwin88team.xyz
 maxwin930xhoki.site
 maxwin941xhoki.site
 maxwin950xhoki.site
