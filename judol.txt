@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 14 Aug 2026 07:27 UTC
-# Version: 2026.0814.0727.43
+# Last modified: 14 Aug 2026 13:09 UTC
+# Version: 2026.0814.1309.58
 # Syntax: Domains (without subdomains)
-# Number of entries: 14947
+# Number of entries: 14970
 #
 007slots.pro
 01jamuslot.click
@@ -13001,6 +13001,7 @@ pragmatic188oli.site
 pragmatic189.top
 pragmatic189.xyz
 pragmatic888.click
+pragmaticbigbassbonanza1000.click
 pragmaticbigbassbonanza1000.lol
 pragmatick1380.site
 pragmatick1381.site
@@ -13195,6 +13196,7 @@ royaltoto345jpx.site
 royaltoto346jpx.site
 royaltoto347jpx.site
 royaltotoslot777.site
+rrtp-fungame777.sbs
 rrtp168-jackpot.top
 rtp-epicwin138.vip
 rtp-epicwin138.xyz
@@ -13209,6 +13211,7 @@ rtp-maxwin138.vip
 rtp-maxwin138.xyz
 rtp-newraja328.online
 rtp-newraja328.xyz
+rtp-roda777.xyz
 rtp-slot.cuddlememontessorischool.com
 rtp-slot.eddievarelaformayor.com
 rtp-slot.rtpedia.com
@@ -13288,6 +13291,7 @@ rtpjp757.click
 rtpjuara123.xyz
 rtpjuragan5000.xyz
 rtpkkslot-777.top
+rtpkompas404.xyz
 rtplapas500gacor.site
 rtpleci123a.xyz
 rtplexus234.lol
@@ -13296,6 +13300,7 @@ rtplivejon138.online
 rtpluckygaming138.xyz
 rtpluxury345.site
 rtpmaxwinrajahoki168.xyz
+rtpmekar789.xyz
 rtpnaga169.site
 rtpnaga188jagung.xyz
 rtpnaga188labu.xyz
@@ -13309,6 +13314,7 @@ rtpompong188mt.online
 rtposg888.site
 rtposg888a.xyz
 rtpp-tumi123.xyz
+rtpp123us.click
 rtppanen123hoki.lol
 rtppanen678.xyz
 rtpparis123apel.xyz
@@ -13395,6 +13401,10 @@ rupiahtotowdx056.site
 rupiahtotowdx057.site
 rupiahtotowdx058.site
 rupiahtotowdx059.site
+rupiahtotowdx060.site
+rupiahtotowdx061.site
+rupiahtotowdx062.site
+rupiahtotowdx063.site
 s788-slot.xyz
 sa168vip-slot.online
 sakti777rtp.site
@@ -13439,6 +13449,7 @@ scatter333gun.site
 scatter333gwo.site
 scatter333itu.site
 scatter333iyh.site
+scatter333ku.bond
 scatter333lee.site
 scatter333max.online
 scatter333max.site
@@ -13595,6 +13606,7 @@ slot123.click
 slot123.xyz
 slot1234.site
 slot138.click
+slot1381.site
 slot138terpercaya.xyz
 slot161.xyz
 slot1688.cfd
@@ -13695,8 +13707,10 @@ slot777x.xyz
 slot777xgoal55.site
 slot777xgoal552.site
 slot777xgoal553.site
+slot789.click
 slot798-alt.site
 slot798-apk.site
+slot808.site
 slot838.xyz
 slot88.guru
 slot8800.online
@@ -13833,12 +13847,20 @@ slothoki123.site
 slothoki128.xyz
 slothoki369.site
 slothoki818.site
+slothoku089.xyz
 slothoku168llm.site
+slothoku193.xyz
 slothoku212.site
 slothoku238.xyz
+slothoku268.xyz
+slothoku329.xyz
 slothoku366lab.site
 slothoku376.xyz
+slothoku455.xyz
+slothoku507.xyz
+slothoku621.xyz
 slothoku730.xyz
+slothoku842.xyz
 slothoku914.xyz
 slothokux7788jp.site
 slotify808kuat.xyz
@@ -14003,6 +14025,7 @@ sungaitoto761zrk.site
 suntikrtpba303nk.online
 suntogel9364.site
 super-slotscasino111.xyz
+supergacor678.online
 superligatoto900.online
 supertoto728.top
 supertoto929.top
