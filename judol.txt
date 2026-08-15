@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 14 Aug 2026 18:58 UTC
-# Version: 2026.0814.1858.10
+# Last modified: 15 Aug 2026 01:18 UTC
+# Version: 2026.0815.0118.51
 # Syntax: Domains (without subdomains)
-# Number of entries: 14999
+# Number of entries: 15045
 #
 007slots.pro
 01jamuslot.click
@@ -556,6 +556,7 @@
 2000braslots.com
 2025rtpseto.com
 2026winslots.com
+2066slot.bet
 206supertotobet.co
 20rtppiton786.pro
 20toto.click
@@ -572,6 +573,7 @@
 234togelarc.com
 234togelkane.com
 234togelup.com
+235-toto.com
 235slot.asia
 235slot.vip
 240-rodeoslot.com
@@ -582,6 +584,7 @@
 249supertotobel.com
 249supertotobet.icu
 249supertotobet.top
+24jamrtp.site
 24jamslotprime.xyz
 24jamzonaplustoto4d.cfd
 24zeus007.com
@@ -608,6 +611,7 @@
 2mtotoportal.xyz
 2mtotozone.lol
 302togel.com
+303hokislot.com
 303pediagacorr.live
 303slot.online
 30jilislot.click
@@ -624,10 +628,14 @@
 338slot.click
 338slot.onl
 338slot2.site
+338slotlink.com
+338slotlogin.net
+3446slotapk.com
 3446slotsq.com
 34togel.cfd
 350supertotobet.com
 356slot.xyz
+358slot.app
 360magneticsmartphoneholderhandsfreeconvenience.store
 365-slotv.online
 365cucislot.club
@@ -640,6 +648,7 @@
 365rajapgslot.org
 365rajapgslot.store
 365rajapgslot.xyz
+365rajaslot.com
 365slot.bio
 365slot.click
 365slot.store
@@ -658,6 +667,7 @@
 369superslott.net
 369zkslot.com
 36rtpbenteng786.pro
+3713slot.app
 3713slot.bet
 380slot.vip
 380slot7.com
@@ -686,6 +696,7 @@
 399slots.app
 399slots.bet
 3asbslot88.xyz
+3mbolartpnoh.xyz
 3milyartoto.xyz
 3tokototo.xyz
 3winslot.click
@@ -702,6 +713,8 @@
 438slot.app
 444slot.net
 456slot.xyz
+456wincomslot.com
+456winslot.info
 45totoqbrk.site
 47fmaxwin.site
 4d-gaptogel.xyz
@@ -761,6 +774,7 @@
 555togel.org
 557slotbr.com
 55rtpilih.site
+55rtpola.site
 55rtpulih.site
 567-slots-download.org
 567-slotsin.com
@@ -786,6 +800,7 @@
 589slots.biz
 589slots.click
 59593200720rtpoergmlw909.top
+5977slot.app
 5gtoto.vip
 5menitmaxwin.xyz
 5rtp-edwinslot.xyz
@@ -793,6 +808,7 @@
 6128slot.com
 618slot.biz
 618slot.click
+618slot.ws
 618slotagen.com
 618slotapk.net
 618slote.com
@@ -870,6 +886,7 @@
 67totox.site
 681slot.biz
 681slot.click
+681slot.ws
 687slots.net
 688slot.biz
 688slot.click
@@ -886,6 +903,7 @@
 68slotozlo.site
 696slot.bet
 696slot.biz
+696slot.org
 696slots.best
 696slots.biz
 696slots.click
@@ -896,10 +914,13 @@
 699slot.bet
 699slot.biz
 699slot.org
+699slot.ws
 699slots.app
 699slots.bet
 699slots.biz
 699slots.vip
+699slots.ws
+6rtpwifi.click
 709zeusm.com
 70pinasscatter.xyz
 711slotmy.com
@@ -936,11 +957,13 @@
 738slotsc.com
 738slotsl.com
 738slotsp.com
+738slotsq.com
 738slotss.com
 738slotsv.com
 738slotsy.com
 738slotterbaik.com
 738slotz.com
+739slot.app
 739slot.bet
 739slot.org
 739slots.app
@@ -969,6 +992,7 @@
 777rtslot.com
 777slot-777slot.com
 777slot-bangla.com
+777slot-bangla.net
 777slot-bonus.com
 777slot-khelo.com
 777slot-pro.com
@@ -997,6 +1021,7 @@
 777slotbigwin.net
 777slotcuan55a.site
 777slotcuan55c.site
+777slote.org
 777slothj13.site
 777slothoki99.site
 777slothoki991dh.live
@@ -1062,6 +1087,7 @@
 789slot.link
 789slot.run
 789slot.world
+789slot.ws
 789slots.bid
 789slots.biz
 789slots.click
@@ -1073,6 +1099,7 @@
 798slot.xyz
 799slot.biz
 799slot.click
+799slots.app
 799slots.bet
 7keyslot-ksa.site
 7keyslot-ktj.site
@@ -1085,7 +1112,9 @@
 7kslot-yaj.site
 7lslot-jsn.site
 7maxwin.vip
+7rtpwifi.click
 7slot.lol
+7slot.online
 7slot90916.top
 7slots-tr.top
 7slots-turkish.click
@@ -1103,6 +1132,7 @@
 8180slot.com
 818slot.bet
 818slot.biz
+818slot.club
 818slots.bet
 818slots.biz
 818slots.click
@@ -1110,6 +1140,7 @@
 8218slot.xyz
 8278slot.com
 8278slotsr.com
+828betslot.com
 8368slot.vip
 8368slot3.com
 8368slot8.com
@@ -1125,6 +1156,7 @@
 8368slotr.com
 8368slotterbaik.com
 838slot.xyz
+838winslot.com
 854slotbar.com
 859slot.net
 8728slots.vip
@@ -1140,6 +1172,7 @@
 8728slotsr.com
 8728slotsterbaik.com
 8728slotsv.com
+8728slotsw.com
 8728slotsz.com
 888-slot1.online
 888-slots1.fun
@@ -1159,11 +1192,15 @@
 8888slots.biz
 8888slots.click
 8888slots.win
+8888togel.net
+888dewaslot.org
 888mahjonggamess.club
 888roxoslots.site
 888slot-baji.com
 888slot-bangla.com
 888slot-jit.com
+888slot-khelo.com
+888slot-vip.com
 888slot.cash
 888slot.click
 888slot.fyi
@@ -1189,6 +1226,7 @@
 888slotcon.pro
 888slotcuan55a.site
 888slotcuan55c.site
+888slotdewa.com
 888slotgame.app
 888slotgame.pro
 888slotgame.win
@@ -1259,6 +1297,7 @@
 8slotonline8888.club
 9080slot.app
 9080slot.bet
+9080slot.ws
 90jili-slot-1314.shop
 90jili-slot-520.shop
 90jili-slot-555.shop
@@ -1275,12 +1314,14 @@
 9399slot1.com
 9399slot6.com
 9399slotapk.com
+9399slotapp.com
 9399slotd.com
 9399slote.com
 9399slotl.com
 9399slotsq.com
 952supertotobet.com
 987slot.bet
+987slots.app
 987slots.bet
 988saftarslot.xyz
 988slot.xyz
@@ -1362,6 +1403,7 @@
 9slot.click
 9vslots.vip
 a200mslot.bet
+a200mslot.info
 a2gacor.online
 a99betslot.online
 aaaslot-a.xyz
@@ -1444,6 +1486,7 @@ abutogel7vbg.site
 abutogel808jpx.site
 abutogel88cola.site
 abutogel8bh.cfd
+abutogel8gf.site
 abutogel8hg.site
 abutogel8jm.sbs
 abutogel8ju.sbs
@@ -1493,10 +1536,12 @@ acerslot.site
 aceslot.xyz
 acetoto888.mobi
 achang1688-slot.com
+acongtogelk.lol
 actionslot.cfd
 acurtp.site
 acutogelamp.xyz
 ada777slot.club
+adam123slot.com
 adam789slotx.com
 adamtoto.xyz
 adamtotoh169xit.site
@@ -1508,6 +1553,7 @@ adernalieslot.xyz
 adil777slot.com
 adipatislot.click
 admiralslot-wyj.site
+admtogelk.lol
 ae888slots.com
 aeartproject.xyz
 afatogel.xyz
