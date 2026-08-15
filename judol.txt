@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 15 Aug 2026 01:18 UTC
-# Version: 2026.0815.0118.51
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 15 Aug 2026 03:44 UTC
+# Version: 2026.0815.0344.14
 # Syntax: Domains (without subdomains)
-# Number of entries: 15045
+# Number of entries: 15040
 #
 007slots.pro
 01jamuslot.click
@@ -7410,7 +7410,6 @@ gpuslots.xyz
 gqqrtpu.top
 grabmahjong.xyz
 grand999slot.click
-grandpashabt-ampslot.vip
 grandslot-bfj.site
 grandslot-btj.site
 grandslot-dlj.site
@@ -7819,7 +7818,6 @@ hoktoto2xit.site
 holaslot.lol
 holdyourrevslots.click
 holiday789slot.com
-holiganbet-ampslot.vip
 hollandslotwin.click
 homecourtproject.online
 hometogel.click
@@ -10376,7 +10374,6 @@ kometaslot-osj.site
 kometaslot-tgh.site
 kometaslot-vaj.site
 komettoto188.site
-komfortprojekt.site
 komodo138slot.com
 komodo365slot.com
 komodo69gacor.xyz
@@ -12190,7 +12187,6 @@ maxwin888.mobi
 maxwin888.online
 maxwin88spesial.xyz
 maxwin88team.click
-maxwin88team.icu
 maxwin88team.lol
 maxwin88team.online
 maxwin88team.site
@@ -13392,7 +13388,6 @@ rtppolahaloy500.site
 rtpprimbon178.xyz
 rtpprofit168.xyz
 rtpptumi123.click
-rtpqjz787.vip
 rtpqq1221.xyz
 rtpraffi777jpsl.lol
 rtprajajp188jitu.xyz
