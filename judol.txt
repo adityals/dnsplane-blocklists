@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 15 Aug 2026 06:40 UTC
-# Version: 2026.0815.0640.28
+# Last modified: 15 Aug 2026 12:40 UTC
+# Version: 2026.0815.1240.51
 # Syntax: Domains (without subdomains)
-# Number of entries: 15058
+# Number of entries: 15097
 #
 007slots.pro
 01jamuslot.click
@@ -144,7 +144,9 @@
 1121slotvvpi.cyou
 1121slotxyz1.cyou
 1121slotxyz2.cyou
+1121slotyzz1.cyou
 1121slotyzz2.cyou
+1121slotyzz3.cyou
 1122slot.co
 1122slot.xyz
 1122slotgg.com
@@ -712,6 +714,7 @@
 426toto.org
 432slot.online
 438slot.app
+438slot.ws
 444slot.net
 456slot.xyz
 456wincomslot.com
@@ -812,6 +815,7 @@
 618slot.ws
 618slotagen.com
 618slotapk.net
+618slotapp.com
 618slote.com
 618slots.bet
 618slots.biz
@@ -935,6 +939,7 @@
 7276slots6.com
 7276slots7.com
 7276slotsa.com
+7276slotsapk.com
 7276slotsb.com
 7276slotsc.com
 7276slotsr.com
@@ -972,6 +977,7 @@
 739slots.biz
 739slots.click
 739slots.pro
+739slots.win
 73togel.vip
 74pinasscatter.xyz
 76pinasscatter.xyz
@@ -1419,11 +1425,14 @@ abahtogel.site
 abangnuhunslot.click
 abaslot.online
 abastoto.click
+abatotok.lol
 abc1311slot.com
 abc888slot.info
 abcslot.top
 abctoto.sbs
 abdi126slot.club
+abitogelk.lol
+abitotok.lol
 abkslot.click
 abortp480-group.site
 abu-togel.vip
@@ -1483,6 +1492,7 @@ abutogel63jp.site
 abutogel736jpx.site
 abutogel77a.site
 abutogel77lol.site
+abutogel7nh.sbs
 abutogel7vbg.site
 abutogel808jpx.site
 abutogel88cola.site
@@ -1552,6 +1562,7 @@ adatogelregisterus.xyz
 adatoto.online
 adernalieslot.xyz
 adil777slot.com
+adindoslot303.com
 adipatislot.click
 admiralslot-wyj.site
 admtogelk.lol
@@ -1599,10 +1610,12 @@ agengacorslot168.xyz
 agenjamuslot.site
 agenjamuslot.xyz
 agenliga777slot.com
+agenmahjongkakak.xyz
 agenmaxwin.online
 agenpokaslot.xyz
 agenslot128.me
 agenslot138.co
+agenslot138.io
 agenslot1389.com
 agenslot138apk.com
 agenslot138b.com
@@ -1639,6 +1652,7 @@ agentogel2022.net
 agentogel4d.xyz
 agentogelonline.xyz
 agentogelresmi.xyz
+agentoto69.vip
 agentoto88.click
 agentoto888.co
 agentoto888.com
@@ -1698,9 +1712,11 @@ ajototo1xit.site
 ajototobisa.online
 ajototobuhy.site
 ajototocair.site
+ajototohgfd.site
 ajototohoki.xyz
 ajototohost.site
 ajototohqwe.site
+ajototolkjh.site
 ajototolrwy.site
 ajototoxpql.site
 ajrgacor88.xyz
@@ -1713,11 +1729,13 @@ ak4dtoto26.site
 ak999slot.app
 ak999slot.bet
 ak999slot.net
+ak999slot.org
 ak999slotsapk.com
 akaislot.top
 akaislotcc.xyz
 akarslot777a.com
 akarslotxgoal55.site
+akartogelk.lol
 akartoto-tunas.online
 akartoto.click
 akartotodp.online
@@ -1730,6 +1748,7 @@ akbtoto238.xyz
 akiratoto.vip
 aks1300slot.club
 aks3004slot.club
+aksaratogelk.lol
 aksaratoto.top
 akses-tamanslot77.site
 akses234gacor1.xyz
@@ -1753,12 +1772,16 @@ akungacor102.shop
 akungacorpalu4d.xyz
 akunmediaslot88.vip
 akuntoto168.tech
+akurat-gacor.top
 akurat168slot.net
 akurat77gacor.lol
+akuratslot.site
 akyurtotomotiv.xyz
 alabamartprofitsystems.online
 aladdinslot.vip
 aladin999slot.com
+alamtogelk.lol
+alamtotok.lol
 alaskatoto.click
 alaskatoto.site
 albaslot-rtp2.xyz
@@ -1770,6 +1793,7 @@ albaslotamp.site
 albaslotcgk.site
 albaslotxlp.site
 albaslotxwqb.site
+albaslotyuk.site
 albertpike333.com
 albertprompt.xyz
 aleksistogel.click
@@ -1779,10 +1803,13 @@ alexaslot138.one
 alexaslot138.quest
 alexaslot138.website
 alexaslot138a.com
+alexaslot138gup.live
 alexaslot138key.com
+alexaslot138mkr.live
 alexaslot138slot.com
 alexaslot138zip.site
 alexaslot188.com
+alexaslot847xvn.live
 alexis777slot.net
 alexis777slot.org
 alexisslot.click
@@ -1854,6 +1881,7 @@ alexistogel5fe.cfd
 alexistogel5hg.sbs
 alexistogel5ol.sbs
 alexistogel5op.cfd
+alexistogel5op.site
 alexistogel5sd.sbs
 alexistogel5vc.sbs
 alexistogel5vcd.cfd
@@ -1869,6 +1897,7 @@ alexistogel66ont.site
 alexistogel67ont.site
 alexistogel68ont.site
 alexistogel69ont.site
+alexistogel6vg.cfd
 alexistogel707jpx.site
 alexistogel70ont.site
 alexistogel71ont.site
@@ -1998,6 +2027,7 @@ alexistoto247.cfd
 alexistoto248.live
 alexistoto268.live
 alexistoto270.live
+alexistoto272.live
 alexistoto274.live
 alexistoto277.live
 alexistoto281.live
@@ -2021,11 +2051,13 @@ alexistoto344.live
 alexistoto345.live
 alexistoto350.live
 alexistoto352.live
+alexistoto356.live
 alexistoto357.live
 alexistoto358.live
 alexistoto369.click
 alexistoto369hot.shop
 alexistoto379.live
+alexistoto383.live
 alexistoto386.live
 alexistoto388.live
 alexistoto394.live
@@ -2033,15 +2065,20 @@ alexistoto413.live
 alexistoto415.live
 alexistoto41ont.site
 alexistoto427.live
+alexistoto433.live
 alexistoto448.live
 alexistoto449.live
 alexistoto456.live
+alexistoto459.live
 alexistoto465.live
 alexistoto46ont.site
 alexistoto478.live
 alexistoto47ont.site
 alexistoto482.live
 alexistoto48ont.site
+alexistoto496.live
+alexistoto497.live
+alexistoto498.live
 alexistoto49ont.site
 alexistoto49vk.online
 alexistoto501.live
@@ -14892,11 +14929,13 @@ zeus1380edf.cfd
 zeus1381bgg.site
 zeus1381hj.sbs
 zeus1381mn.sbs
+zeus1381oo.site
 zeus1381vb.site
 zeus1382wed.site
 zeus1383edf.site
 zeus1384kj.sbs
 zeus1384se.sbs
+zeus1384vb.site
 zeus1385vfs.site
 zeus1386dv.cfd
 zeus1387dcv.cfd
