@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 15 Aug 2026 03:44 UTC
-# Version: 2026.0815.0344.14
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 15 Aug 2026 06:40 UTC
+# Version: 2026.0815.0640.28
 # Syntax: Domains (without subdomains)
-# Number of entries: 15040
+# Number of entries: 15058
 #
 007slots.pro
 01jamuslot.click
@@ -367,6 +367,7 @@
 1xslots-581.top
 1xslots-690.top
 1xslots-6bz.top
+1xslots-727.top
 1xslots-742.top
 1xslots-746.top
 1xslots-765.top
@@ -2274,6 +2275,7 @@ altogelwdx056.site
 altogelwdx057.site
 altogelwdx058.site
 altogelwdx059.site
+altogelwdx064.site
 amanahtoto328.online
 amanahtoto328.xyz
 amandatoto.top
@@ -5923,6 +5925,7 @@ dutaslot.xyz
 dver789-slot.com
 dwg288higacor.site
 dwg288himaxwin.site
+dwg288hislot.site
 dwg288maxwin.site
 dwg288qugacor.site
 dwitogel.click
@@ -6762,6 +6765,7 @@ gacor77wdx057.site
 gacor77wdx058.site
 gacor77wdx059.site
 gacor77wdx063.site
+gacor77wdx064.site
 gacor781.com
 gacor782.com
 gacor808.online
@@ -7842,6 +7846,7 @@ hometogelwdx060.site
 hometogelwdx061.site
 hometogelwdx062.site
 hometogelwdx063.site
+hometogelwdx064.site
 hometoto.xyz
 homtogel.xyz
 honda777slot.net
@@ -8536,6 +8541,7 @@ indoslot303ms.sbs
 indoslot303ms.site
 indoslot303ms.xyz
 indoslot303p.com
+indoslot303profit.site
 indoslot303profit.vip
 indoslot303r.com
 indoslot303rp.com
@@ -9447,6 +9453,7 @@ kakek305wdl.live
 kakek307ice.site
 kakek307jet.site
 kakek308ace.live
+kakek308xrv.site
 kakek309hfm.site
 kakek338.net
 kakek338.org
@@ -11070,6 +11077,7 @@ logototowdx060.site
 logototowdx061.site
 logototowdx062.site
 logototowdx063.site
+logototowdx064.site
 logototowinko.site
 logototox189it.site
 logototox338it.site
@@ -11243,7 +11251,9 @@ macauslot188soft.com
 macha-latte.thesingaporecafe.com
 madalatotoqvbl.site
 madetoto.click
+madu303higacor.site
 madu303himaxwin.site
+madu303hislot.site
 madu303maxwin.site
 madu303qugacor.site
 maeltotoslot8.xyz
@@ -12078,6 +12088,7 @@ maxwin138fixkc.site
 maxwin138fixnd.site
 maxwin138fixni.site
 maxwin138fixwd.site
+maxwin138fixwiz.site
 maxwin138fixze.site
 maxwin138fkjo.site
 maxwin138fkzp.site
@@ -13463,6 +13474,7 @@ rupiahtotowdx060.site
 rupiahtotowdx061.site
 rupiahtotowdx062.site
 rupiahtotowdx063.site
+rupiahtotowdx064.site
 s788-slot.xyz
 sa168vip-slot.online
 sakti777rtp.site
@@ -13746,6 +13758,7 @@ slot777lucky559.site
 slot777mvp.click
 slot777new.vip
 slot777now.click
+slot777pp.site
 slot777s.cfd
 slot777s.click
 slot777s.lol
@@ -13874,6 +13887,7 @@ slotdemoakun.exoticwheelsindia.com
 slotdepo10k.choosemollybarr.com
 slotdh99131.site
 slotgacolucky550.site
+slotgacor123asw.site
 slotgacor138.top
 slotgacor2024bbd.xyz
 slotgacor2024markas.xyz
@@ -13886,6 +13900,7 @@ slotgama401.site
 slotgama501.site
 slotgame6666s.click
 slotgame666d.click
+slotgamescuan177.site
 slotgamescuan550.site
 slotgameslucky550.site
 slotgameslucky551.site
@@ -13909,6 +13924,7 @@ slothoku089.xyz
 slothoku168llm.site
 slothoku193.xyz
 slothoku212.site
+slothoku228.click
 slothoku238.xyz
 slothoku268.xyz
 slothoku329.xyz
@@ -14308,6 +14324,7 @@ toto123new.lol
 toto125hoki.site
 toto127jpmax.site
 toto129bit.site
+toto129mkr.site
 toto12jepe036.site
 toto12jepe037.site
 toto12jepe038.site
@@ -14762,6 +14779,7 @@ watitotowdx060.site
 watitotowdx061.site
 watitotowdx062.site
 watitotowdx063.site
+watitotowdx064.site
 waxing5rb.elegantspasalon.com
 wdtoto007pas.site
 we188-rtp.xyz
