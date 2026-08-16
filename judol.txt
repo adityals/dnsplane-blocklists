@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 16 Aug 2026 03:52 UTC
-# Version: 2026.0816.0352.15
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 16 Aug 2026 06:42 UTC
+# Version: 2026.0816.0642.57
 # Syntax: Domains (without subdomains)
-# Number of entries: 15208
+# Number of entries: 15223
 #
 007slots.pro
 01jamuslot.click
@@ -3911,6 +3911,7 @@ bobatoto12d.vip
 bobatoto12iic.site
 bobatoto12ont.site
 bobatoto130jta.site
+bobatoto131bmv.site
 bobatoto138.com
 bobatoto13jp.site
 bobatoto13ont.site
@@ -7732,6 +7733,7 @@ hapsa-slots.online
 hargatoto11x.site
 hargatoto156.xyz
 hargatoto234.site
+hargatoto296xit.site
 hargatoto549.online
 hargatoto753.online
 hargatoto88-1.site
@@ -8297,6 +8299,7 @@ idamantotostrong15.online
 idamantototq.site
 idcashtoto-update.xyz
 idcashtotoo.xyz
+idcoin188rtp.xyz
 ide777slot.org
 ideslot.click
 ideslot.online
@@ -8799,6 +8802,7 @@ jabarslot.site
 jabartoto.click
 jabartoto.top
 jabartoto1xit.site
+jabartoto7772win.site
 jabartotowdx180.cyou
 jablay123gacor.xyz
 jackpot168-rrtp.top
@@ -9107,10 +9111,12 @@ jnetoto158xjp.site
 jnetoto166xjp.site
 jnetoto281jpx.site
 jnetoto283jpx.site
+jnetoto296xit.site
 jnetoto304jjk.live
 jnetoto309jpx.site
 jnetoto313jpx.site
 jnetoto321xjp.site
+jnetoto368xit.site
 jnetoto369jpx.site
 jnetoto499jpx.site
 jnetoto508jpx.site
@@ -9596,6 +9602,7 @@ kakek3038wdd.site
 kakek3039q2zr.site
 kakek303dnwe.site
 kakek303gpx.live
+kakek303qvr.site
 kakek303sun.site
 kakek303tosn.site
 kakek303vikh.site
@@ -10972,6 +10979,7 @@ lgogacorgod.top
 lgogacormommy.top
 lgtoto.click
 liatogel.xyz
+liatrtpcemara123.online
 libasslot.lol
 libertyarmstn.net
 ligaasia146slot.com
@@ -11000,6 +11008,7 @@ linitoto0se.sbs
 link-alternatif-lxtoto.xyz
 link-alternatif-s8toto.xyz
 link-alternatif-sqtoto.xyz
+link-baru-rtpgebyar123.site
 link-mauslot88.xyz
 link-rtp-gebyar123.club
 link-rtp-gebyar123.store
@@ -11013,6 +11022,8 @@ link12vegasslot77.xyz
 link178rtp.site
 link1vegasslot77.xyz
 link2vegasslot77.xyz
+link303gacormenang.site
+link303gacorwin.site
 link303maxwin.site
 link5vegasslot77.xyz
 link5warungtoto.xyz
@@ -11091,6 +11102,9 @@ linkslot777viettimur.org
 linkslot777vietutara.org
 linkslot777world.org
 linkslotbolatangkas.xyz
+linkslotcuan589.site
+linkslotcuan590.site
+linkslotcuan741.site
 linkslotdewatangkas.xyz
 linkslotlucky550.site
 linkslotlucky551.site
@@ -11872,6 +11886,7 @@ mapan777slot.com
 mappmajenang.com
 marettoto88jp.site
 mariatogel.click
+mariatogel189xit.site
 mariatogel88.xyz
 mariatogel888.club
 mariototo.click
