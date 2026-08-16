@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 15 Aug 2026 18:33 UTC
-# Version: 2026.0815.1833.30
+# Last modified: 16 Aug 2026 01:24 UTC
+# Version: 2026.0816.0124.26
 # Syntax: Domains (without subdomains)
-# Number of entries: 15158
+# Number of entries: 15212
 #
 007slots.pro
 01jamuslot.click
@@ -3226,6 +3226,7 @@ bape-togel88.site
 bape-togel99.site
 bapetogel.click
 bapetogel.online
+barattogelk.lol
 barayatogel.xyz
 barayatogel88.xyz
 barbar365slot.com
@@ -3246,19 +3247,23 @@ barcatoto969.xyz
 barcelona-slots.online
 barcelona88slot.xyz
 barcodetotocomfy.site
+barcodetotopuzzle.site
 barcodetotowinner.site
 barito138slot.com
 barito88gacorapp.xyz
 bartogel.click
 bartogel.top
+bartoto.site
 barupunyatoto.xyz
 basah189rtpgacor.xyz
 basah198slot.org
 basecartpay.xyz
 basemartpay.xyz
 basket168slot.art
+basket188slot.com
 baslot168.app
 bassbetslots.online
+bata123slot.info
 batamtoto.click
 batangtoto.click
 batara303slot.com
@@ -3269,11 +3274,15 @@ batikentotocekici.xyz
 batikslot.click
 batikslot188.net
 batikslot999.org
+batmangamegacor888.com
 batmantoto2bf.sbs
 batmantoto2kdnoshit.site
 batmantoto3ng.site
+batmantoto3srd.cfd
 batmantoto5kj.site
+batmantoto5km.cfd
 batmantoto5vbf.sbs
+batmantoto5xx.cfd
 batmantoto6cd.site
 batmantoto77lol.site
 batmantoto7frd.cfd
@@ -3281,7 +3290,9 @@ batmantoto806jp.site
 batmantoto807jp.site
 batmantoto88cola.site
 batmantoto99xoxo.site
+batmantotoad.site
 batmantotoanps.site
+batmantotoaw.site
 batmantotoblack1.site
 batmantotoboost.site
 batmantotocapts1.site
@@ -3295,9 +3306,13 @@ batmantotofreshmilk.site
 batmantotoggls.site
 batmantotojams.site
 batmantotojk5.cfd
+batmantotomn.site
 batmantotomxql.site
 batmantotonyaw.site
 batmantotosangatgacor808.com
+batmantotospray.site
+batmantotostudent.site
+batmantotoys.site
 batumslot1741.com
 batumslotaktif.vip
 batuslot.online
@@ -3357,14 +3372,18 @@ bbtoto.xyz
 bbtotopunya.online
 bbtotopunya.site
 bbtotopunya.xyz
+bcatotok.lol
 bcl138slot.com
 bcltoto.click
+bd777slots.pro
 bdgacor138.net
 bdgacor138.org
 bdgacor168.org
 bdgslotdins.site
 bdslot.click
+bdslot188.org
 bdslot288.net
+bdslot303.org
 bdslot88.xyz
 bdslot888.co
 bdslot88bad.vip
@@ -3403,6 +3422,7 @@ bebtoto470.com
 bebtoto480.com
 bebtoto60.xyz
 bebtoto75.click
+bejo168slot.com
 bejo88slot.vip
 bejototo-888.id
 bejototo-situstogeldan-slotgacor.online
@@ -3421,6 +3441,8 @@ belawantotolink.site
 belawantotologin.xyz
 beli777slot.com
 belslots.site
+beltogelk.lol
+beltotok.lol
 benda777slot.com
 bengbengtoto.click
 bengkeltoto.online
@@ -3445,8 +3467,11 @@ benihtoto390.site
 benihtoto391.site
 benihtoto392.site
 benihtoto393.site
+benihtotofbaja.site
+benihtotofeaja.site
 bentengtogelbkqm.site
 bentengtoto.top
+bentengtotok.lol
 bento138slot.org
 bento88slotampku.online
 bentototo.click
@@ -3471,6 +3496,7 @@ beritamahjong333.com
 beritatoto.online
 berjayatogelqq1.xyz
 berjayatogelwow.online
+berjayatotok.lol
 berkah123slot.com
 berkahslot.xyz
 berkawantotopro.site
@@ -3516,10 +3542,12 @@ bet-rank1.drchintanjadia.com
 bet-slot.cfd
 bet-slotix0.online
 bet111slotlogin.com
+bet188gacor.com
 bet2slotvip.sbs
 bet2slotvpn.xyz
 bet808gacor.com
 betasuszeusx.cfd
+betatogelk.lol
 betawi77maxwin.site
 betflikusaslot.xyz
 betflixslot-168.com
@@ -3548,6 +3576,7 @@ betunlim-slots.top
 betunlimslot-eqj.site
 betunlimslot-nbj.site
 betunlimslots.site
+betvisaslot.lol
 betwaveslot.icu
 betwaveslot.top
 betwaveslots.icu
@@ -3561,6 +3590,9 @@ betwinslot138.com
 betwintoto-cuan3.xyz
 bewin777slot.com
 bewokslot.sbs
+bewokwinhigacor.site
+bewokwinhimaxwin.site
+bewokwinhislot.site
 bewokwinjbslot.site
 bewokwinlbslot.site
 bewokwinmaxwin.site
@@ -3569,6 +3601,7 @@ bewokwinqugacor.site
 bewokwinvbslot.site
 bg777slot.info
 bgnscatter78.site
+bgslot789.bet
 bgslot789.click
 bgslot789.website
 bgslot789x.click
@@ -3584,8 +3617,11 @@ big777slot.club
 biganslot.click
 bigbassbonanzaslotoyna.cfd
 bigbassslots.top
+bigbostogelk.lol
+bigbostotok.lol
 bigo234slot.com
 bigslot178.org
+bigslot188.net
 bigslot188mxvq.site
 bigslot188sor.xyz
 bigslot238.org
@@ -3608,6 +3644,7 @@ bigslot288xyz3.cyou
 bigslot288xyz4.cyou
 bigslot288xyz5.cyou
 bigslot288xyz6.cyou
+bigslot288xyz7.cyou
 bigslot289.com
 bigslot303.com
 bigslot777.mobi
@@ -3626,6 +3663,8 @@ bingo120slot.club
 bingo188slot.com
 bingoslot88.click
 binjaitoto.click
+binjaitotowings.online
+binjaitotowings.site
 bintang123slot.org
 bintang189slot.com
 bintang4dpmaxwin007.info
@@ -3663,6 +3702,7 @@ birutoto123x.site
 birutoto1er.cfd
 birutoto1fd.cfd
 birutoto1jh.cfd
+birutoto1nb.cfd
 birutoto1rt.cfd
 birutoto258ag.site
 birutoto258ah.site
@@ -3697,6 +3737,7 @@ birutoto88.lol
 birutoto9.top
 birutoto9.xyz
 birutoto989x.site
+birutotoad.site
 birutotoanps.site
 birutotoasd.site
 birutotoasw.site
@@ -3770,7 +3811,9 @@ birutotophm.site
 birutotosamsg.site
 birutotosgp.xyz
 birutotoskins1.site
+birutotospray.site
 birutotostrg.site
+birutotostudent.site
 birutototop1x.site
 birutototts.site
 birutotowde.site
@@ -3779,12 +3822,14 @@ birutotox9j.site
 bisa-stirtoto.online
 bislot.site
 bisnis680slot.club
+bisontotok.lol
 bit-slot.xyz
 bitcoin88-slot.online
 bitcoincashslot.xyz
 bitcoinsvslot.xyz
 biteslot.xyz
 bitung303slot.com
+bitungtotok.lol
 biwmurtpr.xyz
 bizm-slots.cfd
 bk333slot.com
@@ -3809,6 +3854,7 @@ bmx4dslot.site
 bn888-slot.com
 bntotomasyon.xyz
 bo-togel-terpercaya.ushcc.com
+boba123slot.com
 bobaslot.xyz
 bobaslot77.top
 bobatogel-4.online
@@ -3866,6 +3912,7 @@ bobatoto12d.vip
 bobatoto12iic.site
 bobatoto12ont.site
 bobatoto130jta.site
+bobatoto138.com
 bobatoto13jp.site
 bobatoto13ont.site
 bobatoto14ont.site
@@ -3893,6 +3940,7 @@ bobatoto180ind.site
 bobatoto188x.site
 bobatoto18ont.site
 bobatoto19ont.site
+bobatoto1cc.site
 bobatoto1er.sbs
 bobatoto1fg.cfd
 bobatoto1mj.cfd
@@ -3937,6 +3985,8 @@ bobatoto51hyu.site
 bobatoto52chc.site
 bobatoto53chc.site
 bobatoto599jpx.site
+bobatoto5ugd1.site
+bobatoto5ugd2.site
 bobatoto626jpx.site
 bobatoto696x.site
 bobatoto707jpx.site
@@ -4046,7 +4096,9 @@ bombslot42.bond
 bombslot42s.xyz
 bomgacor.xyz
 bomslots138.com
+bomtogelk.lol
 bomtoto29.online
+bomtotok.lol
 bomtotolucky550.site
 bon999slot.com
 bonan388slot.club
@@ -4074,6 +4126,7 @@ bontoto.online
 bonus-slot-2026.click
 bonus365slot.com
 bonusgateszeus.cfd
+bonustogelk.lol
 bonustoto.online
 bonustoto138.net
 bonuszeusbonus.cfd
@@ -4091,6 +4144,7 @@ borneototo.click
 borneototo.lol
 borneototo.xyz
 bos288toto.club
+bos898slot.net
 bosan.beachsidebounce.com
 bosgacor.click
 boslot628.xyz
