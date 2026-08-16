@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 16 Aug 2026 01:24 UTC
-# Version: 2026.0816.0124.26
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 16 Aug 2026 03:52 UTC
+# Version: 2026.0816.0352.15
 # Syntax: Domains (without subdomains)
-# Number of entries: 15212
+# Number of entries: 15208
 #
 007slots.pro
 01jamuslot.click
@@ -3379,7 +3379,6 @@ bd777slots.pro
 bdgacor138.net
 bdgacor138.org
 bdgacor168.org
-bdgslotdins.site
 bdslot.click
 bdslot188.org
 bdslot288.net
@@ -4688,7 +4687,6 @@ cendol789slot.club
 centergacor777.online
 ceototo.xyz
 ceri128slots.com
-ceri388sloto.com
 ceri711slot.club
 ceriaslot.xyz
 ceritaslot.top
@@ -10104,7 +10102,6 @@ kijang500-rtp6.site
 kiki123slot.com
 kikislot.xyz
 kikomaxwin333.site
-kilat128slot.com
 kilat131slot.com
 kilat368slot.com
 kilat777slot.com
@@ -11400,7 +11397,6 @@ macauslot188daftar.icu
 macauslot188daftar.site
 macauslot188id.com
 macauslot188soft.com
-macha-latte.thesingaporecafe.com
 madalatotoqvbl.site
 madetoto.click
 madu303higacor.site
