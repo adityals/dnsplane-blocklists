@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 16 Aug 2026 18:33 UTC
-# Version: 2026.0816.1833.10
+# Last modified: 17 Aug 2026 01:20 UTC
+# Version: 2026.0817.0120.40
 # Syntax: Domains (without subdomains)
-# Number of entries: 15309
+# Number of entries: 15353
 #
 007slots.pro
 01jamuslot.click
@@ -4298,6 +4298,7 @@ brewoktoto-testi.online
 brewslot.xyz
 bridgetotomorrow2026.com
 brilho777slots.com
+briotogelk.lol
 briototo111.online
 briototo928.com
 briototomasuk.online
@@ -4305,6 +4306,7 @@ briototosantai.online
 briototosantaii.online
 bro-hokbentoto.online
 bro.bruinwib.com
+bro138slot.info
 brogacor.lol
 brojpgacor.xyz
 bromo138slot.org
@@ -4326,6 +4328,7 @@ btv168slota.com
 buah4dtoto.sbs
 buah4dtoto.xyz
 buahtogel.xyz
+buahtotok.lol
 buaya168slot.com
 buaya365slot.com
 buayatogel.online
@@ -4378,6 +4381,7 @@ bundaslotn.online
 bundaslotn.xyz
 bundaslotqu.site
 bundaslottwente.site
+bundatogelk.lol
 bundatoto.xyz
 bundatoto23.online
 bung138slot.com
@@ -4428,6 +4432,7 @@ c4slot.click
 cabangtoto.xyz
 cabe777slot.com
 cabemanis88rtp.xyz
+cabetotok.lol
 cactusbetslots.top
 cactusexpertproduct.lol
 cactussloty.online
@@ -4436,6 +4441,8 @@ cafe-sgpslot.xyz
 cafeslot777.com
 caffe-merak1.athensrestaurantfl.com
 cahaya128slot.com
+cahaya188slot.net
+cahaya777slot.net
 cahayatogel.xyz
 cahayatoto.click
 cahayatoto001jpx.site
@@ -4484,6 +4491,7 @@ cahayatoto6li.sbs
 cahayatoto6sd.sbs
 cahayatoto707jpx.site
 cahayatoto736jpx.site
+cahayatoto7ds.cfd
 cahayatoto7es.sbs
 cahayatoto7gt.site
 cahayatoto7jm.cfd
@@ -4522,6 +4530,13 @@ cahayatotoku220x.cyou
 cahayatotoku221x.cyou
 cahayatotoku222x.cyou
 cahayatotoku223x.cyou
+cahayatotoku224x.cyou
+cahayatotoku225x.cyou
+cahayatotoku226x.cyou
+cahayatotoku227x.cyou
+cahayatotoku228x.cyou
+cahayatotoku229x.cyou
+cahayatotoku230x.cyou
 cahayatotor0w.site
 cahayatotor1w.site
 cahayatotoslot777.site
@@ -4538,6 +4553,10 @@ cahayatotoxgcr12.site
 cahayatotoxgcr13.site
 cahayatotoxgcr14.site
 cahayatotoxgcr15.site
+cahayatotoxgcr17.site
+cahayatotoxgcr18.site
+cahayatotoxgcr19.site
+cahayatotoxgcr20.site
 cahayatotoxgcra1.site
 cahayatotoxgcra11.site
 cahayatotoxgcrs1.site
@@ -4546,14 +4565,17 @@ cahayatotoxhok6.site
 cahyatoto.xyz
 cair126slot.com
 cair138rtp.xyz
+cairhokigacor.online
 cairo688slot.com
 cairo688slot.de
+cairtogelk.lol
 cairtoto.xyz
 cairtoto12asia.site
 cairtoto25cm.site
 cairtoto29dos.site
 cairtoto889aa.site
 cairtotokaca1.site
+cairtotomn.site
 cakra777slot.com
 calontoto.site
 calototo.site
@@ -4565,6 +4587,7 @@ campslot138.xyz
 cancertoto.click
 cancertoto.online
 cancertoto.xyz
+candu123slot.com
 candu189slot.com
 caneloslots.site
 canertpzasus.xyz
@@ -4572,6 +4595,7 @@ canertpznesine.xyz
 canneslottery.online
 cantikmahjong.xyz
 cantiktoto.xyz
+cantiktoto004.com
 cantiktoto1xit.site
 cantiktotoasli.lol
 cantiktotoseru.xyz
@@ -4635,6 +4659,7 @@ caritogel789qv.site
 caritogel789qx.site
 caritogel789qy.site
 caritogel789qz.site
+caritotok.lol
 carslot.site
 cartel999slot.com
 carteltoto.xyz
@@ -4714,6 +4739,7 @@ cat-casino-newslots1.top
 cat-casino-slot4.top
 cat-cazino-sloti1.top
 cat-cazino-sloty1.top
+catcasino-slots.top
 catcasino-sloty1.top
 catslot-cwj.site
 catslot-mnj.site
@@ -4736,6 +4762,7 @@ celsius188slot.club
 cemara777slot.net
 cemaratoto.xyz
 cendana333slot.com
+cendana777slot.com
 cendanaslot9903dh.site
 cendanaslot9904dh.site
 cendanaslot9905dh.site
@@ -4747,8 +4774,10 @@ cendanatotodsa.site
 cendol789slot.club
 centergacor777.online
 ceototo.xyz
+ceri123slotlogin.com
 ceri128slots.com
 ceri711slot.club
+ceria777slot.net
 ceriaslot.xyz
 ceritaslot.top
 ceritoto101.com
@@ -4757,6 +4786,7 @@ ceritoto103.com
 ceritoto104.com
 ceritoto105.com
 cermin303slot.com
+cermintotok.lol
 cewekslot.click
 cfjamuslot.xyz
 cgacor200.com
@@ -4838,8 +4868,10 @@ chickslotsonline.lol
 chipgacor.site
 chipgacor.xyz
 chokdee777slot.xyz
+ciatogelk.lol
 cicak168slot.com
 cicak365slot.com
+cicitotok.lol
 cie-tanjungtoto.online
 cigaroslot797a.xyz
 cigaroslot898a.xyz
@@ -4900,6 +4932,7 @@ ciro138slot.club
 citislotszonaakurat.cfd
 cityslot.online
 citysmartplan.xyz
+ciutogelk.lol
 civic118slot.com
 civictoto.click
 cjxrtpt2.top
@@ -4935,6 +4968,7 @@ clubnikaslot-thj.site
 clubnikaslot-vnj.site
 clubnikaslot-wzj.site
 cm888slot.net
+cmbetrtp.online
 cmmslots.vip
 cmtotoidas.xyz
 cmtotomax.click
@@ -4948,6 +4982,7 @@ cobahokislot303.xyz
 cobain.playdemoslotroma.com
 cobainslotgue.xyz
 cocaslot.click
+codertpollo4d.site
 codevegastogel.site
 cohortproperty.online
 coin-slot.xyz
@@ -4957,17 +4992,24 @@ coin303slot.com
 coinageslot.xyz
 cointop1toto.online
 coinvolcanoslot.online
+coitogelk.lol
 coktogel.click
 colatogel.click
 colatogel.top
 colatogel0ds.site
+colatogel1gf.sbs
 colatogel1tg.sbs
 colatogel2df.site
 colatogel2nm.sbs
 colatogel4dr.sbs
 colatogel4sx.site
+colatogel6.online
 colatogel6dr.sbs
+colatogel7.online
+colatogel8.online
+colatogel8re.cfd
 colatogel8vd.cfd
+colatotok.lol
 colek138slot.com
 colok-togel.online
 colokbanyakpermainangacor03.xyz
@@ -5006,6 +5048,7 @@ congtogel080jpx.site
 congtogel101jpx.site
 congtogel108jpx.site
 congtogel117jpx.site
+congtogel123.com
 congtogel189it.site
 congtogel218rx.site
 congtogel258il.site
@@ -5026,6 +5069,7 @@ congtogel771xjp.lat
 congtogel88.online
 congtogel88.top
 congtogel889jpx.site
+congtogel8hj.sbs
 congtogel905jpx.site
 congtogel915jpx.site
 congtogel960jpx.site
