@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 17 Aug 2026 03:54 UTC
-# Version: 2026.0817.0354.40
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 17 Aug 2026 06:58 UTC
+# Version: 2026.0817.0658.06
 # Syntax: Domains (without subdomains)
-# Number of entries: 15351
+# Number of entries: 15359
 #
 007slots.pro
 01jamuslot.click
@@ -2752,6 +2752,7 @@ arwahtoto0305.com
 arwana500slot.com
 arwanatoto.click
 arwanatoto.top
+arwanatoto7772win.site
 arwanatoto879.site
 arwanatotov3d.site
 as388slot.club
@@ -3020,6 +3021,7 @@ ayuslot.vip
 ayuslot.xyz
 ayuslot2fun.xyz
 ayuslot2win.xyz
+ayutogels888win.site
 ayutogelzj193.com
 ayutogelzj301.com
 ayutogelzj528.com
@@ -10464,6 +10466,7 @@ koinslot168.info
 koinslot168.online
 koinslot168art.site
 koinslot168in.biz
+koinslot777win.site
 koinslot888.top
 kointogel.xyz
 koitogel.site
@@ -11597,6 +11600,7 @@ mahjong186jpx.site
 mahjong187jpx.site
 mahjong188.biz
 mahjong1jpx.site
+mahjong2000-top4.online
 mahjong2000asli.lol
 mahjong2000regis.lol
 mahjong2221.com
@@ -12353,6 +12357,7 @@ maxwin138fixjz.site
 maxwin138fixkc.site
 maxwin138fixnd.site
 maxwin138fixni.site
+maxwin138fixpol.site
 maxwin138fixwd.site
 maxwin138fixwiz.site
 maxwin138fixze.site
@@ -13322,6 +13327,7 @@ pragmatic138xj.site
 pragmatic138xk.site
 pragmatic138xl.site
 pragmatic138xn.site
+pragmatic138xni.site
 pragmatic138xnq.site
 pragmatic138xo.site
 pragmatic138xp.site
@@ -13697,6 +13703,7 @@ rtpsuster123mantap3.top
 rtpto1.joelhformayor.com
 rtptoge123c.click
 rtptoto123.sbs
+rtpug234main.online
 rtpusaha188-live.xyz
 rtpvegas338.site
 rtpvio5000.vip
@@ -13924,6 +13931,7 @@ slot-g2g639.lol
 slot-gacor--b-o-n-u-s----------100-amp.pages.dev
 slot-gacor--camar4444.pages.dev
 slot-gateof-1000.icu
+slot-pecah5000.click
 slot-qris-10k.arowanadigitalzone.com
 slot-qris-5k.ifws.org
 slot-server-kamboja.itommey.com
