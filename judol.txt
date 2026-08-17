@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 17 Aug 2026 12:48 UTC
-# Version: 2026.0817.1248.54
+# Last modified: 17 Aug 2026 18:42 UTC
+# Version: 2026.0817.1842.42
 # Syntax: Domains (without subdomains)
-# Number of entries: 15388
+# Number of entries: 15427
 #
 007slots.pro
 01jamuslot.click
@@ -5037,6 +5037,7 @@ colok-togel.online
 colokbanyakpermainangacor03.xyz
 coloksgp-togel.site
 coloksgp-togel.xyz
+coloktogelk.lol
 coloktoto.click
 coloktoto.vip
 coloktoto168.link
@@ -5227,6 +5228,7 @@ cuan123maxwin.site
 cuan247rtpid.xyz
 cuan303slot.com
 cuan365slot.com
+cuan365slot.net
 cuan378slot.com
 cuan900slot.com
 cuanslot338.org
@@ -5242,6 +5244,7 @@ cucu777slot.com
 cucukakek.cfd
 cucukakek.site
 cucukakek777slot.com
+cucukakekhebat.click
 cucutoto1.icu
 cucutoto112jpx.site
 cucutoto113jpx.site
@@ -5273,6 +5276,7 @@ cucutotoimut.site
 cucutotojib.site
 cucutotokita.site
 cucutotokita.vip
+cucutotoles.site
 cucutotopin.site
 cucutotoser.site
 cucutotowin.site
@@ -5292,6 +5296,7 @@ cucutotoxpros9.site
 cucutotoxsip37.site
 cucutotoxun.site
 cuisineslot.xyz
+cukongtogelk.lol
 cukongtoto-i.xyz
 cumadigacor99.online
 cumadigacor99.xyz
@@ -5340,6 +5345,7 @@ dafatoto951.com
 daffatoto.site
 daffatoto.xyz
 daftar-for4dtoto.online
+daftar-slotgg.vip
 daftar777slot.com
 daftarfixtoto.online
 daftargacor101.shop
@@ -5359,6 +5365,7 @@ daftartogelonline.xyz
 daftartoto.online
 daftarzonakerabatslot.sbs
 dagotogel.click
+dagototok.lol
 dailyreportpress.site
 dailywithdrawslotcc.online
 dakartoto.site
@@ -5379,15 +5386,19 @@ danatoto0071.com
 danatoto008.club
 danatoto101.net
 danatoto128.com
+danatoto139.bet
 danatoto167.org
 danatoto168a.com
 danatoto169.net
 danatoto16jp.site
 danatoto178.net
+danatoto1ww.cfd
 danatoto2024.com
 danatoto230.cloud
 danatoto230.com
+danatoto268vjn.live
 danatoto365.net
+danatoto451lix.live
 danatoto451vip.live
 danatoto52jp.site
 danatoto599jpx.site
@@ -5482,6 +5493,12 @@ danatotoku288x.cyou
 danatotoku289x.cyou
 danatotoku290x.cyou
 danatotoku291x.cyou
+danatotoku292x.cyou
+danatotoku293x.cyou
+danatotoku294x.cyou
+danatotoku295x.cyou
+danatotoku296x.cyou
+danatotoku297x.cyou
 danatotoku355x.cyou
 danatotoku419x.cyou
 danatotoku533x.cyou
@@ -5559,8 +5576,11 @@ datang138slot.com
 datartpasian303.xyz
 datatogel.lol
 datatogel4d.xyz
+daun123slot.info
 daun365slot.com
 dauntogel2kdnoshit.site
+daya138slot.info
+dayak123slot.com
 dayakslot.online
 dayaktoto.site
 dayaktoto.xyz
@@ -5658,6 +5678,7 @@ dedeslot397.com
 dedeslot398.com
 dedeslot399.com
 dedeslot888.com
+dedetotok.lol
 deditoto.online
 deditoto.site
 deditoto.vip
@@ -5673,6 +5694,7 @@ delapantoto4d.site
 delik777slot.club
 delima365slot.com
 delitoto.xyz
+delta575slot.net
 deltaslot288.org
 deltaslot88.xyz
 deltaslot88beast.xyz
@@ -5688,16 +5710,21 @@ deltaslot88rtpbest.xyz
 deltaslot88tangguh.xyz
 deltaslot88terkendali.xyz
 deltatogel.click
+deltatotok.lol
+delunatogelk.lol
+delunatotok.lol
 demo-slot-pragmatic.xyz
 demokkslot-777.sbs
 demon189slot.com
 demoslot1000.org
 demoslot77.lol
+demoslot777.net
 demoslot7777.org
 demoslot777ger.cyou
 demoslot777xwxx.cyou
 demoslot789.com
 demoslot88.top
+demoslotapp.cfd
 demoslotapp.click
 demoslotapp.motorcycles
 demoslotgratis1.bargorriti.com
@@ -5709,6 +5736,7 @@ demoslots.top
 demoslotspg777.com
 demoslotsuperjet88.xyz
 demoslotvip.cfd
+demoslotx10000.com
 demototo.click
 denistoto.click
 densustoto.click
@@ -5718,10 +5746,13 @@ dentalkakekpick.site
 dentoto.site
 dentoto122jp.site
 dentoto138.org
+dentoto777.bet
 dentoto777.biz
 dentotocworld.site
 depan123slot.com
 departureslot.xyz
+depetogelk.lol
+depetotok.lol
 deposit365slot.com
 depositslot.online
 deposlot.online
@@ -5740,6 +5771,7 @@ desa55vbslot.site
 desa55zeus.site
 desamaxwin.online
 desatoto.online
+desatotok.lol
 deslotsregame93592.site
 destatotologin.xyz
 destigadaitoto.xyz
@@ -5753,17 +5785,22 @@ detikslot888.quest
 detikslot888.sbs
 detikslot888.shop
 detikslot888.xyz
+detikslot888disana.help
 detikslot888disana.sbs
 detikslot888disana.top
+detikslot888disini.help
 detikslot888disini.sbs
 detikslot888disini.top
 detikslot889.com
 detiktoto-alt.site
 dewa121slots.com
+dewa212slot.net
 dewa365slot.com
+dewa388slot.org
 dewa505slot.com
 dewa6dtoto.click
 dewa787slot.net
+dewa789slot.com
 dewabos138slot.com
 dewaflyslots.top
 dewagacor1.online
@@ -5774,7 +5811,9 @@ dewagacor77win.site
 dewagacor78.site
 dewaggrtpmaster.bond
 dewakakek77.online
+dewamahjong.lol
 dewamudamaxwin.site
+dewantotok.lol
 dewaqqrtp.site
 dewartpmvbk.site
 dewaslot.click
