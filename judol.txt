@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 18 Aug 2026 01:19 UTC
-# Version: 2026.0818.0119.03
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 18 Aug 2026 03:49 UTC
+# Version: 2026.0818.0349.23
 # Syntax: Domains (without subdomains)
-# Number of entries: 15486
+# Number of entries: 15480
 #
 007slots.pro
 01jamuslot.click
@@ -7603,7 +7603,6 @@ geritoto.vip
 geritoto.xyz
 germanyslotwin.click
 gesit188slot.com
-getolympushub.xyz
 getsmartproductions.online
 getsupportplus.top
 getsupportportal.top
@@ -9506,7 +9505,6 @@ jpsahamtoto.online
 jpslot138.click
 jpslot168.blog
 jpslot168.website
-jpslot388.live
 jpslot388.lol
 jpslot388a.com
 jpslot388edu.com
@@ -11130,8 +11128,6 @@ lawu88slotx27.vip
 layargokil-paitoto.lol
 layarslotn.online
 layarslotn.xyz
-lazadatoto1jp.site
-lazadatoto2jp.site
 ldtoto.xyz
 lebah4d-slot4dterbaik.xyz
 lebahtoto.top
@@ -11257,7 +11253,6 @@ linkalternatifsbobet.net
 linkalthokisloto.xyz
 linkbandartogel77.xyz
 linkbbfstoto.top
-linkberastoto.vip
 linkbirutoto.online
 linkbonanzaslot88.xyz
 linkdaftaridealtoto.online
@@ -11398,7 +11393,6 @@ liveslot188.org
 liveslot365-king.shop
 liveslot368.org
 liveslotbiru.xyz
-livesoccerbatikslot138.xyz
 livesoccerjpslot.xyz
 livetogelhawai4d.xyz
 livetoto888.org
