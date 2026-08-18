@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 18 Aug 2026 06:46 UTC
-# Version: 2026.0818.0646.23
+# Last modified: 18 Aug 2026 12:50 UTC
+# Version: 2026.0818.1250.24
 # Syntax: Domains (without subdomains)
-# Number of entries: 15513
+# Number of entries: 15590
 #
 007slots.pro
 01jamuslot.click
@@ -6495,6 +6495,7 @@ evosslot993dh.site
 evostogel123.shop
 evostogel138hot.shop
 evostogel228vip.live
+evostogelk.lol
 evostoto.click
 evostoto080jpx.site
 evostoto101jp.site
@@ -6534,8 +6535,11 @@ evostoto27tr.site
 evostoto27um.site
 evostoto27uz.site
 evostoto29dos.site
+evostoto2df.sbs
 evostoto2gb.site
 evostoto2nj.site
+evostoto2pp.site
+evostoto2tg.sbs
 evostoto303.shop
 evostoto369.shop
 evostoto369bet.lol
@@ -6640,6 +6644,13 @@ evostotowde286x.cyou
 evostotowde287x.cyou
 evostotowde288x.cyou
 evostotowde289x.cyou
+evostotowde290x.cyou
+evostotowde291x.cyou
+evostotowde292x.cyou
+evostotowde293x.cyou
+evostotowde294x.cyou
+evostotowde295x.cyou
+evostotowde296x.cyou
 evostotox32wde.site
 evostotox39pro.site
 evostotox88proo.site
@@ -6651,9 +6662,13 @@ evostotoxpro88.site
 evostotoxpro89.site
 evostotoxpro90.site
 evostotoxpro92.site
+evostotoxtop42.site
 evostotoxwde32.site
 evostotoxwins4.site
+evotogelk.lol
 evototo.online
+evototok.lol
+ex1121slot.com
 ex888slot.com
 exetotof7jp.site
 exetotoi8jp.site
@@ -6673,17 +6688,32 @@ exetotoy7jp.site
 exotogel303hub.site
 exototo.top
 exototo123.com
+exototo200.com
+exototo201.com
+exototo202.com
+exototo203.com
+exototo204.com
 exototo4gbf.sbs
 exototo666.com
 exototo6nm.site
 exototo777.org
 exototo8ew.site
 exototo8ewe.site
+exototo8gj.site
 exototo8rf.site
 exototo8tw.site
+exototo8vb.sbs
 exototo8yh.sbs
 exototo9gb.cfd
 exototo9vff.cfd
+exototoku101x.cyou
+exototoku102x.cyou
+exototoku103x.cyou
+exototoku104x.cyou
+exototoku105x.cyou
+exototoku106x.cyou
+exototoku107x.cyou
+exototoku108x.cyou
 expatslot.xyz
 expertpedia.online
 expertplatform.xyz
@@ -6693,9 +6723,13 @@ expertpremiumventcleaningprofessionals.site
 expertproject.site
 expertpropertyhomes.xyz
 expo138slot.org
+exslot888.com
 exsototo.xyz
 extortpro.xyz
+extratotok.lol
 eyangtogel.xyz
+eyangtotok.lol
+ezeslot-rtp99.online
 ezislot88.click
 ezslot-123.life
 ezslot789.com
@@ -6749,6 +6783,7 @@ fairyland-slots.click
 fajartoto.click
 fajartoto888.net
 fakealertpay.xyz
+familytogelk.lol
 fanta188slot.com
 fantaslot.top
 fantatogel.click
@@ -6779,6 +6814,7 @@ fifa808slot.club
 fijislot10.top
 fijislot11.cfd
 fijislot11.lol
+fijislot168.com
 filling.amwelldentalnj.com
 fim-mototour2027.com
 fim-mototourofraces2027.com
@@ -6839,6 +6875,7 @@ fontanslot-wlj.site
 food.fusionquincy.com
 formula168slot.com
 forslothbit.click
+fortogelk.lol
 fortpay.xyz
 fortpeckjournal.online
 fortpro.xyz
@@ -6880,6 +6917,8 @@ fs-slots.xyz
 fslot200.com
 fslot200.store
 fufuslot-pair.xyz
+fufuslot2026new.com
+fufuslot7fd.cfd
 fujisun-slot.online
 fujiwin888slot.com
 fullalertpay.xyz
@@ -6904,6 +6943,8 @@ fx-tanjungtoto.online
 fxzeus.xyz
 fyptoto.site
 fyri-slot.site
+g200mslot.info
+g200mslotlogin.com
 g2g888slot.org
 g2g889-slot.run
 g2ggrand-slot.lol
@@ -6917,8 +6958,11 @@ g2slot168z.info
 g2slot168zx.ink
 g666slot.app
 g76toto-bambu.site
+g76toto-east.site
 g76toto-inces.site
+g76toto-lemacao.site
 g76toto-luckyspin1.online
+g76toto-pop.site
 g76toto-rtp1.online
 g76toto-sedap.site
 g76toto-spain.site
@@ -6931,6 +6975,7 @@ gacoer222slot.com
 gacor-305.com
 gacor-ombakkaca.site
 gacor-wartegbet.site
+gacor02.xyz
 gacor108.blog
 gacor108.casino
 gacor108.sbs
@@ -6956,6 +7001,7 @@ gacor123j.com
 gacor123t.com
 gacor138.co
 gacor138.co.uk
+gacor138.monster
 gacor138.site
 gacor138.website
 gacor138.xyz
@@ -6993,6 +7039,7 @@ gacor200agen.com
 gacor200apk.app
 gacor200apk.com
 gacor200apk.net
+gacor200app.com
 gacor200b.com
 gacor200id.com
 gacor200r.com
@@ -7025,6 +7072,7 @@ gacor305akun.com
 gacor305app.com
 gacor305b.com
 gacor305c.com
+gacor305e.com
 gacor305id.com
 gacor305max.com
 gacor305mpo.com
@@ -7073,11 +7121,13 @@ gacor668app.com
 gacor668id.com
 gacor668m.com
 gacor668mpo.com
+gacor668q.com
 gacor668xgcrs1.site
 gacor668y.com
 gacor66w.lol
 gacor66w.top
 gacor67.online
+gacor688.bet
 gacor700.org
 gacor737.com
 gacor773.com
@@ -7130,6 +7180,13 @@ gacor777ku188x.cyou
 gacor777ku189x.cyou
 gacor777ku190x.cyou
 gacor777ku191x.cyou
+gacor777ku193x.cyou
+gacor777ku194x.cyou
+gacor777ku195x.cyou
+gacor777ku196x.cyou
+gacor777ku197x.cyou
+gacor777ku198x.cyou
+gacor777ku199x.cyou
 gacor777l.com
 gacor777max.com
 gacor777mpo.com
@@ -7157,6 +7214,8 @@ gacor77wdx058.site
 gacor77wdx059.site
 gacor77wdx063.site
 gacor77wdx064.site
+gacor77wdx067.live
+gacor77wdx068.live
 gacor781.com
 gacor782.com
 gacor808.online
@@ -7204,9 +7263,11 @@ gacorabis.online
 gacoragenbos168.xyz
 gacoran270jpx.live
 gacoran556jpx.live
+gacorbet.online
 gacorbet333.lol
 gacorbet88ip.xyz
 gacorbos88.click
+gacorbos888.bet
 gacorbosku.site
 gacorbosku.xyz
 gacorbumi14.site
@@ -7238,12 +7299,15 @@ gacorhoki136jp.live
 gacorhoki137jp.live
 gacorhoki238jp.live
 gacorhoki239jp.live
+gacorhoki244jp.live
+gacorhoki247jp.live
 gacorhokie777.site
 gacorhoku788mix.live
 gacorhub.site
 gacorjoss.icu
 gacorkali.site
 gacorku168apk.com
+gacorku168i.com
 gacorku168id.com
 gacorku168rp.com
 gacorlegend.xyz
@@ -7270,9 +7334,11 @@ gacorr268king.com
 gacorr268prime.com
 gacorr268resmi.com
 gacorr268top1.com
+gacorr678.org
 gacorrlooo.site
 gacorrp89.site
 gacorrtp.xyz
+gacorrtpbolagila.click
 gacorrtpindogg.lol
 gacorsaldoku777.xyz
 gacorsekalibosku.xyz
@@ -7339,6 +7405,14 @@ gacorslotku271x.cyou
 gacorslotku272x.cyou
 gacorslotku273x.cyou
 gacorslotku274x.cyou
+gacorslotku275x.cyou
+gacorslotku276x.cyou
+gacorslotku277x.cyou
+gacorslotku278x.cyou
+gacorslotku279x.cyou
+gacorslotku280x.cyou
+gacorslotku281x.cyou
+gacorslotku282x.cyou
 gacorslt138ai.click
 gacorslt138ai.cyou
 gacorslt138ai.lat
@@ -7410,6 +7484,7 @@ gadunslot.click
 gadunslot.site
 gadunslot133.site
 gadunslotaxazik.site
+gaduntogelk.lol
 gahar188slot.com
 gaib777slot.com
 gain-game-slots.online
@@ -7427,11 +7502,13 @@ gamaslot-jbf.site
 gamaslot-zdj.site
 gamaslots-pxx.top
 gamatogel.click
+gamatotok.lol
 gambarslotfer.xyz
 gambleslotv.online
 gambling-slots.xyz
 game-vip-1xslots1.top
 game303slot.com
+game777slot.net
 game888slot.info
 gamecartpay.xyz
 gamedemopragmatic.online
