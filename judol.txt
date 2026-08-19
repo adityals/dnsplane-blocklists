@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 19 Aug 2026 03:51 UTC
-# Version: 2026.0819.0351.03
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 19 Aug 2026 06:47 UTC
+# Version: 2026.0819.0647.29
 # Syntax: Domains (without subdomains)
-# Number of entries: 15707
+# Number of entries: 15721
 #
 007slots.pro
 01jamuslot.click
@@ -9134,6 +9134,7 @@ indoslot303ms.sbs
 indoslot303ms.site
 indoslot303ms.xyz
 indoslot303p.com
+indoslot303profit.bond
 indoslot303profit.site
 indoslot303profit.vip
 indoslot303r.com
@@ -10738,17 +10739,21 @@ kkslot777cuaan.top
 kkslot777emas.top
 kkslot777fell.top
 kkslot777fide.top
+kkslot777flux.top
 kkslot777gova.top
 kkslot777h.com
+kkslot777halo.top
 kkslot777hooki.top
 kkslot777jayaa.top
 kkslot777joss.top
 kkslot777juara.top
+kkslot777kita.top
 kkslot777laju.top
 kkslot777lamp.top
 kkslot777luna.top
 kkslot777m.com
 kkslot777mine.top
+kkslot777muse.top
 kkslot777neo.top
 kkslot777nexa.top
 kkslot777o.com
@@ -10765,8 +10770,11 @@ kkslot777toba.top
 kkslot777trip.top
 kkslot777v.com
 kkslot777vibe.top
+kkslot777vora.top
 kkslot777x.com
+kkslot777zen.top
 kkslot777zena.top
+kkslot777zora.top
 kkslot778.net
 kkslots.site
 kkslots777.mobi
@@ -11546,6 +11554,7 @@ linkslotbolatangkas.xyz
 linkslotcuan589.site
 linkslotcuan590.site
 linkslotcuan741.site
+linkslotcuan998.site
 linkslotdewatangkas.xyz
 linkslotlucky550.site
 linkslotlucky551.site
@@ -11933,6 +11942,7 @@ mahjong186jpx.site
 mahjong187jpx.site
 mahjong188.biz
 mahjong1jpx.site
+mahjong2000-top3.online
 mahjong2000-top4.online
 mahjong2000asli.lol
 mahjong2000regis.lol
@@ -11997,6 +12007,7 @@ mahjong333.click
 mahjong333.dev
 mahjong333.net
 mahjong333apk.com
+mahjong333max.lol
 mahjong363jpx.site
 mahjong369jpx.site
 mahjong391jpx.site
@@ -13610,6 +13621,7 @@ pragmatic138ej.site
 pragmatic138ek.site
 pragmatic138elg.site
 pragmatic138eli.site
+pragmatic138equ.site
 pragmatic138flg.site
 pragmatic138fli.site
 pragmatic138gli.site
@@ -14606,6 +14618,7 @@ slotonline888.online
 slotonline999.online
 slotonlinepro777.online
 slotorvix197.site
+slotpalacebet138.site
 slotpatenpastijp138.online
 slotpg247a.click
 slotpg999.online
@@ -15553,6 +15566,7 @@ zeus138de.site
 zeus138di.site
 zeus138do.site
 zeus138dpe.site
+zeus138dpf.site
 zeus138dpq.site
 zeus138dpr.site
 zeus138dpt.site
