@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 18 Aug 2026 18:40 UTC
-# Version: 2026.0818.1840.45
+# Last modified: 19 Aug 2026 01:21 UTC
+# Version: 2026.0819.0121.14
 # Syntax: Domains (without subdomains)
-# Number of entries: 15660
+# Number of entries: 15718
 #
 007slots.pro
 01jamuslot.click
@@ -8213,16 +8213,26 @@ herbertpetergallerservicosdemarcenaria.xyz
 herbertpro.xyz
 hermantoto.click
 heroslot168.casino
+heroslot88ball.xyz
 heroslot88beast.xyz
 heroslot88berani.xyz
 heroslot88center.xyz
+heroslot88dewa.xyz
 heroslot88hebat.xyz
+heroslot88hero.xyz
+heroslot88hots.xyz
+heroslot88kafe.xyz
+heroslot88legend.xyz
 heroslot88mendali.xyz
 heroslot88meriah.xyz
+heroslot88net.xyz
+heroslot88new.xyz
+heroslot88orange.xyz
 heroslot88percaya.xyz
 heroslot88populer.xyz
 heroslot88tangguh.xyz
 heroslot88terkendali.xyz
+heroslot88topline.xyz
 herotogel.online
 hey888slot.com
 hgo909rtp.xyz
@@ -8263,10 +8273,13 @@ historia77gacor.site
 hitamslot.click
 hitamslot.online
 hitamslot.xyz
+hitamtogelk.lol
 hitogelmnyk.site
+hittogelk.lol
 hiu138slot.com
 hiu168slot.com
 hiu365slot.com
+hiutogelk.lol
 hiutoto.xyz
 hiutoto003.com
 hiutoto005.com
@@ -8295,6 +8308,8 @@ ho-ley-shiyt.holightgroup.com
 hobimainscatter.site
 hobirtp.site
 hobislot77.online
+hobitogelk.lol
+hohototok.lol
 hok303slot.club
 hokbentoto.click
 hoki108xscattera.site
@@ -8316,9 +8331,16 @@ hoki108xscatterz.site
 hoki138zeus.com
 hoki168slot.com
 hoki177slot.com
+hoki178slot.net
+hoki234slot.autos
+hoki234slot.boats
 hoki234slot.cyou
+hoki234slot.homes
+hoki234slot.makeup
+hoki234slot.mom
 hoki234slot.monster
 hoki234slot.online
+hoki234slot.pics
 hoki234slot.quest
 hoki234slot.rest
 hoki234slot.sbs
@@ -8342,6 +8364,7 @@ hoki88slot993dh.site
 hoki999slot.com
 hoki99slot777.site
 hokiemasplus-rtp.xyz
+hokigacor.site
 hokigacor77.click
 hokigacor77.lol
 hokigacor77.top
@@ -8360,6 +8383,7 @@ hoktoto2xit.site
 holaslot.lol
 holdyourrevslots.click
 holiday789slot.com
+holitogelk.lol
 hollandslotwin.click
 homecourtproject.online
 hometogel.click
@@ -8370,7 +8394,9 @@ hometogel19ont.site
 hometogel2hg.sbs
 hometogel3gf.cfd
 hometogel4cd.site
+hometogel4ff.site
 hometogel4jy.cfd
+hometogel4ll.site
 hometogel4mj.site
 hometogel4wq.sbs
 hometogel771xjp.lat
@@ -8450,9 +8476,11 @@ hondatoto960jpx.site
 hondatoto969jpx.site
 hondatoto972jpx.site
 hondatoto973jpx.site
+hondatoto9gg.sbs
 hondatotoc8hk.site
 hondatotoc9sg.site
 hondatotoe8hk.site
+hondatotof8hk.site
 hondatotog9hk.site
 hondatotogg7sdy.site
 hondatotogg8hk.site
@@ -8526,6 +8554,7 @@ hopengtotologin2026.com
 hopengtotonew.lol
 hopengtotopromo.lol
 hopengtotosetia.lol
+horastotok.lol
 horsebet78rtp.xyz
 host-rtp-bd.xyz
 hostbalaptoto.site
@@ -8540,9 +8569,15 @@ hp138-gacor.lol
 hp138-gacor.xyz
 hp188gacor3.xyz
 hptoto.click
+hptoto126.com
+hptoto127.com
+hptoto128.com
+hptoto129.com
 hptoto25cm.site
 hptoto29dos.site
+hptotoles.site
 hptotox.site
+hptotoyuk.site
 hrvslotdamai.site
 hrvslotjaya.online
 hrvslotmaxwin.click
@@ -8579,7 +8614,9 @@ hujantoto808jpx.site
 hujantoto88ggwp.site
 hujantoto898.site
 hujantoto99real.site
+hujantotoad.site
 hujantotoanps.site
+hujantotoaw.site
 hujantotoblack1.site
 hujantotoboost.site
 hujantotocapts1.site
@@ -8631,11 +8668,21 @@ hujantotoku218x.cyou
 hujantotoku219x.cyou
 hujantotoku220x.cyou
 hujantotoku221x.cyou
+hujantotoku223x.cyou
+hujantotoku224x.cyou
+hujantotoku225x.cyou
+hujantotoku226x.cyou
+hujantotoku227x.cyou
+hujantotoku228x.cyou
+hujantotoku229x.cyou
+hujantotoku230x.cyou
 hujantotokuhoki.site
+hujantotomn.site
 hujantotonyaw.site
 hujantotoslot777.site
 hujantotospray.site
 hujantotoxon.site
+hujantotoys.site
 hukumtoto.click
 hukumtotoko855jp.site
 hukumtotoko856jp.site
@@ -8663,9 +8710,14 @@ ibetslot8.lol
 ibiscatter78.site
 ibnsmartprotocol.online
 iboslotgg.xyz
+ibutotok.lol
 icaslot.top
 icslot88f.xyz
 id-alexaslot138.live
+id1001slot.com
+id212slot.com
+id222slot.com
+id338slot.com
 id888slot.info
 idamantogel.xyz
 idamantogel1.xyz
@@ -8677,6 +8729,7 @@ idamantoto131jp.site
 idamantoto304fox.live
 idamantoto305max.site
 idamantoto6yh.cfd
+idamantoto8ghb.sbs
 idamantoto9bc.sbs
 idamantoto9cv.sbs
 idamantoto9ws.site
@@ -8686,12 +8739,15 @@ idamantototq.site
 idcashtoto-update.xyz
 idcashtotoo.xyz
 idcoin188rtp.xyz
+ide777slot.net
 ide777slot.org
 ideslot.click
 ideslot.online
 idihbarcatoto.site
+idindoslot303.com
 idiscatter78.site
 idksslot.xyz
+idmaxwin500.com
 idn88maxwin.top
 idnslot.click
 idnslot640qvn.site
@@ -8721,6 +8777,7 @@ idrtoto.online
 idrtoto.site
 idrtoto888.online
 idslots.xyz
+idzeus200.com
 ig777slot.com
 igambleslots1.vip
 igtoto-andal.online
@@ -8734,6 +8791,7 @@ igtoto.click
 iindoslot303.com
 iitotopool.online
 ikan128slot.com
+ikan138slot.com
 ikn888slot.com
 ikon303slot.com
 ikon777slot777.site
