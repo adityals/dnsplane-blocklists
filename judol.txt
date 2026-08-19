@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 19 Aug 2026 01:21 UTC
-# Version: 2026.0819.0121.14
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 19 Aug 2026 03:51 UTC
+# Version: 2026.0819.0351.03
 # Syntax: Domains (without subdomains)
-# Number of entries: 15718
+# Number of entries: 15707
 #
 007slots.pro
 01jamuslot.click
@@ -1580,7 +1580,6 @@ admiralslot-wyj.site
 admtogelk.lol
 admtotok.lol
 adurtp.xyz
-ae888slots.com
 aeartproject.xyz
 afatogel.xyz
 afb365gacor.top
@@ -4706,7 +4705,6 @@ casino-1xslots1.top
 casino-1xslots2.top
 casino-sloti.site
 casino-slots-million.xyz
-casino-slots.online
 casino-slots.top
 casino-slottica-cda.xyz
 casino-slotticar.xyz
@@ -5931,7 +5929,6 @@ dianslot.lol
 diantogel.lol
 diantoto.lol
 dibalikslotonline.site
-dicartperf.site
 diceslot.xyz
 dicetentoto.xyz
 did777slot.com
@@ -6339,7 +6336,6 @@ edrtp.online
 eduslot777.com
 ee-slot.site
 ee-slots.xyz
-effortpdf.site
 egacor200.com
 egacor200.store
 egp138gacor.com
@@ -10734,13 +10730,11 @@ kkslot-777demo.top
 kkslot777.today
 kkslot7775.com
 kkslot777axis.top
-kkslot777best.top
 kkslot777biru.com
 kkslot777bos.top
 kkslot777cair.top
 kkslot777credo.top
 kkslot777cuaan.top
-kkslot777dewa.top
 kkslot777emas.top
 kkslot777fell.top
 kkslot777fide.top
@@ -10750,7 +10744,6 @@ kkslot777hooki.top
 kkslot777jayaa.top
 kkslot777joss.top
 kkslot777juara.top
-kkslot777kaya.top
 kkslot777laju.top
 kkslot777lamp.top
 kkslot777luna.top
@@ -10760,12 +10753,10 @@ kkslot777neo.top
 kkslot777nexa.top
 kkslot777o.com
 kkslot777ok.com
-kkslot777omen.top
 kkslot777opes.top
 kkslot777ora.top
 kkslot777proo.top
 kkslot777raja.top
-kkslot777ratu.top
 kkslot777rbxjp.live
 kkslot777rex.top
 kkslot777sun.top
@@ -11714,7 +11705,6 @@ londontotonet.xyz
 londontotopatenx.xyz
 longtogel.click
 longtogel.top
-lortpond.click
 losari88livertp.xyz
 lottotogel.top
 lovingtoto168wb.xyz
@@ -15027,7 +15017,6 @@ toto229jpx.site
 toto229xjp.site
 toto234bagus.click
 toto234bagus.sbs
-toto234bagus.top
 toto234enak.click
 toto234enak.sbs
 toto234enak.top
