@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 20 Aug 2026 03:51 UTC
-# Version: 2026.0820.0351.07
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 20 Aug 2026 06:49 UTC
+# Version: 2026.0820.0649.32
 # Syntax: Domains (without subdomains)
-# Number of entries: 15902
+# Number of entries: 15922
 #
 007slots.pro
 01jamuslot.click
@@ -2796,6 +2796,7 @@ asiabet777lwslot.site
 asiabet777lwtoto.site
 asiabet777maxwin.site
 asiabet777qugacor.site
+asiabet777uymaxwin.site
 asiabet77jbslot.site
 asiabet77lbslot.site
 asiabet77pbslot.site
@@ -3049,6 +3050,7 @@ ayuslot.vip
 ayuslot.xyz
 ayuslot2fun.xyz
 ayuslot2win.xyz
+ayutogels8882win.site
 ayutogels888win.site
 ayutogelzj193.com
 ayutogelzj301.com
@@ -5261,6 +5263,7 @@ ctoto121.com
 ctoto121.store
 cuaca138slot.com
 cuan123maxwin.site
+cuan123uymaxwin.site
 cuan247rtpid.xyz
 cuan303slot.com
 cuan365slot.com
@@ -6336,12 +6339,14 @@ dvtoto041.com
 dvtoto042.com
 dvtoto043.com
 dwg188slot.net
+dwg188uymaxwin.site
 dwg288higacor.site
 dwg288himaxwin.site
 dwg288hislot.site
 dwg288maxwin.site
 dwg288qugacor.site
 dwg288slot.com
+dwg288uymaxwin.site
 dwitogel.click
 dwptogel.click
 dynastislotwpoc.site
@@ -9221,7 +9226,9 @@ indoslot303profit.info
 indoslot303profit.ink
 indoslot303profit.lat
 indoslot303profit.live
+indoslot303profit.online
 indoslot303profit.pro
+indoslot303profit.sbs
 indoslot303profit.site
 indoslot303profit.space
 indoslot303profit.store
@@ -10913,6 +10920,7 @@ kkslot-777demo.top
 kkslot777.today
 kkslot7775.com
 kkslot777axis.top
+kkslot777big.top
 kkslot777biru.com
 kkslot777bos.top
 kkslot777cair.top
@@ -10926,10 +10934,12 @@ kkslot777gova.top
 kkslot777h.com
 kkslot777halo.top
 kkslot777hooki.top
+kkslot777hope.top
 kkslot777jayaa.top
 kkslot777joss.top
 kkslot777juara.top
 kkslot777kita.top
+kkslot777ku.top
 kkslot777laju.top
 kkslot777lamp.top
 kkslot777luna.top
@@ -11736,6 +11746,7 @@ linkslotbolatangkas.xyz
 linkslotcuan589.site
 linkslotcuan590.site
 linkslotcuan741.site
+linkslotcuan871.site
 linkslotcuan998.site
 linkslotdewatangkas.xyz
 linkslotlucky550.site
@@ -12599,6 +12610,7 @@ mastertogel719jpx.site
 mastertogel720jpx.site
 mastertogel721jpx.site
 mastertoto.xyz
+mastertoto123jp.site
 mastertoto338.org
 mastertotohoki329jpx.site
 mastertotohoki330jpx.site
@@ -12653,6 +12665,7 @@ mawartogel19ont.site
 mawartogel20ont.site
 mawartogel21ont.site
 mawartogel46ont.site
+mawartoto104.site
 mawartoto123.site
 mawartoto138hot.click
 mawartoto172cp.site
@@ -12902,6 +12915,7 @@ maxwin138fxkn.site
 maxwin138fxko.site
 maxwin138fxkz.site
 maxwin138fxnl.site
+maxwin138fxzen.site
 maxwin138fxzep.site
 maxwin138fxzin.site
 maxwin138fxzx.site
@@ -13831,6 +13845,7 @@ pragmatic138wm.site
 pragmatic138wme.site
 pragmatic138wmp.site
 pragmatic138wmq.site
+pragmatic138wms.site
 pragmatic138wmw.site
 pragmatic138wn.site
 pragmatic138wo.site
@@ -13856,6 +13871,7 @@ pragmatic138xk.site
 pragmatic138xl.site
 pragmatic138xn.site
 pragmatic138xni.site
+pragmatic138xnm.site
 pragmatic138xnq.site
 pragmatic138xo.site
 pragmatic138xp.site
@@ -14431,12 +14447,14 @@ shop-1.flightyapparel.com
 shop.amorfurnitureusa.com
 sinar123lbmaxwin.site
 sinar123maxwin.site
+sinar123uymaxwin.site
 single-slot777.site
 sinimahjong222.bond
 situs-bo-togel.piper.com
 situs.jaworskismarket.com
 situsgacor123was.site
 situsgacor2025.top
+situsgacor369.site
 situsgacor7788jp500x.site
 situsgacor999.site
 situslot777.click
@@ -14569,6 +14587,7 @@ slot777new.lol
 slot777new.vip
 slot777now.click
 slot777pp.site
+slot777rfv.site
 slot777s.cfd
 slot777s.click
 slot777s.lol
@@ -14741,6 +14760,7 @@ slothoki123.site
 slothoki128.xyz
 slothoki369.site
 slothoki818.site
+slothokidh130.site
 slothoku089.xyz
 slothoku168llm.site
 slothoku193.xyz
