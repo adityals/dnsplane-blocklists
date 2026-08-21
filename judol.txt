@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 21 Aug 2026 01:22 UTC
-# Version: 2026.0821.0122.45
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 21 Aug 2026 03:54 UTC
+# Version: 2026.0821.0354.29
 # Syntax: Domains (without subdomains)
-# Number of entries: 16063
+# Number of entries: 16056
 #
 007slots.pro
 01jamuslot.click
@@ -599,7 +599,6 @@
 24zeus007.com
 250supertotobet.icu
 250supertotobet.top
-251supertotobet.cam
 251supertotobet.icu
 252-slot.com
 252supertotobet.icu
@@ -3017,7 +3016,6 @@ auslots.site
 ausslots.site
 australian-slot.online
 australianslots.online
-australianslots.site
 authentikweddings.com
 auto7slot.xyz
 autoalertpay.xyz
@@ -10476,9 +10474,7 @@ kangtotoko234jp.site
 kangtotoko235jp.site
 kangtotoko236jp.site
 kangtotoko237jp.site
-kangtotoko238jp.site
 kangtotoko239jp.site
-kangtotoko240jp.site
 kangtotoko241jp.site
 kangtotoko365jp.live
 kangtotoku101x.cyou
@@ -13144,10 +13140,8 @@ maxwin888.best
 maxwin888.mobi
 maxwin888.online
 maxwin88spesial.xyz
-maxwin88team.click
 maxwin88team.lol
 maxwin88team.online
-maxwin88team.top
 maxwin930xhoki.site
 maxwin941xhoki.site
 maxwin950xhoki.site
@@ -13781,7 +13775,6 @@ palace303lwtoto.site
 palace303maxwin.site
 palace303qugacor.site
 palace303uymaxwin.site
-panda88.pwwidayati.com
 parlay-98.fincahotellamoni.com
 partaitogel001jpx.site
 partaitogel007xwd.site
