@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 20 Aug 2026 18:41 UTC
-# Version: 2026.0820.1841.43
+# Last modified: 21 Aug 2026 01:22 UTC
+# Version: 2026.0821.0122.45
 # Syntax: Domains (without subdomains)
-# Number of entries: 16012
+# Number of entries: 16063
 #
 007slots.pro
 01jamuslot.click
@@ -10512,10 +10512,13 @@ kanjengslott.click
 kanjengslott.sbs
 kantortoto.xyz
 kaostogel.xyz
+kaostotok.lol
 kapalslot.sbs
 kapaltogeltop1x.site
 kapaltoto.xyz
 kaptenslotbersama.xyz
+kaptentogelk.lol
+kaptentotok.lol
 karatetoto.click
 karirtoto.click
 karirtotocasino.xyz
@@ -10600,6 +10603,7 @@ kaskustotojji.site
 kaskustotoko88jpx.site
 kaskustotol25jp.site
 kaskustotol55jp.site
+kaskustotol63jp.site
 kaskustoton5jp.site
 kaskustotoq60jp.site
 kaskustotoq88jp.site
@@ -10641,6 +10645,8 @@ kaskustotoy52chc.site
 kaskustotoy53chc.site
 kaskustotoy55jp.site
 kaskustotoy5jp.site
+kaskustotoy5ugd1.site
+kaskustotoy5ugd2.site
 kaskustotoy69wd.site
 kaskustotoy78jp.site
 kaskustotoy87jp.site
@@ -10648,19 +10654,26 @@ kaskustotoy98jp.site
 kaskustotoyaa.site
 kaskustotoz5jp.site
 kaskustotozgg.site
+kasteltotok.lol
 kastil777slot.com
 kastogel228net.site
+kastogelk.lol
 kastotonxa.site
 kastotox055.site
 kastotoxmvp.site
 katak168slot.com
 katak365slot.com
 katakangacor.vip
+katatogelwin.top
 katatoto.online
+kawantotok.lol
 kawvegastogel88.site
 kaya789slot.com
 kaya789slot.net
 kaya888slot.com
+kayagacor.xyz
+kayagacor1.xyz
+kayagacor2.xyz
 kayatoto77.click
 kayatoto77.online
 kbcslots-game.site
@@ -10668,6 +10681,7 @@ kc9slot.online
 kdg138slot.com
 kdslot.click
 kdslot138.club
+kdslot777.bid
 kdslot777.net
 kdslot777.online
 kdslot777.site
@@ -10676,14 +10690,25 @@ kdslot888.xyz
 ke-rtpharum4d1.site
 ke-rtpharum4d4.online
 ke-rtpharum4d5.online
+kebayatotok.lol
 kebunsibayaktoto.site
+kebuntogelk.lol
 kebuntoto.click
 kebuntoto.top
 kebuntoto531jp.site
+kecaktoto88.sbs
 keceslots777.com
+kedai168slotdana.com
+kedai168slotdepo.com
+kedai168slotdeposit.com
+kedai168slotmahjong.com
+kedai168slotmaxwin.com
+kedai168slotonline.com
+kedai168slotovo.com
 kedai888slot.win
 kediritoto.sbs
 kediritoto.top
+kediritotoxit.site
 kedislots.xyz
 keenslot.xyz
 keepmanchesterslotsfun.xyz
@@ -10692,6 +10717,7 @@ kejoraslotalternatif.xyz
 keju138slot.com
 kejutanslot.vip
 kejutoto583bro.live
+kejutotok.lol
 kelapatoto.online
 kelas-humastogel.online
 kelas198slot.com
@@ -10701,6 +10727,7 @@ kemawarslotaja.bond
 kembang777slot.com
 kembar888slot.com
 kembarjituslot.vip
+kembartotok.lol
 kenangan889rtpw.xyz
 kenangan889tyrtp.xyz
 kenatoto.click
@@ -10736,6 +10763,7 @@ kenzototo51jkb.site
 kenzototo51kpz.site
 kenzototo51pkw.site
 kenzototo52hyu.site
+kenzototo5ugd1.site
 kenzototo7ij.sbs
 kenzototo936ypl.site
 kenzototogas.site
@@ -10747,7 +10775,10 @@ keongtogelbig.xyz
 keongtogelemas.xyz
 keongtogelfun.xyz
 keongtogelovo.xyz
+keongtotok.lol
 keperawatanslot777.site
+kepotogelk.lol
+kepototok.lol
 kepritogel.sbs
 kepritogel001jpx.site
 kepritogel020jpx.site
@@ -10781,6 +10812,7 @@ kerajaanslotplay.xyz
 kerangslot.click
 kerangslot888.com
 keraslot.vip
+keratontotok.lol
 kerelagovtslottery.online
 kerenapizeusedu-cd.xyz
 keris4drtp.top
@@ -10813,21 +10845,28 @@ kfjanxqpowmzla298-f2togel.store
 kgslots.online
 khususrtp.xyz
 kiaislotvip-gacor.xyz
+kiaslot.online
+kiatogelk.lol
 kicautoto-marga.online
 kicautoto.xyz
 kicautotoae.site
 kicautotoslot.xyz
 kidcredit.bedfordfallsusa.com
 kids.infanttoddlerfoods.com
+kientoto.top
+kijang-toto.xyz
 kijang500-rtp6.site
 kiki123slot.com
 kikislot.xyz
 kikomaxwin333.site
 kilat131slot.com
 kilat368slot.com
+kilat404slot.net
+kilat404slotlogin.com
 kilat777slot.com
 kilatmaxwin.top
 kilau4dslot.vip
+kimtogelk.lol
 kimtoto.click
 kimtoto.site
 kimtoto1.site
@@ -10950,6 +10989,7 @@ kingdomtotoxsap.site
 kingdomtotoxsrt.site
 kingdomtotoxsup.site
 kingdomtotozo.site
+kinggacor188.org
 kinggame365-slot888.com
 kinghorsetoto5ghj.sbs
 kinghorsetoto6dg.site
@@ -10957,6 +10997,7 @@ kinghorsetoto6ed.sbs
 kinghorsetoto6sxz.sbs
 kinghorsetoto6vd.sbs
 kinghorsetoto6vf.site
+kinghorsetoto7gfd.sbs
 kinghorsetotox10.click
 kingkongtotohoki896jp.site
 kingkongxo-slot.lol
@@ -10964,6 +11005,7 @@ kingrtpkribo.vip
 kingslot-234.com
 kingslot168.asia
 kingslot168.life
+kingslot168.world
 kingslot367.xyz
 kingslot7.xyz
 kingslot777.bet
@@ -10977,6 +11019,7 @@ kingslot999.bet
 kingtoto4d.online
 kingtoto66.online
 kingtoto78aksesmasuk.xyz
+kinitotowin88.online
 kios888slot.com
 kiostoto228.org
 kipas123slot.com
@@ -11001,6 +11044,7 @@ kjezinoslota.site
 kjgslot396.xyz
 kjtoto.vip
 kkslot-777demo.top
+kkslot.xyz
 kkslot777.today
 kkslot7775.com
 kkslot777axis.top
@@ -11014,6 +11058,7 @@ kkslot777emas.top
 kkslot777fell.top
 kkslot777fide.top
 kkslot777flux.top
+kkslot777go.com
 kkslot777gova.top
 kkslot777h.com
 kkslot777halo.top
@@ -11026,11 +11071,13 @@ kkslot777kita.top
 kkslot777ku.top
 kkslot777laju.top
 kkslot777lamp.top
+kkslot777login.info
 kkslot777luna.top
 kkslot777m.com
 kkslot777mine.top
 kkslot777muse.top
 kkslot777neo.top
+kkslot777nerf.com
 kkslot777nexa.top
 kkslot777o.com
 kkslot777ok.com
@@ -11038,13 +11085,17 @@ kkslot777opes.top
 kkslot777ora.top
 kkslot777proo.top
 kkslot777raja.top
+kkslot777raya.org
 kkslot777rbxjp.live
 kkslot777rex.top
+kkslot777sora.org
 kkslot777sun.top
 kkslot777t.com
 kkslot777toba.top
 kkslot777trip.top
 kkslot777v.com
+kkslot777vanta.org
+kkslot777vexa.org
 kkslot777vibe.top
 kkslot777vora.top
 kkslot777x.com
