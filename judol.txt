@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 21 Aug 2026 06:51 UTC
-# Version: 2026.0821.0651.42
+# Last modified: 21 Aug 2026 12:51 UTC
+# Version: 2026.0821.1251.56
 # Syntax: Domains (without subdomains)
-# Number of entries: 16069
+# Number of entries: 16108
 #
 007slots.pro
 01jamuslot.click
@@ -224,6 +224,7 @@
 168slot.best
 168slot.bid
 168slot.bio
+168slot.fyi
 168slot.one
 168slot.onl
 168slot.pro
@@ -250,6 +251,7 @@
 171slots.vip
 171slotsagen.com
 171slotterbaik.com
+171slotw.com
 177slot.win
 177winbetslot.com
 178togel.xyz
@@ -690,6 +692,7 @@
 380slote.com
 380slotmax.com
 380slotmpo.com
+380slotr.com
 380slotterbaik.com
 380slotv.com
 388slot.club
@@ -855,6 +858,7 @@
 678luckslot.com
 678slot.biz
 678slot.click
+678slot.games
 678slots.best
 678slots.bid
 678slots.biz
@@ -906,9 +910,11 @@
 687slots.net
 688slot.biz
 688slot.click
+689slot.bid
 689slot.bio
 689slot.biz
 689slot.click
+689slot.games
 689slot.onl
 689slots.best
 689slots.bet
@@ -941,6 +947,7 @@
 6rtpwifi.click
 709zeusm.com
 70pinasscatter.xyz
+711slot.onl
 711slotmy.com
 711slots.net
 718slot.net
@@ -1049,6 +1056,7 @@
 777slothoki991dh.live
 777slothoki991dh.site
 777slotjp.com
+777slotjpx128.space
 777slotlogin.bet
 777slotlucky550.site
 777slotlucky551.site
@@ -1090,6 +1098,7 @@
 777slotwin5589.site
 777toto.xyz
 777wwcasinoslots.info
+7788toto.org
 778slotbank.com
 779slotbank.com
 77dragonslotonline.xyz
@@ -1149,6 +1158,7 @@
 8090slot.bio
 8090slot.biz
 8090slot.click
+8090slot.win
 8090slots.bet
 809slot.org
 80pinasscatter.xyz
@@ -1261,6 +1271,7 @@
 888slothoki991dh.site
 888slothoku8.space
 888slotjepe.lat
+888slotjpresmi128.space
 888slotking.com
 888slotlucky550.site
 888slotlucky551.site
@@ -1277,6 +1288,7 @@
 888slotpaz.site
 888slots-jit.com
 888slots.cash
+888slots.fyi
 888slots.games
 888slots.io
 888slots.life
@@ -1594,6 +1606,7 @@ adiktotok.lol
 adil777slot.com
 adindoslot303.com
 adipatislot.click
+adipatislot.top
 admintogelk.lol
 admiralslot-wyj.site
 admtogelk.lol
@@ -1815,6 +1828,7 @@ akungacor101.shop
 akungacor102.shop
 akungacorpalu4d.xyz
 akunmediaslot88.vip
+akuntogelk.lol
 akuntoto168.tech
 akurat-gacor.top
 akurat168slot.net
@@ -1837,6 +1851,7 @@ albaslot123jp.lat
 albaslot2.xyz
 albaslotamp.site
 albaslotcgk.site
+albaslotkrwd.site
 albaslotxlp.site
 albaslotxwqb.site
 albaslotyuk.site
@@ -2090,6 +2105,7 @@ alexistoto293.live
 alexistoto299.live
 alexistoto303hot.shop
 alexistoto31ont.site
+alexistoto321.live
 alexistoto324.live
 alexistoto325.live
 alexistoto326.live
@@ -2097,6 +2113,7 @@ alexistoto328gc.site
 alexistoto334.live
 alexistoto335.live
 alexistoto337.live
+alexistoto340.live
 alexistoto342.live
 alexistoto343.live
 alexistoto344.live
@@ -2121,6 +2138,7 @@ alexistoto433.live
 alexistoto448.live
 alexistoto449.live
 alexistoto451.live
+alexistoto452.live
 alexistoto453.live
 alexistoto456.live
 alexistoto459.live
@@ -2146,6 +2164,7 @@ alexistoto507.live
 alexistoto508.live
 alexistoto509.live
 alexistoto50ont.site
+alexistoto514.live
 alexistoto51ont.site
 alexistoto521.live
 alexistoto523.live
@@ -2281,6 +2300,7 @@ alibabaslot.icu
 alibabaslot.xyz
 alientogel.xyz
 alientotok.lol
+alilaslotk.lol
 allalertpay.xyz
 allcoinsslot.top
 alldeslots.site
@@ -2329,6 +2349,7 @@ alpatoto.cfd
 alpatoto.online
 alpatoto.xyz
 alphaslot77.vip
+alt1-pocketslot777.ink
 alt11-ktm303gacor.pro
 alt12-ktm303gacor.pro
 alt123toto.com
@@ -2455,6 +2476,7 @@ ampslotdp10k.site
 ampsritoto.online
 amptangkaptoto.site
 amptoto228.site
+ampvioslot-galaxy.cfd
 ampzeus007.vip
 ams789slot.com
 amsslot.sbs
@@ -2663,6 +2685,7 @@ apihebatzeus-q.xyz
 apiktogelk.lol
 apintoto.click
 apislot.site
+apislotk.lol
 apizeus777-amp1.online
 apizeus777apk.com
 apizeus777id.com
@@ -14309,6 +14332,7 @@ rtpgacorpremium138.xyz
 rtpgasing777.click
 rtpgemoy123.xyz
 rtphokicuan168.online
+rtpids388.online
 rtpjasabet138.xyz
 rtpjendral888slot.xyz
 rtpjitu-koi855.vip
@@ -14596,12 +14620,14 @@ situs.jaworskismarket.com
 situsgacor123was.site
 situsgacor2025.top
 situsgacor369.site
+situsgacor469was.site
 situsgacor7788jp500x.site
 situsgacor999.site
 situslot777.click
 situsslot777-yume.site
 situsslot777.click
 situsslot777jpmax.site
+situsslota182e.site
 situsslotjpx100.site
 situstigerslot168.xyz
 situstoto176.vip
@@ -14750,6 +14776,7 @@ slot777x.xyz
 slot777xgoal55.site
 slot777xgoal552.site
 slot777xgoal553.site
+slot777xtop1.online
 slot789.click
 slot798-alt.site
 slot798-apk.site
@@ -14844,6 +14871,7 @@ slotbet100.site
 slotbet200.site
 slotbet200.vip
 slotbonus100.nehruplanetarium.org
+slotbosscuan246.site
 slotbosslucky550.site
 slotbosslucky551.site
 slotbosslucky552.site
@@ -14872,6 +14900,7 @@ slotgacor138.top
 slotgacor2024bbd.xyz
 slotgacor2024markas.xyz
 slotgacor288.xyz
+slotgacor861psw.site
 slotgacorkodokhoki889.online
 slotgama101.site
 slotgama201.site
@@ -14880,6 +14909,7 @@ slotgama401.site
 slotgama501.site
 slotgame6666s.click
 slotgame666d.click
+slotgamedh856.site
 slotgamescuan106.site
 slotgamescuan177.site
 slotgamescuan550.site
@@ -14902,6 +14932,7 @@ slothoki128.xyz
 slothoki369.site
 slothoki818.site
 slothokidh130.site
+slothokidh643.site
 slothoku089.xyz
 slothoku168llm.site
 slothoku193.xyz
@@ -14922,6 +14953,7 @@ slothokux7788jp.site
 slotify808kuat.xyz
 slotindolucky550.site
 slotjago777.xyz
+slotjpcuan819.site
 slotjplucky321.site
 slotjplucky436.site
 slotjplucky452.site
@@ -15308,6 +15340,7 @@ toto123hok32.site
 toto123hot.lol
 toto123livebet.lol
 toto123new.lol
+toto123rmw.site
 toto123xwin72.site
 toto123xwin73.site
 toto125hoki.site
@@ -15376,7 +15409,11 @@ toto234bagus.sbs
 toto234enak.click
 toto234enak.sbs
 toto234enak.top
+toto234siap.click
+toto234siap.sbs
 toto234siap.top
+toto234yes.click
+toto234yes.sbs
 toto234yes.top
 toto238.xyz
 toto268.xyz
@@ -15892,6 +15929,7 @@ zeus007.xyz
 zeus007geledek.vip
 zeus007juara.online
 zeus123.click
+zeus123wmp.site
 zeus128win5501.site
 zeus128win5502.site
 zeus138.click
@@ -16042,6 +16080,7 @@ zeus2701.xyz
 zeus3476.xyz
 zeus777.site
 zeus800-naik.xyz
+zeus838yes.site
 zeus889.xyz
 zeus88hoki991dh.site
 zeus99dh128.site
