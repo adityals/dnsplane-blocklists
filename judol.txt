@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 21 Aug 2026 03:54 UTC
-# Version: 2026.0821.0354.29
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 21 Aug 2026 06:51 UTC
+# Version: 2026.0821.0651.42
 # Syntax: Domains (without subdomains)
-# Number of entries: 16056
+# Number of entries: 16069
 #
 007slots.pro
 01jamuslot.click
@@ -1153,6 +1153,7 @@
 809slot.org
 80pinasscatter.xyz
 8180slot.com
+818kingslot.vip
 818slot.bet
 818slot.bio
 818slot.biz
@@ -9422,6 +9423,7 @@ jabartoto.click
 jabartoto.top
 jabartoto1xit.site
 jabartoto7772win.site
+jabartoto8885win.site
 jabartotowdx180.cyou
 jablay123gacor.xyz
 jablay123slot.net
@@ -11800,6 +11802,7 @@ link303gacorwin.site
 link303maxwin.site
 link5vegasslot77.xyz
 link5warungtoto.xyz
+link630gacorwin.site
 linkaltasiaslot777.xyz
 linkaltdewatogel138.xyz
 linkalternatifsbobet.net
@@ -12558,9 +12561,11 @@ mahjongx796jp.live
 mahjongx797jp.live
 mahjongx798jp.live
 mahjongx799jp.live
+mahjongx804jp.site
 mahjongx876jp.site
 mahjongx877jp.site
 mahjongx878jp.site
+mahjongx911jp.site
 mahjongx923jp.live
 mahjongx972jp.live
 mahjongx990jp.site
@@ -12798,6 +12803,7 @@ mawartogel21ont.site
 mawartogel46ont.site
 mawartoto104.site
 mawartoto123.site
+mawartoto124.site
 mawartoto138hot.click
 mawartoto172cp.site
 mawartoto21ont.site
@@ -13000,7 +13006,9 @@ maxwin119xcuan.site
 maxwin121khn.site
 maxwin122.online
 maxwin122xcuan.site
+maxwin123fxcik.site
 maxwin123jnd.site
+maxwin123super.top
 maxwin125oin.site
 maxwin125xcuan.site
 maxwin127ksn.site
@@ -13033,7 +13041,9 @@ maxwin138fixwiz.site
 maxwin138fixze.site
 maxwin138fkjo.site
 maxwin138fkzp.site
+maxwin138fxbc.site
 maxwin138fxcc.site
+maxwin138fxch.site
 maxwin138fxje.site
 maxwin138fxjep.site
 maxwin138fxjk.site
@@ -13379,6 +13389,8 @@ mobile.prediksihkpools.top
 mollificiopadano.com
 monperatoto121jp.site
 monperatoto131jp.site
+morototojkqs7253.xyz
+morototolcwd9128.xyz
 motoslot777.xyz
 mozarella.talamospizzas.com
 mpo111gacor.top
@@ -13768,6 +13780,7 @@ pajaktotoku559jp.site
 pajaktotoku560jp.site
 pajaktotoku561jp.site
 pajaktotowd311jp.site
+palace303hxmaxwin.site
 palace303lwgacor.site
 palace303lwmaxwin.site
 palace303lwslot.site
