@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 22 Aug 2026 01:19 UTC
-# Version: 2026.0822.0119.12
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 22 Aug 2026 03:46 UTC
+# Version: 2026.0822.0346.48
 # Syntax: Domains (without subdomains)
-# Number of entries: 16204
+# Number of entries: 16195
 #
 007slots.pro
 01jamuslot.click
@@ -3528,8 +3528,6 @@ bcl138slot.com
 bcltoto.click
 bd777slots.pro
 bdgacor138.net
-bdgacor138.org
-bdgacor168.org
 bdslot.click
 bdslot188.org
 bdslot288.net
@@ -3815,7 +3813,6 @@ bigslot288xyz5.cyou
 bigslot288xyz6.cyou
 bigslot288xyz7.cyou
 bigslot289.com
-bigslot303.com
 bigslot777.mobi
 bigslot88.online
 bigtogelk.lol
@@ -5871,7 +5868,6 @@ demoslotbalaksix08.xyz
 demoslotgratis1.bargorriti.com
 demoslotjoyotogel.xyz
 demoslotketupattoto.xyz
-demoslotpg.click
 demoslotrupiah.org
 demoslots.site
 demoslots.top
@@ -6333,7 +6329,6 @@ dubai666slot.club
 dubaiescortp.sbs
 dubainettoto.online
 dubaislot.click
-dubaislot971.com
 dubaislothb.lol
 dubaitoto332jp.live
 dubaitoto50chc.site
@@ -8587,7 +8582,6 @@ hokinew189rtp.sbs
 hokinew189rtp.xyz
 hokislot168.info
 hokislot333.org
-hokislot365.org
 hokislot798.me
 hokislot88aa.top
 hokitoto.click
@@ -9462,8 +9456,6 @@ interslot777.com
 intertogel.click
 interwin368slot.com
 intislot.top
-intislot777.net
-intislot777.org
 inukrainestudy.com
 inuyashaslotoncasi.xyz
 inviteslots.top
@@ -12841,7 +12833,6 @@ maskot168slot.com
 maslot168x.click
 massagemanggatoto.site
 masterslot365.org
-masterslot368.org
 masterslot88asli.top
 masterslot88new.top
 masterslot88sbs.top
