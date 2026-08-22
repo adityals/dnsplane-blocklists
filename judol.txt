@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 22 Aug 2026 03:46 UTC
-# Version: 2026.0822.0346.48
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 22 Aug 2026 06:43 UTC
+# Version: 2026.0822.0643.25
 # Syntax: Domains (without subdomains)
-# Number of entries: 16195
+# Number of entries: 16219
 #
 007slots.pro
 01jamuslot.click
@@ -1035,6 +1035,7 @@
 777slot.team
 777slot.tech
 777slot.vin
+777slot123128j.site
 777slot55acuan.site
 777slot9903dh.site
 777slot9904dh.site
@@ -1686,10 +1687,14 @@ agenslot188.online
 agenslot188.shop
 agenslot188.website
 agenslot188.wiki
+agenslot188access.top
+agenslot188center.site
 agenslot188gacor.site
 agenslot188hoki.top
 agenslot188id.com
+agenslot188now.site
 agenslot188ori.com
+agenslot188space.top
 agenslot368.com
 agenslot388.net
 agenslotez338.club
@@ -5194,6 +5199,7 @@ congtogel108jpx.site
 congtogel117jpx.site
 congtogel123.com
 congtogel189it.site
+congtogel210jpx.site
 congtogel218rx.site
 congtogel258il.site
 congtogel258qs.site
@@ -5852,6 +5858,7 @@ demokkslot-777.sbs
 demon189slot.com
 demoslot.bond
 demoslot1000.org
+demoslot128j.site
 demoslot77.lol
 demoslot777.net
 demoslot7777.org
@@ -7746,6 +7753,7 @@ garuda888slot.org
 garuda888slot777.site
 garudagacor.site
 garudaslot.click
+garudaslot128j.site
 garudatogelk.lol
 garudatotowin.xyz
 gasing777rtp.rest
@@ -7926,6 +7934,7 @@ ggjudiakunslot.top
 ggjudijackpotslot.top
 ggjudislot303.top
 ggjudislot99.top
+ggjudislot999.top
 ggjudislotgg.top
 ggjudislothoki.top
 ggjudislotultra.top
@@ -10296,6 +10305,7 @@ judolbetxgoal553.site
 judolbob303.xyz
 judolcol303.xyz
 judoldom303.xyz
+judolele303.xyz
 judolhoki88.click
 judolian303.xyz
 judolkiw303.xyz
@@ -10305,6 +10315,7 @@ judolo303q.com
 judolpor303.xyz
 judolprw303.xyz
 judolsto303.xyz
+judoltel303.xyz
 judoltoc303.xyz
 jujuslot.online
 juleslot-amp.site
@@ -11914,6 +11925,7 @@ link303maxwin.site
 link5vegasslot77.xyz
 link5warungtoto.xyz
 link630gacorwin.site
+link921gacormenang.site
 linkaltasiaslot777.xyz
 linkaltdewatogel138.xyz
 linkalternatifsbobet.net
@@ -12589,6 +12601,7 @@ mahjongx138jp.site
 mahjongx202jp.live
 mahjongx225jp.live
 mahjongx234jp.live
+mahjongx238rav.site
 mahjongx255jp.live
 mahjongx265jp.live
 mahjongx293jp.site
@@ -12857,6 +12870,7 @@ mastertogel720jpx.site
 mastertogel721jpx.site
 mastertoto.xyz
 mastertoto123jp.site
+mastertoto231jp.site
 mastertoto338.org
 mastertotohoki329jpx.site
 mastertotohoki330jpx.site
@@ -13138,6 +13152,9 @@ maxwin138fikjo.site
 maxwin138fikke.site
 maxwin138fix.site
 maxwin138fixd.site
+maxwin138fixdi.site
+maxwin138fixdo.site
+maxwin138fixgg.site
 maxwin138fixhe.site
 maxwin138fixjo.site
 maxwin138fixjr.site
@@ -13154,6 +13171,9 @@ maxwin138fkzp.site
 maxwin138fxbc.site
 maxwin138fxcc.site
 maxwin138fxch.site
+maxwin138fxdg.site
+maxwin138fxgcr.site
+maxwin138fxgd.site
 maxwin138fxje.site
 maxwin138fxjep.site
 maxwin138fxjk.site
@@ -13315,6 +13335,7 @@ maxwinsahamtoto.online
 maxwinslot55acuan.site
 maxwinslotcuan55b.site
 maxwinslotcuan55c.site
+maxwinslotdh9922.site
 maxwinz149ok.site
 maxwinz152ok.site
 maxwinz155ok.site
@@ -14226,6 +14247,7 @@ radio.alfaestereoneiva.com
 rajabet123rtpslot.xyz
 rajagacor888.online
 rajahoki168gacor.xyz
+rajaslot128j.site
 rajaslot138.online
 rajaslot138.top
 rajaslot138hot.click
@@ -14336,6 +14358,7 @@ royaltoto347jpx.site
 royaltotoslot777.site
 rrtp-fungame777.sbs
 rrtp168-jackpot.top
+rrttpkkslot777.top
 rtp-epicwin138.vip
 rtp-epicwin138.xyz
 rtp-fungame777.top
@@ -14411,6 +14434,7 @@ rtpdeluna188d.xyz
 rtpdeluna188hepi.xyz
 rtpdelunabet188.xyz
 rtpdragonvvip888.xyz
+rtpduren777st.site
 rtpfruit777.cfd
 rtpfungame-777.top
 rtpgacor-gebyar123.xyz
