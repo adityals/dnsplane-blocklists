@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 23 Aug 2026 03:54 UTC
-# Version: 2026.0823.0354.13
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 23 Aug 2026 06:43 UTC
+# Version: 2026.0823.0643.45
 # Syntax: Domains (without subdomains)
-# Number of entries: 16341
+# Number of entries: 16368
 #
 007slots.pro
 01jamuslot.click
@@ -666,6 +666,7 @@
 365rajaslot.com
 365slot.bio
 365slot.click
+365slot.site
 365slot.store
 365slot.wine
 365slotcom.com
@@ -2850,6 +2851,7 @@ asia123slot.org
 asia200toto.com
 asia777slots.com
 asia988slot.net
+asiabet777cxmaxwin.site
 asiabet777lbmaxwin.site
 asiabet777lwgacor.site
 asiabet777lwmaxwin.site
@@ -3816,6 +3818,7 @@ bigslot188mxvq.site
 bigslot188sor.xyz
 bigslot238.org
 bigslot288.xyz
+bigslot288at.site
 bigslot288duax.site
 bigslot288id.cfd
 bigslot288id.forum
@@ -5890,6 +5893,7 @@ delunatotok.lol
 demo-slot-pragmatic.xyz
 demokkslot-777.sbs
 demon189slot.com
+demookkslot777.top
 demoslot.bond
 demoslot1000.org
 demoslot128j.site
@@ -6484,9 +6488,11 @@ dvtoto042.com
 dvtoto043.com
 dwg188slot.net
 dwg188uymaxwin.site
+dwg288cxmaxwin.site
 dwg288higacor.site
 dwg288himaxwin.site
 dwg288hislot.site
+dwg288hxmaxwin.site
 dwg288maxwin.site
 dwg288qugacor.site
 dwg288slot.com
@@ -9049,6 +9055,7 @@ idksslot.xyz
 idmaxwin500.com
 idn88maxwin.top
 idnslot.click
+idnslot123ray.site
 idnslot640qvn.site
 idnslot711top.live
 idnslot808trk.live
@@ -9872,6 +9879,7 @@ jeboltogele521jpx.site
 jeboltogele522jpx.site
 jeboltogele523jpx.site
 jeboltogelresto2.site
+jeboltogelx77723.site
 jebolwdtoto.online
 jebret188slot.com
 jeeptoto.click
@@ -10364,6 +10372,7 @@ judol88win5502.site
 judol88win5503.site
 judol88win5504.site
 judolast303.xyz
+judolbag303.xyz
 judolbai303.xyz
 judolbel303.com
 judolbet55acuan.site
@@ -10391,6 +10400,7 @@ judolbetxgoal553.site
 judolbob303.xyz
 judolcol303.xyz
 judoldom303.xyz
+judolegr303.xyz
 judolele303.xyz
 judolhoki88.click
 judolian303.xyz
@@ -10515,6 +10525,7 @@ kakek308xrv.site
 kakek308xtl.live
 kakek309hfm.site
 kakek309nix.live
+kakek309qzr.site
 kakek338.net
 kakek338.org
 kakek4d.site
@@ -11356,6 +11367,7 @@ koinslot777win.site
 koinslot888.org
 koinslot888.top
 kointogel.xyz
+koislot988slt.site
 koitogel.site
 koitogel.xyz
 koitoto001jpx.site
@@ -13004,6 +13016,7 @@ mastertotohoki351jpx.site
 mastogel113.com
 mastogel114.com
 mastoto77.vip
+mastoto8885win.site
 masukkoinslot168.site
 masukratuslot303.xyz
 masukslot.xyz
@@ -13054,6 +13067,7 @@ mawartoto5610.pro
 mawartoto77.xyz
 mawartoto88.xyz
 mawartoto88bet.click
+mawartoto988slt.site
 mawartotoabc.site
 mawartotoaxmntp.site
 mawartotobb.site
@@ -13292,6 +13306,7 @@ maxwin138fxkn.site
 maxwin138fxko.site
 maxwin138fxkz.site
 maxwin138fxnl.site
+maxwin138fxtop.site
 maxwin138fxzen.site
 maxwin138fxzep.site
 maxwin138fxzin.site
@@ -13480,6 +13495,7 @@ mcd.burgersontherun.com
 me777slot.click
 meetang168-slot.online
 mega118rtp.online
+mega288rtp.site
 mega388maxwin.site
 megaslot188.xyz
 megaslot288.icu
@@ -14015,6 +14031,7 @@ pajaktotoku559jp.site
 pajaktotoku560jp.site
 pajaktotoku561jp.site
 pajaktotowd311jp.site
+palace303cxmaxwin.site
 palace303hxmaxwin.site
 palace303lwgacor.site
 palace303lwmaxwin.site
@@ -14268,6 +14285,7 @@ pragmaticbigbassbonanza1000.click
 pragmaticbigbassbonanza1000.lol
 pragmatick1380.site
 pragmatick1381.site
+pragmaticplayangkot777.site
 prediksi.bocoranhk.me
 prediksi4d.online
 prediksigardatoto888.xyz
@@ -14476,6 +14494,7 @@ rtp-maxwin138.vip
 rtp-maxwin138.xyz
 rtp-newraja328.online
 rtp-newraja328.xyz
+rtp-nobi138.site
 rtp-roda777.xyz
 rtp-slot.cuddlememontessorischool.com
 rtp-slot.eddievarelaformayor.com
@@ -14825,6 +14844,7 @@ sggm-1.the-blackbird-cafe.com
 shermanoaksnailsalon.com
 shop-1.flightyapparel.com
 shop.amorfurnitureusa.com
+sinar123hxmaxwin.site
 sinar123lbmaxwin.site
 sinar123maxwin.site
 sinar123uymaxwin.site
@@ -14935,6 +14955,7 @@ slot777a.lol
 slot777a.sbs
 slot777a.xyz
 slot777alt.site
+slot777angkot.site
 slot777bet.lol
 slot777bos.lol
 slot777chile.site
@@ -14995,6 +15016,8 @@ slot777xgoal552.site
 slot777xgoal553.site
 slot777xsip5.online
 slot777xtop1.online
+slot777xtop2.online
+slot777xtop3.online
 slot777xtop6.online
 slot789.click
 slot798-alt.site
@@ -15113,6 +15136,7 @@ slotdayak777.site
 slotdemo-fungame777.top
 slotdemo-jackpot168.top
 slotdemoakun.exoticwheelsindia.com
+slotdemoangkot777.site
 slotdepo10k.choosemollybarr.com
 slotdh99131.site
 sloter887772.site
@@ -15153,6 +15177,7 @@ slothoki123.site
 slothoki128.xyz
 slothoki369.site
 slothoki818.site
+slothoki861jp.site
 slothokidh130.site
 slothokidh643.site
 slothoku089.xyz
@@ -15160,6 +15185,7 @@ slothoku168llm.site
 slothoku193.xyz
 slothoku212.site
 slothoku228.click
+slothoku236.site
 slothoku238.xyz
 slothoku268.xyz
 slothoku329.xyz
@@ -15208,6 +15234,7 @@ slotmacaulucky552.site
 slotmacaulucky553.site
 slotmacaulucky554.site
 slotmacaulucky555.site
+slotmahjongangkot777.site
 slotmpo168c.xyz
 sloto123.online
 slotonline2023.xyz
