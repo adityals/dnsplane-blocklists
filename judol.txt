@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 24 Aug 2026 02:11 UTC
-# Version: 2026.0824.0211.25
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 24 Aug 2026 03:58 UTC
+# Version: 2026.0824.0358.11
 # Syntax: Domains (without subdomains)
-# Number of entries: 16585
+# Number of entries: 16584
 #
 007slots.pro
 01jamuslot.click
@@ -14727,7 +14727,6 @@ rtp365slot25.online
 rtp3bonbon777.xyz
 rtp4-angkasa168.xyz
 rtp711antirungkad.xyz
-rtp777.click
 rtp777.xyz
 rtp787-ttm.xyz
 rtp789dxgas.site
