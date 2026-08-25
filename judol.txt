@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 25 Aug 2026 06:52 UTC
-# Version: 2026.0825.0652.20
+# Last modified: 25 Aug 2026 12:51 UTC
+# Version: 2026.0825.1251.13
 # Syntax: Domains (without subdomains)
-# Number of entries: 16737
+# Number of entries: 16790
 #
 007slots.pro
 01jamuslot.click
@@ -1840,6 +1840,7 @@ akbtoto238.xyz
 akgtotok.lol
 akiratoto.vip
 akitogelk.lol
+akpoltoto.online
 aks1300slot.club
 aks3004slot.club
 aksaratogelk.lol
@@ -1861,9 +1862,11 @@ akslot888.click
 aku777slot.com
 akudewislot77.cfd
 akudewislot77.click
+akudewislot77.lol
 akudewislot77.xyz
 akund-emoslotpg.oystergrotto.com
 akundemo.museummputantular.com
+akundemoslot.site
 akundemoslotgacor.online
 akungacor101.shop
 akungacor102.shop
@@ -2180,6 +2183,7 @@ alexistoto372.live
 alexistoto375.live
 alexistoto379.live
 alexistoto383.live
+alexistoto384.live
 alexistoto385.live
 alexistoto386.live
 alexistoto388.live
@@ -2274,6 +2278,7 @@ alexistoto672.live
 alexistoto677.live
 alexistoto678.live
 alexistoto67ont.site
+alexistoto684.live
 alexistoto68ont.site
 alexistoto69ont.site
 alexistoto70ont.site
@@ -2474,6 +2479,7 @@ altogelwdx059.site
 altogelwdx064.site
 altogelwdx072.live
 altogelwdx073.live
+altogelwdx074.live
 altogelwdx075.live
 amahatotok.lol
 aman788slot.net
@@ -2543,6 +2549,7 @@ ampslotdp10k.site
 ampsritoto.online
 amptangkaptoto.site
 amptoto228.site
+amptoto328.digital
 ampvioslot-galaxy.cfd
 ampzeus007.vip
 ams789slot.com
@@ -3017,6 +3024,7 @@ aston777maxwin.site
 astonslot-rtp99.online
 astotok.lol
 astratogelk.lol
+astratoto1.site
 astro168slot.com
 astroslot.online
 asupantoto.xyz
@@ -3321,6 +3329,7 @@ bandar-togel-volvototo.online
 bandar123slot.net
 bandar404slot.com
 bandar555slot.com
+bandaratotok.lol
 bandarbola855gacor.com
 bandarslot138jp.com
 bandarslot168.org
@@ -3438,6 +3447,7 @@ bangkoktotoxsi32.site
 bangkoktotoxsipp22.site
 banglaslot.click
 bangsawan888slot.com
+bangsawanslotk.lol
 bangslotasli.xyz
 bank303rtp.com
 bank303slot.club
@@ -3678,6 +3688,7 @@ bebtoto60.xyz
 bebtoto75.click
 bejo168slot.com
 bejo88slot.vip
+bejoslot.vip
 bejototo-888.id
 bejototo-situstogeldan-slotgacor.online
 bejototo4d.vip
@@ -3981,6 +3992,7 @@ biruslot.online
 biruslot123.net
 biruslot138.org
 biruslot168.com
+biruslotk.lol
 birutoto.bond
 birutoto.cfd
 birutoto.click
@@ -4022,6 +4034,7 @@ birutoto4cv.site
 birutoto6.vip
 birutoto65vbm.site
 birutoto726max.site
+birutoto80cv.cfd
 birutoto88.lol
 birutoto9.top
 birutoto9.xyz
@@ -4570,6 +4583,7 @@ brojpgacor.xyz
 bromo138slot.org
 bromo777slot.com
 bromo777slot.net
+broslotk.lol
 brotogel.click
 brown.bakeryadda.com
 brslots136.com
@@ -4654,6 +4668,7 @@ bundatoto23.online
 bung138slot.com
 bung168slot.com
 bungaslot.click
+bungaslot4.online
 bungaslot5.online
 bungaslotone.online
 bungaslotone.xyz
@@ -4776,6 +4791,7 @@ cahayatoto8der.cfd
 cahayatoto905jpx.site
 cahayatoto915jpx.site
 cahayatoto943sol.site
+cahayatoto94pp.site
 cahayatoto960jpx.site
 cahayatoto9933jpx.site
 cahayatotoki368it.site
@@ -4816,6 +4832,8 @@ cahayatotoku233x.cyou
 cahayatotoku234x.cyou
 cahayatotoku235x.cyou
 cahayatotoku236x.cyou
+cahayatotoku237x.cyou
+cahayatotoku238x.cyou
 cahayatotor0w.site
 cahayatotor1w.site
 cahayatotoslot777.site
@@ -5031,6 +5049,7 @@ cawan387slot.club
 cawantoto.top
 cazeus-casinos.site
 cazeuscasino-de.top
+cbrslotk.lol
 cbtoto.xyz
 cctvslot.xyz
 cdrpsb.org
@@ -5365,6 +5384,7 @@ congtogel771xjp.lat
 congtogel88.online
 congtogel88.top
 congtogel889jpx.site
+congtogel89gh.sbs
 congtogel8hj.sbs
 congtogel905jpx.site
 congtogel915jpx.site
@@ -5645,6 +5665,7 @@ daftarslotqq.site
 daftartogelk.lol
 daftartogelonline.xyz
 daftartoto.online
+daftartotok.lol
 daftarzonakerabatslot.sbs
 dagotogel.click
 dagototok.lol
@@ -5789,6 +5810,7 @@ danatotoku301x.cyou
 danatotoku302x.cyou
 danatotoku303x.cyou
 danatotoku304x.cyou
+danatotoku305x.cyou
 danatotoku306x.cyou
 danatotoku355x.cyou
 danatotoku419x.cyou
@@ -6004,10 +6026,12 @@ deltaslot88populer.xyz
 deltaslot88princess.xyz
 deltaslot88rtpbest.xyz
 deltaslot88tangguh.xyz
+deltaslot88terbaik.xyz
 deltaslot88terbaru.xyz
 deltaslot88terbesar.xyz
 deltaslot88terkendali.xyz
 deltaslot88terpanas.xyz
+deltaslot88terpercaya.xyz
 deltatogel.click
 deltatotok.lol
 delunatogelk.lol
@@ -6019,6 +6043,7 @@ demookkslot777.top
 demoslot.bond
 demoslot1000.org
 demoslot128j.site
+demoslot404.com
 demoslot77.lol
 demoslot777.net
 demoslot7777.org
@@ -6101,6 +6126,7 @@ detikslot888disana.top
 detikslot888disini.help
 detikslot888disini.sbs
 detikslot888disini.top
+detikslot888z.com
 detikslot889.com
 detiktogelk.lol
 detiktoto-alt.site
@@ -6584,6 +6610,7 @@ ducatitogellogin.vip
 ducatitogelslot777.site
 ducatitotok.lol
 duchessslot.xyz
+dudazeus.site
 duit169slot.club
 duitslot777.com
 dukatitogelk.lol
@@ -6609,6 +6636,7 @@ duniaslot777.xyz
 duniaslot88super.xyz
 duniaslotj200m.world
 duniatogel777.club
+duniatogel777k.com
 duniatoto-orca.online
 duniavipstirtoto.site
 duoalertpay.xyz
@@ -6988,6 +7016,7 @@ evostotowde299x.cyou
 evostotowde300x.cyou
 evostotowde301x.cyou
 evostotowde302x.cyou
+evostotowde303x.cyou
 evostotowde304x.cyou
 evostotox32wde.site
 evostotox39pro.site
@@ -7059,6 +7088,7 @@ exototoku112x.cyou
 exototoku113x.cyou
 exototoku114x.cyou
 exototoku115x.cyou
+exototoku116x.cyou
 expatslot.xyz
 expertpedia.online
 expertplatform.xyz
@@ -7285,6 +7315,7 @@ fullalertpay.xyz
 fullslot-168.com
 fullslot168.co
 fulltoto.xyz
+fultogelk.lol
 fultoto.click
 fultotok.lol
 fungame-777rtp.top
@@ -7390,6 +7421,7 @@ gacor181.org
 gacor188.app
 gacor188.xyz
 gacor188a.com
+gacor188f.com
 gacor188gokil777.xyz
 gacor189.com
 gacor189.net
@@ -7572,6 +7604,7 @@ gacor777z.com
 gacor77alternatif.xyz
 gacor77bgt.xyz
 gacor77jpx221.live
+gacor77jpx223.live
 gacor77jpx224.live
 gacor77wdx043.site
 gacor77wdx044.site
@@ -7681,6 +7714,8 @@ gacorhoki136jp.live
 gacorhoki137jp.live
 gacorhoki138jp.live
 gacorhoki142jp.live
+gacorhoki154jp.live
+gacorhoki162jp.live
 gacorhoki165jp.live
 gacorhoki185jp.live
 gacorhoki195jp.live
@@ -8580,6 +8615,7 @@ hargatotoku119x.cyou
 hargatotoku120x.cyou
 hargatotoku121x.cyou
 hargatotoku122x.cyou
+hargatotoku123x.cyou
 hargatotoku124x.cyou
 hargatotoslot777.site
 hargatotox22sipp.site
@@ -8608,6 +8644,7 @@ harumslotfix.site
 harumslotslash-lp01.online
 harumslotslash.online
 harumslotzvkp.site
+harumtogelk.lol
 harumtoto.online
 harumtoto.xyz
 harus777slot.com
@@ -8691,6 +8728,7 @@ heroslot88tangguh.xyz
 heroslot88terkendali.xyz
 heroslot88topline.xyz
 herotogel.online
+herotogelk.lol
 hexatoto.click
 hexatotobwzf.site
 hexatotozvuk.site
@@ -8845,10 +8883,12 @@ hokinew189rtp.sbs
 hokinew189rtp.xyz
 hokislot168.info
 hokislot333.org
+hokislot365d.com
 hokislot798.me
 hokislot88aa.top
 hokitoto.click
 hokitoto12.online
+hokoslotk.lol
 hoktoto1xit.site
 hoktoto2xit.site
 holaslot.lol
@@ -8883,6 +8923,8 @@ hometogelwdx061.site
 hometogelwdx062.site
 hometogelwdx063.site
 hometogelwdx064.site
+hometogelwdx074.live
+hometogelwdx075.live
 hometoto.xyz
 homtogel.xyz
 honda777slot.net
@@ -9023,6 +9065,7 @@ hongtogel7mhb.cfd
 hongtogelxmdn.site
 hongtogelxskw.site
 hongtotok.lol
+hontogelk.lol
 hopengslot.xyz
 hopengtoto4k.lol
 hopengtotologin2026.com
@@ -9162,6 +9205,7 @@ hujantotoku232x.cyou
 hujantotoku233x.cyou
 hujantotoku234x.cyou
 hujantotoku235x.cyou
+hujantotoku236x.cyou
 hujantotoku237x.cyou
 hujantotokuhoki.site
 hujantotomn.site
@@ -9220,6 +9264,7 @@ idamantoto131jp.site
 idamantoto304fox.live
 idamantoto305max.site
 idamantoto6yh.cfd
+idamantoto86gr.sbs
 idamantoto8ghb.sbs
 idamantoto9bc.sbs
 idamantoto9cv.sbs
@@ -9839,6 +9884,7 @@ jago33slot777.site
 jago777gacor.work
 jagoan123slot.com
 jagoantogelk.lol
+jagoantoto.online
 jagoantotok.lol
 jagoledakhxmaxwin.site
 jagoledakjbslot.site
@@ -10028,6 +10074,7 @@ jayaslot4droam.site
 jayaslot7jpx.site
 jayaslot8jp.site
 jayaslot8jpx.site
+jayaslot97.online
 jayaslotandroid.xyz
 jayaslotapk.xyz
 jayaslotk.lol
@@ -10121,6 +10168,7 @@ jhonslotlink-t.online
 jhonslotlink-w.online
 jhonslotmaskar.online
 jhonslotthysryo.online
+jientotok.lol
 jili333slotapp.click
 jili333slotslogin.click
 jili777slot.site
@@ -10221,6 +10269,7 @@ jnetotoku112x.cyou
 jnetotoku113x.cyou
 jnetotoku114x.cyou
 jnetotoku115x.cyou
+jnetotoku116x.cyou
 jnetotoku117x.cyou
 jnetotologin.xyz
 jnetotoslot777.site
@@ -10260,6 +10309,7 @@ jokerslotsonline.click
 jokerslotz999.asia
 jokerslotz999.club
 jokerslotz999c.store
+jokertogelk.lol
 jokislot168.com
 jokislot777.net
 jokitotok.lol
@@ -10646,6 +10696,7 @@ juraganslot.click
 juragantogel.site
 jurnaltoto.top
 jurutoto.online
+jurutotok.lol
 justogel.xyz
 jutawanbet-slot.online
 jutawantoto.click
@@ -10722,6 +10773,7 @@ kakek303gpx.live
 kakek303jtk.live
 kakek303mex.site
 kakek303qvr.site
+kakek303rup.live
 kakek303sun.site
 kakek303tosn.site
 kakek303vikh.site
@@ -11020,6 +11072,7 @@ kaskustoto8nj.site
 kaskustoto8uj.cfd
 kaskustoto905jpx.site
 kaskustoto915jpx.site
+kaskustoto93oo.site
 kaskustoto960jpx.site
 kaskustoto964.site
 kaskustoto97jpx.site
