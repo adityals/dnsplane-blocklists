@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 24 Aug 2026 18:44 UTC
-# Version: 2026.0824.1844.09
+# Last modified: 25 Aug 2026 01:21 UTC
+# Version: 2026.0825.0121.24
 # Syntax: Domains (without subdomains)
-# Number of entries: 16704
+# Number of entries: 16732
 #
 007slots.pro
 01jamuslot.click
@@ -9922,6 +9922,7 @@ jamet123slot.com
 jamin777slot.com
 jamintoto.xyz
 jamintotosukses.click
+jamtogel178.com
 jamtogeljp.site
 jamtogelwin.site
 jamur4drtp.vip
@@ -10030,6 +10031,7 @@ jayaslot8jp.site
 jayaslot8jpx.site
 jayaslotandroid.xyz
 jayaslotapk.xyz
+jayaslotk.lol
 jayaslotwin.site
 jayatogel888.org
 jayatotok.lol
@@ -10220,6 +10222,7 @@ jnetotoku112x.cyou
 jnetotoku113x.cyou
 jnetotoku114x.cyou
 jnetotoku115x.cyou
+jnetotoku117x.cyou
 jnetotologin.xyz
 jnetotoslot777.site
 jnetotowd771jp.lat
@@ -10484,6 +10487,7 @@ jualtotoku232x.cyou
 jualtotoku233x.cyou
 jualtotoku234x.cyou
 jualtotoku235x.cyou
+jualtotoku236x.cyou
 jualtotoku250jta.site
 jualtotoku260jta.site
 jualtotoku270jp.site
@@ -10859,6 +10863,7 @@ kangtoto8080cool.site
 kangtoto889aa.site
 kangtotobumi.site
 kangtotohoki138.click
+kangtotojhg.site
 kangtotojp123.click
 kangtotojp50.lol
 kangtotok368jp.site
@@ -10916,6 +10921,7 @@ kangtotoku119x.cyou
 kangtotoku776jp.site
 kangtotoku777jp.site
 kangtotometa.site
+kangtotomqz.site
 kangtotonxa.site
 kangtotopulsa.site
 kangtotosik.click
@@ -10993,6 +10999,7 @@ kaskustoto45jp.site
 kaskustoto467.lat
 kaskustoto46jp.site
 kaskustoto499jpx.site
+kaskustoto4zxa.sbs
 kaskustoto500id.shop
 kaskustoto508jpx.site
 kaskustoto576.cfd
@@ -11257,6 +11264,7 @@ ketuaslotnomor1.xyz
 ketuatoto.online
 ketuatoto15.site
 ketuatoto4ua.site
+ketuatotofvkr.site
 ketuatotojkt.site
 ketuatotojme.site
 ketuatotojmo.site
@@ -11423,6 +11431,7 @@ kingdomtotoxsup.site
 kingdomtotozo.site
 kinggacor188.org
 kinggame365-slot888.com
+kinghorsetoto09gg.sbs
 kinghorsetoto5ghj.sbs
 kinghorsetoto6dg.site
 kinghorsetoto6ed.sbs
@@ -12294,6 +12303,7 @@ linetogel888.org
 lingkartoto.online
 lingkartotoawk.site
 lingkartotonvr.site
+lingkartotovan.site
 lingkartotoxel.site
 lingtogel77.click
 lingtogel88.lol
@@ -12720,6 +12730,7 @@ m3toto.xyz
 m88slot.online
 mabarslot123.com
 mabestogel.xyz
+mabok888slot.com
 macanslot138x.co
 macanslotk.lol
 macantogel.click
@@ -12903,6 +12914,7 @@ mahjong50000.com
 mahjong5001.com
 mahjong500apk.com
 mahjong500app.com
+mahjong500bet.com
 mahjong500i.com
 mahjong500p.com
 mahjong500q.com
@@ -12969,16 +12981,21 @@ mahjongjp777.org
 mahjongjp88.click
 mahjongjp882kdnoshit.site
 mahjongjp88anps.site
+mahjongjp88at.site
 mahjongjp88black1.site
 mahjongjp88capts1.site
 mahjongjp88cworld.site
 mahjongjp88doint.site
+mahjongjp88fd.site
 mahjongjp88fmt.site
 mahjongjp88freshmilk.site
 mahjongjp88jams.site
 mahjongjp88nyaw.site
 mahjongjp88spray.site
 mahjongjp88student.site
+mahjongjpe168.space
+mahjongjpe178.space
+mahjongjpxslo128.space
 mahjongkencana.online
 mahjonglucky550.site
 mahjonglucky551.site
@@ -13030,29 +13047,40 @@ mahjongx101jp.live
 mahjongx122jp.live
 mahjongx127jt.site
 mahjongx138jp.site
+mahjongx176rf.live
+mahjongx184tr.live
 mahjongx202jp.live
 mahjongx225jp.live
 mahjongx234jp.live
+mahjongx238krt.live
 mahjongx238rav.site
 mahjongx255jp.live
 mahjongx265jp.live
+mahjongx268van.live
 mahjongx293jp.site
 mahjongx309jp.live
 mahjongx333jp.site
+mahjongx356pa.live
 mahjongx357kb.site
 mahjongx368jp.site
 mahjongx408jp.live
+mahjongx427jp.live
 mahjongx433jp.site
 mahjongx458pg.site
 mahjongx458vr.site
 mahjongx482gy.site
 mahjongx492tr.site
 mahjongx545jp.live
+mahjongx560jp.live
+mahjongx561jpe.space
 mahjongx565jp.live
 mahjongx576yg.site
 mahjongx583jp.site
 mahjongx585jp.site
 mahjongx591jp.site
+mahjongx595jp.live
+mahjongx596jp.live
+mahjongx597jp.live
 mahjongx600jp.live
 mahjongx601jp.live
 mahjongx602jp.live
