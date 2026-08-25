@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 25 Aug 2026 03:52 UTC
-# Version: 2026.0825.0352.41
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 25 Aug 2026 06:52 UTC
+# Version: 2026.0825.0652.20
 # Syntax: Domains (without subdomains)
-# Number of entries: 16725
+# Number of entries: 16737
 #
 007slots.pro
 01jamuslot.click
@@ -2897,6 +2897,7 @@ arwanatoto.click
 arwanatoto.top
 arwanatoto7772win.site
 arwanatoto879.site
+arwanatoto8886win.site
 arwanatotov3d.site
 as388slot.club
 asbaktotok.lol
@@ -7759,6 +7760,7 @@ gacorslot138-neo.click
 gacorslot138-neo.lol
 gacorslot138a.com
 gacorslot138ofc.xyz
+gacorslot138prime.click
 gacorslot168.xyz
 gacorslot555gc.cyou
 gacorslot777gc.cyou
@@ -10329,6 +10331,7 @@ jonitoto123jp.site
 jonitoto123pg.site
 jonitoto7772.site
 jonitoto889fix.live
+jonitotox77723.site
 jontogelk.lol
 jontotok.lol
 jordan777slot.net
@@ -12095,6 +12098,7 @@ lapakgacor2.top
 lapakmahjong-official.online
 lapakslot138.in
 lapakslot777.bet
+lapakslot8886win.site
 lapaktoto121jp.site
 lapaktoto131jp.site
 lapaktoto141jp.site
@@ -12408,6 +12412,7 @@ linkslot777vietutara.org
 linkslot777world.org
 linkslot888.net
 linkslotbolatangkas.xyz
+linkslotcuan3541.site
 linkslotcuan589.site
 linkslotcuan590.site
 linkslotcuan741.site
@@ -12743,6 +12748,7 @@ macauslot188daftar.icu
 macauslot188daftar.site
 macauslot188id.com
 macauslot188soft.com
+macauslot188yuhuy.site
 macototok.lol
 madalatotoqvbl.site
 madetoto.click
@@ -13873,6 +13879,7 @@ mineraltoto363.site
 mineraltoto365.site
 mineraltoto366.site
 minislot7772.site
+minislotx77723.site
 minitoto123.site
 minitoto256gil.site
 minkfarmtavern.com
@@ -14468,6 +14475,7 @@ pgslotlucky634.site
 pgslotlucky920.site
 pgslotwin5501.site
 pgslotwin5502.site
+piontogels8886win.site
 pirototocxdw1972.xyz
 pisang123rtp.xyz
 pisang777slot.vip
@@ -15292,6 +15300,7 @@ slot666.online
 slot666.vip
 slot7000.click
 slot7000plus.site
+slot700k.lol
 slot7500.xyz
 slot775.vip
 slot77755acuan.site
@@ -15551,6 +15560,8 @@ slotify808kuat.xyz
 slotindolucky550.site
 slotjago777.xyz
 slotjpcuan1509.site
+slotjpcuan1648.site
+slotjpcuan7262.site
 slotjpcuan819.site
 slotjplucky321.site
 slotjplucky436.site
@@ -16645,6 +16656,7 @@ zeus138tqr.site
 zeus138tqt.site
 zeus138tqu.site
 zeus138tqw.site
+zeus138tqx.site
 zeus138tqy.site
 zeus138wa.site
 zeus138wb.site
