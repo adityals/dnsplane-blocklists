@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 25 Aug 2026 01:21 UTC
-# Version: 2026.0825.0121.24
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 25 Aug 2026 03:52 UTC
+# Version: 2026.0825.0352.41
 # Syntax: Domains (without subdomains)
-# Number of entries: 16732
+# Number of entries: 16725
 #
 007slots.pro
 01jamuslot.click
@@ -1774,7 +1774,6 @@ air168slot.games
 air188slot.com
 air303slot.net
 airbet88-gacor.xyz
-airport.thereandhome.com
 airportpark365.com
 airportparking-fukuoka.site
 airportpass.xyz
@@ -4967,7 +4966,6 @@ casino2azartplay-365.xyz
 casino388slot.org
 casino7slot-fjb.site
 casino7slot-gvf.site
-casino7slots.top
 casinobaccaratslots.xyz
 casinofridayslots.xyz
 casinoinjapanslots.xyz
@@ -7323,7 +7321,6 @@ g2slot168zx.ink
 g666slot.app
 g76toto-bambu.site
 g76toto-east.site
-g76toto-inces.site
 g76toto-lemacao.site
 g76toto-luckyspin1.online
 g76toto-pop.site
@@ -10631,7 +10628,6 @@ juleslotoke.site
 juleslotviral.site
 juliet4dtoto3.site
 jumboslot.top
-jumboslot168.com
 jumboslot7777.net
 jumboslotssonline.site
 jumbototo.xyz
@@ -12731,7 +12727,6 @@ m88slot.online
 mabarslot123.com
 mabestogel.xyz
 mabok888slot.com
-macanslot138x.co
 macanslotk.lol
 macantogel.click
 macaoslotjaya.xyz
@@ -16697,10 +16692,8 @@ zeus138wz.site
 zeus138xlv.site
 zeus139wdx039.site
 zeus181gob.xyz
-zeus1995.xyz
 zeus200blacks.site
 zeus222.xyz
-zeus2701.xyz
 zeus3476.xyz
 zeus777.site
 zeus800-naik.xyz
