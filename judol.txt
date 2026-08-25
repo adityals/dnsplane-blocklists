@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 25 Aug 2026 12:51 UTC
-# Version: 2026.0825.1251.13
+# Last modified: 25 Aug 2026 18:42 UTC
+# Version: 2026.0825.1842.37
 # Syntax: Domains (without subdomains)
-# Number of entries: 16790
+# Number of entries: 16830
 #
 007slots.pro
 01jamuslot.click
@@ -11481,6 +11481,7 @@ kingdomtotoxsap.site
 kingdomtotoxsrt.site
 kingdomtotoxsup.site
 kingdomtotozo.site
+kingeshatoto.site
 kinggacor188.org
 kinggame365-slot888.com
 kinghorsetoto09gg.sbs
@@ -11514,6 +11515,7 @@ kingslot999.bet
 kingtoto4d.online
 kingtoto66.online
 kingtoto78aksesmasuk.xyz
+kingtrektoto.site
 kinitotowin88.online
 kios888slot.com
 kiostoto228.org
@@ -11540,8 +11542,10 @@ kjgslot396.xyz
 kjtoto.vip
 kkslot-777demo.top
 kkslot.xyz
+kkslot747.com
 kkslot777.today
 kkslot7775.com
+kkslot777ai.com
 kkslot777axis.top
 kkslot777big.top
 kkslot777biru.com
@@ -11559,6 +11563,7 @@ kkslot777h.com
 kkslot777halo.top
 kkslot777hooki.top
 kkslot777hope.top
+kkslot777host.com
 kkslot777jayaa.top
 kkslot777joss.top
 kkslot777juara.top
@@ -11578,6 +11583,7 @@ kkslot777o.com
 kkslot777ok.com
 kkslot777opes.top
 kkslot777ora.top
+kkslot777pro.com
 kkslot777proo.top
 kkslot777raja.top
 kkslot777raya.org
@@ -11598,6 +11604,7 @@ kkslot777zen.top
 kkslot777zena.top
 kkslot777zora.top
 kkslot778.net
+kkslot787.com
 kkslots.site
 kkslots777.mobi
 kl108slotqris.com
@@ -12220,6 +12227,7 @@ latotoku116x.cyou
 latotoku117x.cyou
 latotoku118x.cyou
 latotoku119x.cyou
+latotoku121x.cyou
 latotolink.xyz
 latotomaxwin.site
 latotonxa.site
@@ -12241,6 +12249,7 @@ lawastoto.xyz
 lawu88slotx25.vip
 lawu88slotx26.vip
 lawu88slotx27.vip
+lawu88slotx30.vip
 layanangacor.online
 layargokil-paitoto.lol
 layarslotn.online
@@ -12252,6 +12261,7 @@ lcctogelk.lol
 ldtoto.xyz
 lebah4d-slot4dterbaik.xyz
 lebahtoto.top
+ledak188slot.net
 ledak388slot.club
 ledakslot.click
 ledakslot.online
@@ -12355,6 +12365,7 @@ linetogel771xjp.lat
 linetogel888.org
 lingkartoto.online
 lingkartotoawk.site
+lingkartotobix.site
 lingkartotonvr.site
 lingkartotovan.site
 lingkartotoxel.site
@@ -12399,6 +12410,7 @@ linkbonanzaslot88.xyz
 linkdaftaridealtoto.online
 linkfftotoo.xyz
 linkgacor188.com
+linkgacor188h.space
 linkgacorabis.site
 linkgacorbolatangkas.xyz
 linkgacorcaspo777.xyz
@@ -12643,6 +12655,7 @@ longtogel.click
 longtogel.top
 losari88livertp.xyz
 lototogelk.lol
+lotototok.lol
 lottotogel.top
 lovingtoto168wb.xyz
 ltcslot.xyz
@@ -12969,11 +12982,16 @@ mahjong5001.com
 mahjong500apk.com
 mahjong500app.com
 mahjong500bet.com
+mahjong500h.com
 mahjong500i.com
 mahjong500p.com
 mahjong500q.com
 mahjong500s.com
 mahjong500slot.com
+mahjong500u1.com
+mahjong500u2.com
+mahjong500u4.com
+mahjong500u5.com
 mahjong505.club
 mahjong55.site
 mahjong600.org
@@ -13110,6 +13128,8 @@ mahjongx238krt.live
 mahjongx238rav.site
 mahjongx255jp.live
 mahjongx265jp.live
+mahjongx268far.live
+mahjongx268rqp.live
 mahjongx268van.live
 mahjongx293jp.site
 mahjongx309jp.live
@@ -13157,10 +13177,18 @@ mahjongx618jp.live
 mahjongx619jp.live
 mahjongx651dw.site
 mahjongx654sr.site
+mahjongx659jp.live
+mahjongx663jp.live
 mahjongx666jp.site
+mahjongx672jp.live
+mahjongx674jp.live
+mahjongx675jp.live
 mahjongx678jp.site
+mahjongx681jp.live
+mahjongx683jp.live
 mahjongx686jp.site
 mahjongx691jp.site
+mahjongx693jp.live
 mahjongx693jp.site
 mahjongx695jp.live
 mahjongx700jp.live
@@ -13256,17 +13284,23 @@ malang303slot.com
 malitoto.online
 malitoto.xyz
 malitotonews2026.xyz
+malukutotopro88.site
 malukutotox63wind.site
 malukutotox64win.site
+malukutotoxtop45.site
+malukutotoxwd37.site
 malukutotoxwin63.site
 malukutotoxwin64.site
 malukutotoxwin65.site
+mama777slot.org
 mamamia.indiandelights.es
 mamboslot.top
 mamen123rtp-vip.xyz
 mami123slot.net
 manadototo3sx.site
 manadototo4cf.sbs
+mandalatogelk.lol
+mandalatoto.site
 mandalatoto.xyz
 mandalatoto318gil.site
 mandalatoto318gt.site
@@ -13296,6 +13330,7 @@ maniatoto.vip
 manisan.emn2025.com
 manjaslot88max.site
 mansiontogel.click
+mantap555rtp.com
 mantra55maxwin.site
 mantraslot.site
 mantraslot.xyz
@@ -13307,6 +13342,8 @@ mariatogel.click
 mariatogel189xit.site
 mariatogel88.xyz
 mariatogel888.club
+mariatogelan1.site
+mariotogelk.lol
 mariototo.click
 markastoto1.site
 markastoto11.site
@@ -13359,12 +13396,15 @@ maskertoto.xyz
 maskot168slot.com
 maslot168x.click
 massagemanggatoto.site
+masterslot158.com
+masterslot158.org
 masterslot365.org
 masterslot88asli.top
 masterslot88new.top
 masterslot88sbs.top
 masterslot88winn.site
 masterslot99.top
+masterslot99rush.site
 masterslot99vip.top
 mastertogel.cfd
 mastertogel335hub.site
