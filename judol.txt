@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 25 Aug 2026 18:42 UTC
-# Version: 2026.0825.1842.37
+# Last modified: 26 Aug 2026 01:24 UTC
+# Version: 2026.0826.0124.47
 # Syntax: Domains (without subdomains)
-# Number of entries: 16830
+# Number of entries: 16870
 #
 007slots.pro
 01jamuslot.click
@@ -13540,6 +13540,8 @@ mawartotojg.site
 mawartotojhq.site
 mawartotoji.site
 mawartotojo.site
+mawartotojpx221.live
+mawartotojpx223.live
 mawartotojs.site
 mawartotojy.site
 mawartotoke.site
@@ -13557,6 +13559,7 @@ mawartotonwzu.site
 mawartotookd.site
 mawartotopa.site
 mawartotopaps.site
+mawartotopew.site
 mawartotopf.site
 mawartotopg.site
 mawartotopj.site
@@ -13584,6 +13587,7 @@ mawartotorv.site
 mawartotorx.site
 mawartotorz.site
 mawartotos.xyz
+mawartotoshf.site
 mawartotosj.site
 mawartotoslot.xyz
 mawartotoud.site
@@ -13619,6 +13623,11 @@ mawartotowdx061.site
 mawartotowdx062.site
 mawartotowdx063.site
 mawartotowdx064.site
+mawartotowdx068.live
+mawartotowdx069.live
+mawartotowdx070.live
+mawartotowdx071.live
+mawartotowdx072.live
 mawartotowdx305.site
 mawartotowdx688.site
 mawartotowdx727.site
@@ -13651,10 +13660,12 @@ maxbetslots-2018.xyz
 maxbetslotsy2.xyz
 maxconcertphotography.online
 maximtoto.vip
+maxslot.click
 maxslot188slot.com
 maxslot889xptc.site
 maxslot88bright.xyz
 maxslot88spark.xyz
+maxslotk.lol
 maxslotsbet-thj.site
 maxslotsbet-vwj.site
 maxslotsbet.top
@@ -13758,6 +13769,8 @@ maxwin147uuy.site
 maxwin149ooi.site
 maxwin151svx.site
 maxwin168.mobi
+maxwin168x.cloud
+maxwin168z.asia
 maxwin169.org
 maxwin178eu.sbs
 maxwin178he.sbs
@@ -13767,6 +13780,7 @@ maxwin1947.com
 maxwin2025.icu
 maxwin228.info
 maxwin228.xyz
+maxwin288.asia
 maxwin288.vip
 maxwin2882.com
 maxwin2888.com
@@ -13777,12 +13791,14 @@ maxwin288t.com
 maxwin302xhoki.site
 maxwin303.click
 maxwin3039.com
+maxwin303bos.com
 maxwin303e.com
 maxwin305xhoki.site
 maxwin306xhoki.site
 maxwin309xhoki.site
 maxwin333.vip
 maxwin365.online
+maxwin369.com
 maxwin388.xyz
 maxwin500.asia
 maxwin500.click
@@ -13837,6 +13853,7 @@ maxwin816xhoki.site
 maxwin888.best
 maxwin888.mobi
 maxwin888.online
+maxwin88s.online
 maxwin88spesial.xyz
 maxwin88team.lol
 maxwin930xhoki.site
@@ -13880,10 +13897,12 @@ maxwin988.org
 maxwin988xhoki.site
 maxwin989xhoki.site
 maxwin996.app
+maxwinbosx.online
 maxwingacor101.shop
 maxwingacor102.shop
 maxwinguncel2026.cfd
 maxwinguncelgir-2026.icu
+maxwinhgo66y.site
 maxwinhub.online
 maxwinlucky550.site
 maxwinn945.com
@@ -13903,6 +13922,7 @@ maxwinzeus.xyz
 mayaquestslotsand.top
 mayaquestslotsios.top
 mayoraslot138.com
+mayoratogelk.lol
 mazda303slot.com
 mazoslot-pro.online
 mazoslot88qd.site
@@ -13920,6 +13940,9 @@ mazoslotqh.site
 mazoslotqj.site
 mazoslotqk.site
 mazoslotql.site
+mazoslotqmo.site
+mazoslotqmr.site
+mazoslotqmy.site
 mazoslotqz.site
 mb99-slot888.com
 mbahtoto.click
@@ -13927,13 +13950,19 @@ mbaktoto.xyz
 mbgacor999.site
 mbggacorenak.online
 mbl.goldenappliancerepair.com
+mbotogelk.lol
+mc888slot.net
 mc888slots.com
 mcd.burgersontherun.com
+me356slot.net
 me777slot.click
+medalitotok.lol
 meetang168-slot.online
 mega118rtp.online
 mega288rtp.site
+mega303slot.info
 mega388maxwin.site
+mega888slot.win
 megaslot188.xyz
 megaslot288.icu
 megaslot288.xyz
@@ -13944,11 +13973,22 @@ megaslotlucky551.site
 megaslotlucky552.site
 megaslotlucky553.site
 megasloto500.site
+megaslotoku120x.cyou
+megaslotoku121x.cyou
+megaslotoku122x.cyou
+megaslotoku123x.cyou
+megaslotoku124x.cyou
+megaslotoku125x.cyou
+megaslotoku126x.cyou
+megaslotoku127x.cyou
+megawin777slot.net
+melayutotok.lol
 members.maestheticsofgeorgetown.com
 memorial.exercitpopular.org
 menangslot777.online
 menangtogelmuara777.online
 menara1889rtp.site
+mentogelk.lol
 menu-kitchen.rhodeskitchen.com
 menu.ellocomexicancafe.com
 menu.gothamcitypizzas.com
