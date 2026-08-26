@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 26 Aug 2026 06:53 UTC
-# Version: 2026.0826.0653.45
+# Last modified: 26 Aug 2026 12:55 UTC
+# Version: 2026.0826.1255.43
 # Syntax: Domains (without subdomains)
-# Number of entries: 16879
+# Number of entries: 16904
 #
 007slots.pro
 01jamuslot.click
@@ -104,23 +104,30 @@
 1121slotidentity.shop
 1121slotimpact.shop
 1121slotimpactt.shop
+1121slotjj.com
 1121slotkey.shop
 1121slotkeyy.shop
+1121slotkk.com
 1121slotl.com
 1121slotmain.shop
 1121slotmaster.shop
 1121slotmasterr.shop
 1121slotmatrix.shop
+1121slotmm.com
 1121slotnative.shop
 1121slotnetwork.shop
+1121slotnn.com
 1121slotofc.lol
 1121slotofcc.lol
 1121slotofficial.lol
 1121slotofficiall.lol
 1121slotofficials.lol
+1121slotoo.com
 1121slotorigin.shop
 1121slotpeakmax.shop
+1121slotpp.com
 1121slotq.com
+1121slotqq.com
 1121slotreal.lol
 1121slotreall.lol
 1121slotregis.lol
@@ -141,6 +148,7 @@
 1121slotstreamm.shop
 1121slotsxx1.cyou
 1121slotsxx2.cyou
+1121slotsxx3.cyou
 1121slotsystemm.shop
 1121slott.com
 1121slottrue.shop
@@ -646,6 +654,7 @@
 303hokislot.com
 303pediagacorr.live
 303slot.online
+303slotz.com
 30jilislot.click
 3126slot.xyz
 3126slota.com
@@ -696,6 +705,7 @@
 365slott.com
 365zkslot.com
 369slot.biz
+369superslot.life
 369superslotm.biz
 369superslott.net
 369zkslot.com
@@ -715,6 +725,7 @@
 380slotmpo.com
 380slotr.com
 380slotterbaik.com
+380slotu.com
 380slotv.com
 388slot.club
 388slot.co
@@ -1672,6 +1683,7 @@ ag777slotsgame.com
 agacor180.site
 agacor180.store
 agacoren-haberler.xyz
+agam69-rtppro3.click
 agam69rtppp.lol
 agam69slot.xyz
 agavtoto303.com
@@ -14986,13 +14998,16 @@ rtp-maxwin138.xyz
 rtp-newraja328.online
 rtp-newraja328.xyz
 rtp-nobi138.site
+rtp-paito234.xyz
 rtp-roda777.xyz
 rtp-slot.cuddlememontessorischool.com
 rtp-slot.eddievarelaformayor.com
 rtp-slot.rtpedia.com
 rtp1001.xyz
+rtp108.top
 rtp10pragmatic777.xyz
 rtp123indomantap.xyz
+rtp138k.lol
 rtp2-dewigacor178.vip
 rtp2-kenzo188.xyz
 rtp2-prada188.xyz
@@ -15033,6 +15048,7 @@ rtpasiawin168.xyz
 rtpastina333gacor.xyz
 rtpautobot7788.xyz
 rtpbaru2024.xyz
+rtpbento123top.click
 rtpberita138maxwin.xyz
 rtpbisnis555.vip
 rtpbola369sgcr.top
@@ -15116,6 +15132,7 @@ rtprekor777.online
 rtps152.top
 rtpsatset138.xyz
 rtpsensa303.xyz
+rtpsip777siap.site
 rtpsisil4dwin500.xyz
 rtpsky123almon.xyz
 rtpsky123cermai.xyz
@@ -15140,6 +15157,8 @@ rtpsuster123mantap3.top
 rtpto1.joelhformayor.com
 rtptoge123c.click
 rtptoto123.sbs
+rtptumi123lgn.xyz
+rtptumi123tr.lol
 rtpug234main.online
 rtpusaha188-live.xyz
 rtpvegas338.site
@@ -15513,6 +15532,9 @@ slot777x.xyz
 slot777xgoal55.site
 slot777xgoal552.site
 slot777xgoal553.site
+slot777xpr1.site
+slot777xpr2.site
+slot777xpr3.site
 slot777xsip5.online
 slot777xtop1.online
 slot777xtop2.online
@@ -15673,6 +15695,7 @@ slothoke654jp.site
 slothoke763jp.site
 slothoki108.xyz
 slothoki109.xyz
+slothoki110.xyz
 slothoki123.site
 slothoki128.xyz
 slothoki369.site
@@ -16075,6 +16098,7 @@ toto-slot-togel158-4d-link-situs-togel.issanwineroom.com
 toto.cornixcoffee.com
 toto.dailydosecafenyc.com
 toto100.click
+toto1000k.lol
 toto111.site
 toto112.vip
 toto120.vip
@@ -16760,6 +16784,7 @@ zeus138hnr.site
 zeus138hnt.site
 zeus138hnw.site
 zeus138hvx.site
+zeus138maskinca.vip
 zeus138mb.site
 zeus138mc.site
 zeus138mh.site
