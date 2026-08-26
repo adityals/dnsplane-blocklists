@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 26 Aug 2026 01:24 UTC
-# Version: 2026.0826.0124.47
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 26 Aug 2026 03:56 UTC
+# Version: 2026.0826.0356.47
 # Syntax: Domains (without subdomains)
-# Number of entries: 16870
+# Number of entries: 16866
 #
 007slots.pro
 01jamuslot.click
@@ -2542,7 +2542,6 @@ amprakyatslot.online
 ampresmigentingtoto.click
 ampresmigentingtoto.online
 ampresmigentingtoto.vip
-ampresmigentingtoto.xyz
 ampsitusgacor.xyz
 ampslot10k.site
 ampslotdp10k.site
@@ -4148,7 +4147,6 @@ bkslot888.net
 bkslot888.org
 bkslots.xyz
 bkslotx.click
-blablaslot777.ru
 blackjack777slot.com
 blacktogelkamkam.site
 blacktotok.lol
@@ -5488,7 +5486,6 @@ crazymonkeyslot.site
 crazyrichslot.lol
 crazyslot777slot.com
 crazyslots.top
-criartpapelaria.online
 crimsoncrazeslots.online
 croatwinslot.xyz
 crownslotsvip.vip
@@ -8404,7 +8401,6 @@ groupvpn-theslot777.lol
 groupvpn-theslot777.xyz
 grtoto.click
 grtplay.xyz
-grtpv.cfd
 grup-lapakmahjong.xyz
 gruptoto.xyz
 gs88gampangmaxwin.cfd
