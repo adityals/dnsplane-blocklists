@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 26 Aug 2026 03:56 UTC
-# Version: 2026.0826.0356.47
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 26 Aug 2026 06:53 UTC
+# Version: 2026.0826.0653.45
 # Syntax: Domains (without subdomains)
-# Number of entries: 16866
+# Number of entries: 16879
 #
 007slots.pro
 01jamuslot.click
@@ -43,6 +43,7 @@
 1000togel.org
 1000toto.site
 1000toto2.org
+1000totok.lol
 1001sloting.art
 1001togelbebek.vip
 1001togelsep.online
@@ -1727,6 +1728,7 @@ agenslot188id.com
 agenslot188now.site
 agenslot188org.com
 agenslot188ori.com
+agenslot188power.top
 agenslot188space.top
 agenslot368.com
 agenslot388.net
@@ -6859,6 +6861,7 @@ evostoto101jpx.site
 evostoto123.shop
 evostoto123hot.lol
 evostoto138.shop
+evostoto213ak.site
 evostoto258ag.site
 evostoto258ah.site
 evostoto258as.site
@@ -7357,6 +7360,7 @@ g76toto-rtp1.online
 g76toto-sedap.site
 g76toto-spain.site
 g76toto.xyz
+g76toto1000.site
 g76totolobang.site
 gacha138slot.com
 gachaslot.xyz
@@ -7793,6 +7797,7 @@ gacorslot138-neo.lol
 gacorslot138a.com
 gacorslot138ofc.xyz
 gacorslot138prime.click
+gacorslot138prime.xyz
 gacorslot168.xyz
 gacorslot555gc.cyou
 gacorslot777gc.cyou
@@ -10764,9 +10769,11 @@ kakek3038tre.site
 kakek3038viip.site
 kakek3038wdd.site
 kakek3039q2zr.site
+kakek303bvr.site
 kakek303dnwe.site
 kakek303gpx.live
 kakek303jtk.live
+kakek303lqw.site
 kakek303mex.site
 kakek303qvr.site
 kakek303rup.live
@@ -10774,6 +10781,7 @@ kakek303sun.site
 kakek303tosn.site
 kakek303vikh.site
 kakek303wqr.live
+kakek303zfm.site
 kakek305wdl.live
 kakek307ice.site
 kakek307jet.site
@@ -12809,6 +12817,7 @@ macauslot188.top
 macauslot188daftar.icu
 macauslot188daftar.site
 macauslot188id.com
+macauslot188rajeg.site
 macauslot188soft.com
 macauslot188yuhuy.site
 macototok.lol
@@ -13716,6 +13725,7 @@ maxwin138fikke.site
 maxwin138fix.site
 maxwin138fixd.site
 maxwin138fixdi.site
+maxwin138fixdl.site
 maxwin138fixdo.site
 maxwin138fixgg.site
 maxwin138fixhe.site
@@ -13735,6 +13745,7 @@ maxwin138fxbc.site
 maxwin138fxcc.site
 maxwin138fxch.site
 maxwin138fxdg.site
+maxwin138fxdlo.site
 maxwin138fxgcr.site
 maxwin138fxgd.site
 maxwin138fxje.site
@@ -13784,6 +13795,7 @@ maxwin288id.com
 maxwin288rp.com
 maxwin288slot.com
 maxwin288t.com
+maxwin289xit.site
 maxwin302xhoki.site
 maxwin303.click
 maxwin3039.com
@@ -14124,6 +14136,7 @@ mposlot1221.site
 mposlot303.site
 mposlot777.online
 mudahmaxwin138.xyz
+muliatoto137xit.site
 muliatoto457web.site
 mxrtppagoda127.site
 mylannaspa.com
