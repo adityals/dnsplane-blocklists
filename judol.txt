@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 27 Aug 2026 21:57 UTC
-# Version: 2026.0827.2157.03
+# Last modified: 28 Aug 2026 10:08 UTC
+# Version: 2026.0828.1008.29
 # Syntax: Domains (without subdomains)
-# Number of entries: 16991
+# Number of entries: 17016
 #
 007slots.pro
 01jamuslot.click
@@ -736,6 +736,7 @@
 388slot.co
 388togel.org
 389togel.com
+389togelk.lol
 38rp888slot.club
 391m-situsslot777.shop
 396clubslot.club
@@ -1143,6 +1144,7 @@
 777slotwin5504.site
 777slotwin5589.site
 777toto.xyz
+777totok.lol
 777wwcasinoslots.info
 7788toto.org
 778slotbank.com
@@ -4386,9 +4388,13 @@ bobatoto51gsm.site
 bobatoto51hyu.site
 bobatoto52chc.site
 bobatoto53chc.site
+bobatoto591jp.site
+bobatoto593jp.site
 bobatoto599jpx.site
 bobatoto5ugd1.site
 bobatoto5ugd2.site
+bobatoto620jp.site
+bobatoto624jp.site
 bobatoto626jpx.site
 bobatoto696x.site
 bobatoto707jpx.site
@@ -4761,6 +4767,7 @@ bung168slot.com
 bungaslot.click
 bungaslot4.online
 bungaslot5.online
+bungaslot88827.site
 bungaslotone.online
 bungaslotone.xyz
 buntogel-4d.online
@@ -5799,6 +5806,7 @@ danatoto451lix.live
 danatoto451vip.live
 danatoto52jp.site
 danatoto599jpx.site
+danatoto721wf.site
 danatoto777.guru
 danatoto777.website
 danatoto789.org
@@ -7542,6 +7550,7 @@ gacor300enjoy.click
 gacor300livertp.xyz
 gacor300rtp.click
 gacor300slot.com
+gacor300top.click
 gacor303a.com
 gacor305.vip
 gacor305.xyz
@@ -8187,6 +8196,7 @@ gengtoto777.com
 gengtoto777.net
 gengtoto888.xyz
 gengtotoku121jp.site
+gengtotoku123.site
 gengtotoku203x.cyou
 gengtotoku204x.cyou
 gengtotoku205x.cyou
@@ -8247,6 +8257,8 @@ gengtotoku288.site
 gengtotoku289.site
 gengtotoku290.site
 gengtotoku291.site
+gengtotoku345.site
+gengtotoku456.site
 gengtotowdx046.site
 gengtotowdx047.site
 gengtotowdx048.site
@@ -10301,6 +10313,7 @@ jnetoto166xjp.site
 jnetoto281jpx.site
 jnetoto283jpx.site
 jnetoto296xit.site
+jnetoto297it.site
 jnetoto304jjk.live
 jnetoto309jpx.site
 jnetoto313jpx.site
@@ -10750,6 +10763,7 @@ judolcol303.xyz
 judoldom303.xyz
 judolegr303.xyz
 judolele303.xyz
+judolgle303.xyz
 judolhoki88.click
 judolian303.xyz
 judolkiw303.xyz
@@ -12907,6 +12921,7 @@ macauslot188daftar.site
 macauslot188id.com
 macauslot188rajeg.site
 macauslot188soft.com
+macauslot188virgo.site
 macauslot188yuhuy.site
 macototok.lol
 madalatotoqvbl.site
@@ -13849,6 +13864,7 @@ maxwin138fxkn.site
 maxwin138fxko.site
 maxwin138fxkz.site
 maxwin138fxnl.site
+maxwin138fxrm.site
 maxwin138fxsip.site
 maxwin138fxtop.site
 maxwin138fxzen.site
@@ -14007,6 +14023,7 @@ maxwinn945.com
 maxwins945.com
 maxwinsahamtoto.online
 maxwinslot55acuan.site
+maxwinslot828dh99.site
 maxwinslotcuan55b.site
 maxwinslotcuan55c.site
 maxwinslotdh9922.site
@@ -14670,6 +14687,7 @@ peh888slot.xyz
 pelangi388pragmatic.xyz
 pelangi388rtp-1.xyz
 pelangitoto888ayo.site
+pelangitoto888ctey.site
 pelangitoto888link.xyz
 pelangitoto888rx.xyz
 pelita888slot.vip
@@ -14685,6 +14703,7 @@ pertiwitoto399ssg.site
 pertiwitoto399ssq.site
 petir.roccityramen.org
 petir138maxwin.site
+petir388rtpbaru.xyz
 petirindozeus168.xyz
 pewaristoto888s.site
 pewe128rtpga.online
@@ -14799,6 +14818,7 @@ pragmatic138elg.site
 pragmatic138eli.site
 pragmatic138eqf.site
 pragmatic138eqh.site
+pragmatic138eqj.site
 pragmatic138equ.site
 pragmatic138flg.site
 pragmatic138fli.site
@@ -15146,6 +15166,7 @@ rtpbackwso138.online
 rtpbaru2024.xyz
 rtpbento123top.click
 rtpberita138maxwin.xyz
+rtpberlian889job.xyz
 rtpbisnis555.vip
 rtpbola369sgcr.top
 rtpbtv168.xyz
@@ -15230,6 +15251,7 @@ rtpsatset138.xyz
 rtpsensa303.xyz
 rtpsip777siap.site
 rtpsisil4dwin500.xyz
+rtpsitusbata123.xyz
 rtpsky123almon.xyz
 rtpsky123cermai.xyz
 rtpsky123kelapa.xyz
@@ -15250,6 +15272,7 @@ rtpslottrabas007.xyz
 rtpsuster123mantap1.top
 rtpsuster123mantap2.top
 rtpsuster123mantap3.top
+rtpterpercaya-us188.xyz
 rtpto1.joelhformayor.com
 rtptoge123c.click
 rtptoto123.sbs
@@ -15470,6 +15493,7 @@ situsgacor942xjp.site
 situsgacor999.site
 situsgacorx13460.site
 situslot777.click
+situsslot749dh99.site
 situsslot777-yume.site
 situsslot777.click
 situsslot777jpmax.site
@@ -15557,6 +15581,7 @@ slot666.online
 slot666.vip
 slot7000.click
 slot7000plus.site
+slot7000zrp.site
 slot700k.lol
 slot7500.xyz
 slot775.vip
