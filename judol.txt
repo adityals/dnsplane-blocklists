@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 29 Aug 2026 06:07 UTC
-# Version: 2026.0829.0607.31
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 29 Aug 2026 09:53 UTC
+# Version: 2026.0829.0953.40
 # Syntax: Domains (without subdomains)
-# Number of entries: 17119
+# Number of entries: 17112
 #
 007slots.pro
 01jamuslot.click
@@ -176,7 +176,6 @@
 1121slotyzz7.cyou
 1122slot.co
 1122slot.xyz
-1122slotgg.com
 1131ggslot.net
 1162xslot.org
 1166xslot.com
@@ -185,7 +184,6 @@
 116xslot.org
 11layaktoto.click
 11rtproyal228.xyz
-11slot.site
 12-malaysia-slot.online
 12-malaysia-slot.vip
 1211slot.com
@@ -3768,7 +3766,6 @@ bayutoto1111-link.com
 bayutoto1111.com
 bayutotoqjem.site
 bb789slot.org
-bb7rtp.xyz
 bbfstoto.click
 bbfstotoslot.click
 bbjslot.online
@@ -3914,7 +3911,6 @@ berjayatogelzvup.site
 berjayatotok.lol
 berkah123slot.com
 berkahslot.xyz
-berkahslotmqarf.site
 berkahslotvjor.site
 berkawantotomain.xyz
 berkawantotomain1.xyz
@@ -5190,7 +5186,6 @@ casinoslotsjavaplay88.xyz
 casinoslotsoncasi.xyz
 casinoslotsvisabet88.xyz
 casinoslotun.vip
-casinosuperslots.site
 casinosuperslots.xyz
 casinotogelk.lol
 casinototo.online
@@ -9941,7 +9936,6 @@ indototo.click
 indototooke.online
 indovip138slot.com
 indowlatoto.xyz
-indoxslot.click
 indoxslot.online
 indra188slot.com
 indratogel124.bet
@@ -12289,7 +12283,6 @@ kyototo-2.sbs
 kyototo-2.site
 kyrgyzslot-online.site
 l7slot.click
-l82b0-iwrpx-mqartp.xyz
 laba138slot.org
 laba33gacor.xyz
 labtoto005.com
