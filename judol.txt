@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 30 Aug 2026 09:04 UTC
-# Version: 2026.0830.0904.56
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 30 Aug 2026 11:29 UTC
+# Version: 2026.0830.1129.49
 # Syntax: Domains (without subdomains)
-# Number of entries: 17248
+# Number of entries: 17279
 #
 007slot.cam
 007slots.pro
@@ -3159,6 +3159,7 @@ asialive88mahjong.site
 asialive88rtppro.sbs
 asian4dslot.vip
 asianslot777.com
+asianslot777.online
 asianslot88.click
 asianslot888.org
 asiantogelk.lol
@@ -3733,6 +3734,7 @@ basket168slot.art
 basket188slot.com
 baslot168.app
 bassbetslots.online
+bata123-rtp.lol
 bata123slot.info
 batamtoto.click
 batangtoto.click
@@ -4168,6 +4170,7 @@ bigslot288xyz6.cyou
 bigslot288xyz7.cyou
 bigslot289.com
 bigslot777.mobi
+bigslot777.online
 bigslot88.online
 bigslot88.vip
 bigtogelk.lol
@@ -4539,6 +4542,9 @@ bobatoto620jp.site
 bobatoto624jp.site
 bobatoto626jpx.site
 bobatoto628jp.site
+bobatoto651jp.site
+bobatoto653jp.site
+bobatoto659jp.site
 bobatoto696x.site
 bobatoto707jpx.site
 bobatoto736jpx.site
@@ -6456,6 +6462,7 @@ dewaslot.click
 dewaslot168.online
 dewaslot288.com
 dewaslot365.org
+dewaslot389.vip
 dewaslot389.xyz
 dewaslot389masuk.top
 dewaslot88.xyz
@@ -9530,6 +9537,7 @@ hukumtoto.click
 hukumtotoko855jp.site
 hukumtotoko856jp.site
 hulk123slot.net
+humas-rtp0828.online
 humas-rtp2026.store
 humastogel.click
 humastogel.online
@@ -10077,6 +10085,7 @@ ini72gacor889.xyz
 ini73gacor889.xyz
 ini74gacor889.xyz
 ini75gacor889.xyz
+ini76gacor889.xyz
 ini777slot.com
 inibogetoto.xyz
 inid3tiktoto.xyz
@@ -10530,6 +10539,7 @@ jnetoto313jpx.site
 jnetoto321xjp.site
 jnetoto368xit.site
 jnetoto369jpx.site
+jnetoto369kuza.site
 jnetoto499jpx.site
 jnetoto508jpx.site
 jnetoto515xjp.site
@@ -12588,6 +12598,7 @@ legendolympusgate.click
 legendolympuszone.click
 legendslot888.pro
 legions138slot.com
+lego138rtpbaru.xyz
 leidervoortproguide.click
 lektotofxrm.site
 lelyonslotsfrnew.sbs
@@ -13514,6 +13525,9 @@ mahjongx703jp.live
 mahjongx704jp.live
 mahjongx747jp.site
 mahjongx768jp.site
+mahjongx777asite.site
+mahjongx777bwin.site
+mahjongx777cslot.site
 mahjongx777jp.live
 mahjongx778jp.live
 mahjongx779jp.live
@@ -14047,6 +14061,8 @@ maxwin138fixjz.site
 maxwin138fixkc.site
 maxwin138fixnd.site
 maxwin138fixni.site
+maxwin138fixog.site
+maxwin138fixor.site
 maxwin138fixpol.site
 maxwin138fixwd.site
 maxwin138fixwiz.site
@@ -14234,6 +14250,7 @@ maxwins945.com
 maxwinsahamtoto.online
 maxwinslot55acuan.site
 maxwinslot828dh99.site
+maxwinslot829dh99.site
 maxwinslotcuan55b.site
 maxwinslotcuan55c.site
 maxwinslotdh9922.site
@@ -14288,6 +14305,7 @@ mega288rtp.site
 mega303slot.info
 mega388maxwin.site
 mega888slot.win
+mega888xmaxwin.site
 megaslot188.xyz
 megaslot288.icu
 megaslot288.xyz
@@ -14913,6 +14931,7 @@ pertiwitoto399kp.site
 pertiwitoto399ssd.site
 pertiwitoto399ssg.site
 pertiwitoto399ssq.site
+petanitoto325xit.site
 petir.roccityramen.org
 petir138maxwin.site
 petir388rtpbaru.xyz
@@ -15341,6 +15360,7 @@ rtp2-prada188.xyz
 rtp2026.top
 rtp2027.top
 rtp228.xyz
+rtp25ratu212.online
 rtp288.top
 rtp2bata123.click
 rtp365888.xyz
@@ -15435,6 +15455,7 @@ rtpnaga188timun.xyz
 rtpnaga188wortel.xyz
 rtpnew-raja328.online
 rtpnex777bagus.site
+rtpola777slot.site
 rtpompong188mt.click
 rtpompong188mt.online
 rtposg888.site
@@ -15448,7 +15469,9 @@ rtpparis123ceri.xyz
 rtpparis123kelapa.xyz
 rtpparis123plum.xyz
 rtpparis123timun.xyz
+rtppisang123.lol
 rtppisang123.vip
+rtppisang123.xyz
 rtppjackpot-168.top
 rtppocketslot777.xyz
 rtppoker365ku.xyz
@@ -15483,6 +15506,7 @@ rtpslot404mantul.xyz
 rtpslotify808.xyz
 rtpslotmahkota188.xyz
 rtpslottrabas007.xyz
+rtpsuster123.click
 rtpsuster123mantap1.top
 rtpsuster123mantap2.top
 rtpsuster123mantap3.top
@@ -15490,6 +15514,8 @@ rtpterpercaya-us188.xyz
 rtpto1.joelhformayor.com
 rtptoge123c.click
 rtptoto123.sbs
+rtptumi123.click
+rtptumi123.lol
 rtptumi123lgn.xyz
 rtptumi123tr.lol
 rtpug234main.online
@@ -15500,6 +15526,7 @@ rtpvipdewa688.lol
 rtpvirtu-lg367.xyz
 rtpvvipjackpot888.xyz
 rtpwede388.xyz
+rtpwin805x500.online
 rtpwong138.xyz
 rtpwso138.online
 rtpwso138.site
@@ -15582,6 +15609,7 @@ scatter333gun.site
 scatter333gwo.site
 scatter333itu.site
 scatter333iyh.site
+scatter333kgb.site
 scatter333ku.bond
 scatter333lee.site
 scatter333max.online
@@ -15757,6 +15785,7 @@ slot138-pro.vip
 slot138.click
 slot1381.site
 slot138terpercaya.xyz
+slot138zone.vip
 slot161.xyz
 slot1688.cfd
 slot177.xyz
@@ -15806,6 +15835,7 @@ slot777a.lol
 slot777a.sbs
 slot777a.xyz
 slot777adp.site
+slot777ajp.site
 slot777alt.site
 slot777angkot.site
 slot777awd.site
@@ -15894,6 +15924,7 @@ slot883tr.sbs
 slot885vip.lol
 slot887cv.site
 slot888-alternatif2.xyz
+slot888.lol
 slot8881.online
 slot88855acuan.site
 slot8888.xyz
