@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 30 Aug 2026 04:14 UTC
-# Version: 2026.0830.0414.47
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 30 Aug 2026 09:04 UTC
+# Version: 2026.0830.0904.56
 # Syntax: Domains (without subdomains)
-# Number of entries: 17256
+# Number of entries: 17248
 #
 007slot.cam
 007slots.pro
@@ -4370,7 +4370,6 @@ bitungtotok.lol
 biwmurtpr.xyz
 bizm-slots.cfd
 bk333slot.com
-bk888slot.net
 bkslot.click
 bkslot888.com
 bkslot888.net
@@ -4794,7 +4793,6 @@ botuna123slot.com
 bountyslot.site
 boutta.clarityupstate.org
 bowototo.click
-bowototoalt.online
 boy303slot.org
 boyabet888slot.com
 boytoto.xyz
@@ -5151,8 +5149,6 @@ cancertoto.xyz
 candu123slot.com
 candu189slot.com
 caneloslots.site
-canertpzasus.xyz
-canertpznesine.xyz
 canneslottery.online
 cantikmahjong.xyz
 cantiktoto.xyz
@@ -7044,7 +7040,6 @@ emastoto720jpx.site
 emastoto721jpx.site
 emastoto722jpx.site
 emaswin-slot.online
-emirtpk123cio.xyz
 emototo.click
 emototo.site
 empire188slot.world
@@ -15768,8 +15763,6 @@ slot177.xyz
 slot178.xyz
 slot188-cool2.xyz
 slot1888.xyz
-slot2024alo.xyz
-slot2024milyon.xyz
 slot2026.cfd
 slot212.click
 slot222.top
@@ -15780,7 +15773,6 @@ slot3000.xyz
 slot321.online
 slot333.click
 slot333.top
-slot3337vip.xyz
 slot356.xyz
 slot365.vip
 slot3651.online
