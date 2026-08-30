@@ -2,10 +2,10 @@
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
 # Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 30 Aug 2026 16:16 UTC
-# Version: 2026.0830.1616.18
+# Last modified: 30 Aug 2026 20:43 UTC
+# Version: 2026.0830.2043.42
 # Syntax: Domains (without subdomains)
-# Number of entries: 17321
+# Number of entries: 17371
 #
 007slot.cam
 007slots.pro
@@ -4154,6 +4154,7 @@ bgslot789.pro
 bgslot789.website
 bgslot789x.click
 bgslots.xyz
+bhslotk.lol
 biangtoto.click
 biaya138slot.com
 bibirtoto.click
@@ -4292,6 +4293,7 @@ birutoto258wd.site
 birutoto2kdnoshit.site
 birutoto2rt.site
 birutoto303x.site
+birutoto34zz.site
 birutoto3edr.cfd
 birutoto45bnf.sbs
 birutoto4cv.site
@@ -4312,6 +4314,7 @@ birutotocworld.site
 birutotodsa.site
 birutotofaq.site
 birutotofreshmilk.site
+birutotogo811jxp.live
 birutotojams.site
 birutotokaw2.site
 birutotoko100.live
@@ -4413,6 +4416,9 @@ bkslots.xyz
 bkslotx.click
 blackjack777slot.com
 blacktogelkamkam.site
+blacktogelsi189.com
+blacktogelsi503.com
+blacktogelsi742.com
 blacktotok.lol
 blitzslotted.xyz
 blog13asiatogel88.xyz
@@ -4605,6 +4611,7 @@ bobatoto88idn.site
 bobatoto88xwd.site
 bobatoto8ggh.sbs
 bobatoto8ic.site
+bobatoto8ws.cfd
 bobatoto905jpx.site
 bobatoto915jpx.site
 bobatoto919x.site
@@ -4707,6 +4714,7 @@ bonanza288vbslot.site
 bonanza338lbslot.site
 bonanzaslot88.vip
 bonanzaslot88id.sbs
+bonanzasltcslot.site
 bonaslot-ajaib.xyz
 bonaslotkaw2.site
 bonbon138slot.club
@@ -4747,11 +4755,17 @@ borneototo.lol
 borneototo.xyz
 borneototok.lol
 bos288toto.club
+bos5000slot.asia
 bos5000slot.net
 bos898slot.net
 bosan.beachsidebounce.com
 bosgacor.click
+bosgacorair.site
+bosgacorgorden.site
+bosgacorkaca.site
+bosgacorsaklar.site
 bosgacorsekat.site
+bosgacorterbaik.top
 bosku777slot.net
 boslot628.xyz
 bosmahjong.top
@@ -4827,6 +4841,7 @@ botoltotoreal.lol
 botoltotoreall.lol
 botoltotoregis.lol
 botoltotoregistt.lol
+botoltotox89kuza.site
 botuna123slot.com
 bountyslot.site
 boutta.clarityupstate.org
@@ -5034,6 +5049,7 @@ cahayatoto117jpx.site
 cahayatoto281jpx.site
 cahayatoto309jpx.site
 cahayatoto313jpx.site
+cahayatoto34hh.site
 cahayatoto369jpx.site
 cahayatoto37jpx.site
 cahayatoto499jpx.site
@@ -5196,6 +5212,7 @@ cantiktotoasli.lol
 cantiktotoseru.xyz
 cantiktotoxihoki.site
 cantiktotoxiwins.site
+cantiktotozvuk.site
 cantonatoto.click
 cantonatoto.online
 capitalmcitytoto.site
@@ -5298,6 +5315,7 @@ casinoslot274.com
 casinoslot294.com
 casinoslot360.com
 casinoslotagiris.icu
+casinoslotclub.top
 casinoslotgir.icu
 casinoslotgiris.icu
 casinoslotgiris.top
@@ -5358,6 +5376,7 @@ cekslot719jpx.site
 cektogelk.lol
 cektoto168.com
 cektoto4d.xyz
+celatoto.online
 celenganslot.online
 celsius188slot.club
 cemara777slot.net
@@ -5378,6 +5397,7 @@ centergacor777.online
 centongtoto2026.com
 ceototo.xyz
 cepattotok.lol
+ceri123slot.pro
 ceri123slotlogin.com
 ceri128slots.com
 ceri388slotonline.com
@@ -5395,6 +5415,7 @@ ceritoto104.com
 ceritoto105.com
 cermin303slot.com
 cermintotok.lol
+cerututotok.lol
 cewekslot.click
 cfjamuslot.xyz
 cgacor200.com
@@ -5824,6 +5845,7 @@ cuan247rtpid.xyz
 cuan303slot.com
 cuan365slot.com
 cuan365slot.net
+cuan368slot.com
 cuan378slot.com
 cuan900slot.com
 cuanslot338.org
@@ -5886,6 +5908,7 @@ cucutotox52hokk.site
 cucutotox92king.site
 cucutotox93king.site
 cucutotoxgas86.site
+cucutotoxho11.site
 cucutotoxhok52.site
 cucutotoxhoku52.site
 cucutotoxhoku53.site
@@ -6037,6 +6060,7 @@ danatotojpx129.live
 danatotojpx311.live
 danatotojpx359.live
 danatotojpx806.live
+danatotojpx970.live
 danatotoko110jp.live
 danatotoko154jp.live
 danatotoko161jp.live
@@ -6133,6 +6157,7 @@ danatotoku308x.cyou
 danatotoku309x.cyou
 danatotoku310x.cyou
 danatotoku311x.cyou
+danatotoku312x.cyou
 danatotoku355x.cyou
 danatotoku419x.cyou
 danatotoku533x.cyou
@@ -6193,6 +6218,8 @@ dapurtotoxgcra1.site
 dapurtotoxgcra11.site
 dapurtotoxgcrs11.site
 dapurtotoxho5.site
+dapurtotoxki10.site
+dapurtotoxki6.site
 dapurtotoxpro29.site
 dapurtotoxtop44.site
 dapurtotoxtop45.site
@@ -6371,6 +6398,7 @@ demookkslot777.top
 demoslot.bond
 demoslot1000.org
 demoslot128j.site
+demoslot303.pro
 demoslot404.com
 demoslot77.lol
 demoslot777.net
@@ -6418,6 +6446,7 @@ deposit365slot.com
 depositslot.online
 deposlot.online
 deposlot1000.com
+deposlot77k.lol
 deposlot88.xyz
 deposlotk.lol
 depotogelk.lol
@@ -6759,6 +6788,7 @@ dolantogel5gg.site
 dolantogel5hn.site
 dolantogel5hyt.sbs
 dolantogel5jj.sbs
+dolantogel5sde.cfd
 dolantogel5se.cfd
 dolantogel5sx.cfd
 dolantogel5tg.cfd
@@ -6793,6 +6823,8 @@ dongengtoto.top
 donototo123shc.site
 donut.bakeryadda.com
 doraslot.xyz
+doratogelk.lol
+doratotok.lol
 doremi88-rtp.site
 doremislot99.xyz
 dori128slot.com
@@ -7018,10 +7050,12 @@ easyslot789.life
 easyslot88-th.xyz
 ebet123slot.com
 ebonitoto.vip
+ecatogelk.lol
 ecoalertpay.xyz
 ecomcartpilot.site
 ecosmartpestcontrol.site
 ectogelmaju.xyz
+ectotok.lol
 edatoto121jp.site
 edatoto131jp.site
 edatoto444.site
@@ -7059,6 +7093,7 @@ elexistogel.xyz
 elexistoto.xyz
 elk-slots.site
 elloslotkc.xyz
+elontotok.lol
 elpvtoto.vip
 eltoreothirlane.net
 elvankentotocekici.xyz
@@ -7114,6 +7149,7 @@ epictotobro.online
 epictotobro.site
 epictotodsa.site
 epictotoh169xit.site
+epictotost.online
 epicwin168slot.com
 epiktotok.lol
 epivtoto899.fit
@@ -7127,9 +7163,11 @@ eratotomedan.online
 eratotoresmi.xyz
 eropatotok.lol
 ertpkugas-367.site
+esatotok.lol
 escortpodyum1cdn.lol
 escortpremium.xyz
 escortputanycity.online
+eshatogelk.lol
 eshatoto.xyz
 eshatotoalternatif.site
 eshatotolagi.site
@@ -7312,6 +7350,11 @@ evostotoko288jp.live
 evostotoko289jp.live
 evostotoko290.live
 evostotoko291.live
+evostotoko341jp.live
+evostotoko342jp.live
+evostotoko345jp.live
+evostotoko353jp.live
+evostotoko376jp.live
 evostotowde254x.cyou
 evostotowde255x.cyou
 evostotowde256x.cyou
@@ -7362,6 +7405,12 @@ evostotowde301x.cyou
 evostotowde302x.cyou
 evostotowde303x.cyou
 evostotowde304x.cyou
+evostotowde305x.cyou
+evostotowde306x.cyou
+evostotowde307x.cyou
+evostotowde308x.cyou
+evostotowde309x.cyou
+evostotowde310x.cyou
 evostotox32wde.site
 evostotox39pro.site
 evostotox88proo.site
@@ -7397,6 +7446,7 @@ exetotox8jp.site
 exetotox9jp.site
 exetotoy7jp.site
 exotogel303hub.site
+exototo.online
 exototo.top
 exototo123.com
 exototo200.com
