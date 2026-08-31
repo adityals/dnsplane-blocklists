@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
-# Last modified: 31 Aug 2026 09:32 UTC
-# Version: 2026.0831.0932.37
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
+# Last modified: 31 Aug 2026 13:00 UTC
+# Version: 2026.0831.1300.46
 # Syntax: Domains (without subdomains)
-# Number of entries: 17414
+# Number of entries: 17442
 #
 007slot.cam
 007slots.pro
@@ -52,6 +52,7 @@
 1001slotnewver.info
 1001togelbebek.vip
 1001togelsep.online
+1001totoindo1.site
 1001winslot.net
 100cucislot.win
 100kslot.pro
@@ -1010,6 +1011,7 @@
 681slot.ws
 686slot.cam
 687slot.cam
+687slot.click
 687slots.net
 688slot.biz
 688slot.cam
@@ -1059,6 +1061,7 @@
 70pinasscatter.xyz
 711slot.bid
 711slot.onl
+711slot.site
 711slotmy.com
 711slots.net
 718slot.cam
@@ -1237,6 +1240,7 @@
 780slotbank.com
 781slotbank.com
 782slotbank.com
+786slot.click
 786slots.net
 789hk-slot.online
 789kwinslot.info
@@ -3783,6 +3787,7 @@ batikslot999.org
 batmangamegacor888.com
 batmantogelk.lol
 batmantoto0fgb.sbs
+batmantoto173jp.site
 batmantoto2bf.sbs
 batmantoto2ds.sbs
 batmantoto2kdnoshit.site
@@ -4454,6 +4459,7 @@ bobatoto112xjp.site
 bobatoto113xjp.site
 bobatoto117jpx.site
 bobatoto120jta.site
+bobatoto121bmd.site
 bobatoto121bqo.site
 bobatoto121brq.site
 bobatoto121btx.site
@@ -4539,6 +4545,7 @@ bobatoto23wed.site
 bobatoto258il.site
 bobatoto258qs.site
 bobatoto281jpx.site
+bobatoto291jp.site
 bobatoto295tgr.site
 bobatoto303x.site
 bobatoto309jpx.site
@@ -4580,6 +4587,7 @@ bobatoto626jpx.site
 bobatoto628jp.site
 bobatoto651jp.site
 bobatoto653jp.site
+bobatoto657jp.site
 bobatoto659jp.site
 bobatoto696x.site
 bobatoto707jpx.site
@@ -8651,6 +8659,7 @@ ggjudi88slot.top
 ggjudiakunslot.top
 ggjudijackpotslot.top
 ggjudislot303.top
+ggjudislot888.top
 ggjudislot99.top
 ggjudislot999.top
 ggjudislotgg.top
@@ -13120,6 +13129,8 @@ ltdtoto136.site
 ltdtoto137.site
 ltdtoto138.site
 ltdtoto139.site
+ltdtoto144jp.site
+ltdtoto145jp.site
 ltdtoto150.site
 ltdtoto151.site
 ltdtoto152.site
@@ -13654,6 +13665,8 @@ mahjongx768jp.site
 mahjongx777asite.site
 mahjongx777bwin.site
 mahjongx777cslot.site
+mahjongx777dplay.site
+mahjongx777ejackpot.site
 mahjongx777jp.live
 mahjongx778jp.live
 mahjongx779jp.live
@@ -13947,6 +13960,7 @@ mawartoto23ont.site
 mawartoto24ont.site
 mawartoto25on.site
 mawartoto2771.pro
+mawartoto281jp.site
 mawartoto3030.site
 mawartoto303hot.click
 mawartoto369hot.click
@@ -14209,6 +14223,7 @@ maxwin138fxjk.site
 maxwin138fxjn.site
 maxwin138fxjr.site
 maxwin138fxk.site
+maxwin138fxkin.site
 maxwin138fxkj.site
 maxwin138fxkk.site
 maxwin138fxkm.site
@@ -14591,7 +14606,9 @@ monperatoto131jp.site
 morototoiqpk1071.xyz
 morototojkqs7253.xyz
 morototolcwd9128.xyz
+morototopqwg3572.xyz
 morototoqywd5972.xyz
+morototouwvg9523.xyz
 motoslot777.xyz
 mozarella.talamospizzas.com
 mpo111gacor.top
@@ -15092,8 +15109,10 @@ pgslotwin5502.site
 piontogels8886win.site
 pirototocxdw1972.xyz
 pirototodwxa2953.xyz
+pirototoewdf8610.xyz
 pirototoiplw1678.xyz
 pirototovqwk1295.xyz
+pirototowqdg9751.xyz
 pisang123rtp.xyz
 pisang777slot.vip
 plngacor678.online
@@ -15486,6 +15505,7 @@ rtp2-prada188.xyz
 rtp2026.top
 rtp2027.top
 rtp228.xyz
+rtp24ratu212.online
 rtp25ratu212.online
 rtp288.top
 rtp2bata123.click
@@ -15493,6 +15513,7 @@ rtp365888.xyz
 rtp365slot25.online
 rtp3bonbon777.xyz
 rtp4-angkasa168.xyz
+rtp666k.lol
 rtp711antirungkad.xyz
 rtp777.xyz
 rtp787-ttm.xyz
@@ -15648,11 +15669,13 @@ rtpug234main.online
 rtpusaha188-live.xyz
 rtpvegas338.site
 rtpvio5000.vip
+rtpvip188.lol
 rtpvipdewa688.lol
 rtpvirtu-lg367.xyz
 rtpvvipjackpot888.xyz
 rtpwede388.xyz
 rtpwin805x500.online
+rtpwin805x500.site
 rtpwong138.xyz
 rtpwso138.online
 rtpwso138.site
@@ -16144,6 +16167,7 @@ slotcc789qe.site
 slotcc789qq.site
 slotcc789qr.site
 slotcc789qw.site
+slotcendanatoto7821.site
 slotceri123.xyz
 slotdana6603.xyz
 slotdayak777.site
@@ -16602,6 +16626,7 @@ toto123hot.lol
 toto123livebet.lol
 toto123new.lol
 toto123rmw.site
+toto123xgc17.site
 toto123xgc9.site
 toto123xho6.site
 toto123xpro43.site
@@ -16643,6 +16668,8 @@ toto13main111.site
 toto13xgoal552.site
 toto13xgoal553.site
 toto155.online
+toto166pal.site
+toto166ppf.site
 toto171.xyz
 toto178mpj.site
 toto188-bus.xyz
@@ -16745,6 +16772,7 @@ toto700xgas81.site
 toto700xgasi77.site
 toto700xgass77.site
 toto700xgcra11.site
+toto700xho17.site
 toto700xho9.site
 toto700xjp3.site
 toto700xking99.site
