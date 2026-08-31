@@ -1,11 +1,11 @@
 # Title: dnsplane — Judol Verified Blocklist
 # Description: Verified Indonesian gambling (judol) domains (>=2 HTTP markers). Served to the resolver.
 # Homepage: https://github.com/adityals/dnsplane
-# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js
-# Last modified: 31 Aug 2026 04:20 UTC
-# Version: 2026.0831.0420.00
+# Source: crt.sh + hagezi NRD, harvested by tools/job/harvest-judol.js, dead entries pruned by tools/job/sweep-judol.js
+# Last modified: 31 Aug 2026 09:32 UTC
+# Version: 2026.0831.0932.37
 # Syntax: Domains (without subdomains)
-# Number of entries: 17427
+# Number of entries: 17414
 #
 007slot.cam
 007slots.pro
@@ -872,7 +872,6 @@
 567-slotsin.com
 567slots.biz
 567slots.click
-567slots.online
 567slotse.com
 567slotsg.com
 567slotsid.com
@@ -1572,7 +1571,6 @@
 98totosxit.site
 98totox10.xyz
 999mahjong.com
-999sakautoto.id
 999slot-bangla.com
 999slot-jit.com
 999slot-khelo.com
@@ -5795,7 +5793,6 @@ covertpro.xyz
 covid-volvototo-daftar.online
 cpgtoto.xyz
 cq9slotkr.online
-cr7deolympus.site
 cr7olympus.site
 cratosslot-giris.icu
 cratosslot-tr.top
@@ -9560,7 +9557,6 @@ hrvslotpremium.online
 hslot200.com
 hslot200.store
 hstogelk.lol
-hsynozyurtpop.xyz
 hubtoto.click
 hugotogel.xyz
 hugototok.lol
@@ -11095,15 +11091,7 @@ judolbag303.xyz
 judolbai303.xyz
 judolbel303.com
 judolbet55acuan.site
-judolbet88bag.xyz
-judolbet88bla.xyz
-judolbet88dep.xyz
-judolbet88eps.xyz
-judolbet88fir.xyz
 judolbet88gra.xyz
-judolbet88nos.xyz
-judolbet88pin.xyz
-judolbet88pis.xyz
 judolbet88ram.xyz
 judolbet88rst.xyz
 judolbet88sca.xyz
@@ -15898,7 +15886,6 @@ slot-g2g639.lol
 slot-gacor--b-o-n-u-s----------100-amp.pages.dev
 slot-gacor--camar4444.pages.dev
 slot-gateof-1000.icu
-slot-pecah5000.click
 slot-qris-10k.arowanadigitalzone.com
 slot-qris-5k.ifws.org
 slot-server-kamboja.itommey.com
